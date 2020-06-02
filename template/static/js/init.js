@@ -5,16 +5,17 @@
 */
 
 (function($) {
+var origin = window.location.origin
 	skel.init({
 		reset: 'full',
 		breakpoints: {
 		//If in the future, I have to implement folder on the page, I'll have to insert the full path on the href load css static files
-			global: { href: 'static/css/style.css', containers: 1400, grid: { gutters: ['2em', 0] } },
-			xlarge: { media: '(max-width: 1680px)', href: 'static/css/style-xlarge.css', containers: 1200 },
-			large: { media: '(max-width: 1280px)', href: 'static/css/style-large.css', containers: 960, grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
-			medium: { media: '(max-width: 980px)', href: 'static/css/style-medium.css', containers: '90%', grid: { zoom: 2 } },
-			small: { media: '(max-width: 736px)', href: 'static/css/style-small.css', containers: '90%!', grid: { gutters: ['1.25em', 0], zoom: 3 } },
-			xsmall: { media: '(max-width: 480px)', href: 'static/css/style-xsmall.css' }
+			global: { href: origin + '/static/css/style.css', containers: 1400, grid: { gutters: ['2em', 0] } },
+			xlarge: { media: '(max-width: 1680px)', href: origin + '/static/css/style-xlarge.css', containers: 1200 },
+			large: { media: '(max-width: 1280px)', href: origin + '/static/css/style-large.css', containers: 960, grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
+			medium: { media: '(max-width: 980px)', href: origin + '/static/css/style-medium.css', containers: '90%', grid: { zoom: 2 } },
+			small: { media: '(max-width: 736px)', href: origin + '/static/css/style-small.css', containers: '90%!', grid: { gutters: ['1.25em', 0], zoom: 3 } },
+			xsmall: { media: '(max-width: 480px)', href: origin + '/static/css/style-xsmall.css' }
 		},
 		plugins: {
 			layers: {
