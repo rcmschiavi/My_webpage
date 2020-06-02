@@ -1,0 +1,120 @@
+
+<!DOCTYPE HTML>
+{% load static %}
+<html>
+	<head>
+		<title>Rodolfo Schiavi's page</title>
+		<link rel="shortcut icon" href="/static/images/thumbs.png"/>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="{% static 'css/ie/html5shiv.js' %}"></script><![endif]-->
+		<script src="{% static 'js/jquery.min.js' %}"></script>
+		<script src="{% static 'js/jquery.dropotron.min.js' %}"></script>
+		<script src="{% static 'js/jquery.scrollgress.min.js' %}"></script>
+		<script src="{% static 'js/jquery.scrolly.min.js' %}"></script>
+		<script src="{% static 'js/jquery.slidertron.min.js' %}"></script>
+		<script src="{% static 'js/skel.min.js' %}"></script>
+		<script src="{% static 'js/skel-layers.min.js' %}"></script>
+		<script src="{% static 'js/init.js' %}"></script>
+	</head>
+	<body class="landing">
+
+		<!-- Header -->
+			<header id="header" class="alt skel-layers-fixed">
+				<nav id="nav" style="margin-right:50px">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li>
+							<a href="" class="icon fa-angle-down">Projects</a>
+							<ul>
+								<li><a href="temperature_chart">Temperature chart</a></li>
+								<li><a href="my_plant">My plant</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<h2>Rodolfo Schiavi</h2>
+					<p>Webpage under construction</p>
+					<ul class="actions">
+						<li><a href="#one" class="button big scrolly">Know more</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="wrapper style1">
+				<div class="container">
+					<header class="major">
+						<h2>About the page</h2>
+						<p>I'm an almost Mechatronics Engineer and on this page I'll post some of my work.</p>
+					</header>
+					<div class="slider">
+						<span class="nav-previous"></span>
+						<div class="viewer">
+							<div class="reel">
+								<div class="slide">
+									<a href="temperature_chart"><img src="{% static 'images/pic_slide01.jpg' %}" alt="" /></a>
+								</div>
+								<div class="slide">
+									<img src="{% static 'images/pic_slide02.png' %}" alt="" />
+								</div>
+							</div>
+						</div>
+						<span class="nav-next"></span>
+					</div>
+				</div>
+			</section>
+
+
+		<!-- Three -->
+			<section id="three" class="wrapper style2">
+				<div class="container">
+					<header class="major">
+						<h2>Projects</h2>
+						<p>I'll post some projects involving IoT on this page.</p>
+					</header>
+					<div class="row">
+						<div class="4u 6u(2) 12u$(3)">
+							<article class="box post">
+								<a href="temperature_chart" class="image fit" style="border: 1px solid #cfcfcf;"><img src="{% static 'images/temperature_chart_img.png' %}" alt="" /></a>
+								<h3>Temperature dashboard</h3>
+								<p> In this project, I implemented a IoT device to collect temperature data and integrated it with a database to plot some beautiful charts. </p>
+								<ul class="actions">
+									<li><a href="temperature_chart" class="button" style="margin-top:15px">See More</a></li>
+								</ul>
+							</article>
+						</div>
+						<div class="4u 6u(2) 12u$(3)">
+							<article class="box post">
+								<a  class="image fit" style="border: 1px solid #cfcfcf;"><img src="{% static 'images/coming_soon.png' %}" alt="" /></a>
+								<h3>Upcoming</h3>
+								<p> An old air conditioner without remote control being turned on with MQTT.<br> </p>
+								<ul class="actions">
+									<li><a class="button" style="margin-top:15px">See More</a></li>
+								</ul>
+							</article>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer style= "background-color: #cfcfcf" id="footer">
+				<ul class="icons">
+					<li><a href="https://github.com/rcmschiavi"  target="_blank" class="icon fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="https://www.instagram.com/rodolfoschiavi/"  target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://www.facebook.com/rodolfo.schiavi.3"  target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				</ul>
+				<span class="copyright">
+					&copy; Copyright. All rights reserved. Design by <a target="_blank" href="http://www.html5webtemplates.co.uk">Responsive Web Templates</a><p>Images downloaded in <a target="_blank" href ="https://pixabay.com/">PixaBay</a></p>
+				</span>
+			</footer>
+
+	</body>
+</html>
