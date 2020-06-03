@@ -22,7 +22,18 @@
 
 		<!-- Header -->
 			<header id="header" class="alt skel-layers-fixed">
-				<div id="nav" style="margin-right:50px"></div>
+				<nav id="nav" style="margin-right:50px">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li>
+							<a href="" class="icon fa-angle-down">Projects</a>
+							<ul>
+								<li><a href="temperature_chart">Temperature chart</a></li>
+								<li><a href="my_plant">My plant</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
 			</header>
 
 		<!-- Banner -->
@@ -81,11 +92,11 @@
 						</div>
 						<div class="4u 6u(2) 12u$(3)">
 							<article class="box post">
-								<a  class="image fit" style="border: 1px solid #cfcfcf;"><img src="{% static 'images/agriculture/home_banner.jpg' %}" alt="" /></a>
+								<a  href="my_plant" class="image fit" style="border: 1px solid #cfcfcf;"><img src="{% static 'images/agriculture/home_banner.png' %}" alt="" /></a>
 								<h3>Plant sensing</h3>
 								<p> I added some sensors to my plant to make it talk to me when it needs water.<br> </p>
 								<ul class="actions">
-									<li><a class="button" style="margin-top:15px">See More</a></li>
+									<li><a href="my_plant" class="button" style="margin-top:15px">See More</a></li>
 								</ul>
 							</article>
 						</div>
@@ -105,12 +116,8 @@
 
 		<!-- Footer -->
 		<div id="footer" style="margin-right:50px"></div>
-
 	</body>
 <script>
-$.get("static/html/nav.html", function(data){
-    $("#nav").replaceWith(data);
-});
 $.get("static/html/footer.html", function(data){
     $("#footer").replaceWith(data);
 });
