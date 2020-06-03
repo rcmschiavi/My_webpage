@@ -17,10 +17,10 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.conf.urls import url
-from django.contrib import admin
-from django.urls import path
-from . import views
+from .proj_temperature_chart import api as temp_api
+from .proj_my_plant import api as plant_api
 
 urlpatterns = [
-    url('temperature_data', views.post_temperature, name='post_temp')
+    url('API/temperature_data', temp_api.post_temperature, name='post_temp'),
+    url('API/my_plant_data', plant_api.post_my_plant_data, name='post_agriculture_data'),
 ]

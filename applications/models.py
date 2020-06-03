@@ -12,7 +12,7 @@ class Temperature(models.Model):
        db_table = 'TEMPERATURE'
 
 
-class Agriculture_data(models.Model):
+class My_plant_data(models.Model):
     TEMPERATURE = models.DecimalField(max_digits=5, decimal_places=2)
     HUMIDITY = models.DecimalField(max_digits=5, decimal_places=2)
     MOISTURE = models.DecimalField(max_digits=5, decimal_places=2)
