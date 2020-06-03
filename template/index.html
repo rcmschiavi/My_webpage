@@ -22,18 +22,7 @@
 
 		<!-- Header -->
 			<header id="header" class="alt skel-layers-fixed">
-				<nav id="nav" style="margin-right:50px">
-					<ul>
-						<li><a href="/">Home</a></li>
-						<li>
-							<a href="" class="icon fa-angle-down">Projects</a>
-							<ul>
-								<li><a href="temperature_chart">Temperature chart</a></li>
-								<li><a href="my_plant">My plant</a></li>
-							</ul>
-						</li>
-					</ul>
-				</nav>
+				<div id="nav" style="margin-right:50px"></div>
 			</header>
 
 		<!-- Banner -->
@@ -92,6 +81,16 @@
 						</div>
 						<div class="4u 6u(2) 12u$(3)">
 							<article class="box post">
+								<a  class="image fit" style="border: 1px solid #cfcfcf;"><img src="{% static 'images/agriculture/home_banner.jpg' %}" alt="" /></a>
+								<h3>Plant sensing</h3>
+								<p> I added some sensors to my plant to make it talk to me when it needs water.<br> </p>
+								<ul class="actions">
+									<li><a class="button" style="margin-top:15px">See More</a></li>
+								</ul>
+							</article>
+						</div>
+						<div class="4u 6u(2) 12u$(3)">
+							<article class="box post">
 								<a  class="image fit" style="border: 1px solid #cfcfcf;"><img src="{% static 'images/coming_soon.png' %}" alt="" /></a>
 								<h3>Upcoming</h3>
 								<p> An old air conditioner without remote control being turned on with MQTT.<br> </p>
@@ -105,16 +104,15 @@
 			</section>
 
 		<!-- Footer -->
-			<footer style= "background-color: #cfcfcf" id="footer">
-				<ul class="icons">
-					<li><a href="https://github.com/rcmschiavi"  target="_blank" class="icon fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="https://www.instagram.com/rodolfoschiavi/"  target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="https://www.facebook.com/rodolfo.schiavi.3"  target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-				</ul>
-				<span class="copyright">
-					&copy; Copyright. All rights reserved. Design by <a target="_blank" href="http://www.html5webtemplates.co.uk">Responsive Web Templates</a><p>Images downloaded in <a target="_blank" href ="https://pixabay.com/">PixaBay</a></p>
-				</span>
-			</footer>
+		<div id="footer" style="margin-right:50px"></div>
 
 	</body>
+<script>
+$.get("static/html/nav.html", function(data){
+    $("#nav").replaceWith(data);
+});
+$.get("static/html/footer.html", function(data){
+    $("#footer").replaceWith(data);
+});
+</script>
 </html>
