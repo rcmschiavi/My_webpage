@@ -4,3 +4,4 @@
 /.idea/
 /applications/migrations/0001_initial.py
 /applications/migrations/0002_auto_20200603_1409.py
+/applications/migrations/0003_auto_20200603_1802.py
