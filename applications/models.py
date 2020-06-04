@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+
 
 class Temperature(models.Model):
     TEMPERATURE = models.DecimalField(max_digits=5, decimal_places=2)
