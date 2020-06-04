@@ -47,7 +47,7 @@
 			<section id="main" class="wrapper style1">
 				<header class="major">
 					<h2>Temperature Dashboard for IoT device</h2>
-					<p style="color:#842407">A small hobbist project involving Cloud and Electronics</p>
+					<p style="color:#800000">A hobbyist project involving Cloud and Electronics</p>
 				</header>
 				<div class="container">
 
@@ -58,33 +58,57 @@
 								<div id="chart_div"></div>
 							</div>
 							<br>
+							<h3>Last temperature acquired</h3>
+							  <b>Temperature: </b>
+							  <em id="temp"></em><br>
+							  <b>At: </b>
+							  <em id="time"></em>
 							<span>
 								<h2>What is this about!?</h2>
 								<span>
 									<p>    As a<small style="font-size:10px;">n almost</small> Mechatronics Engineer, I love to play around with IoT and electronics. So I decided to take this passion and implement it in my webpage, joining a real world thing, climate and temperature, with the virtual world.</p>
 									<p>    When you live in a place as hot as the state I grew up, you get used to complain about the hot wheather, but generally we actually don't know the temperature.</p>
-									<p>   Thanks to google and wheater services, nowadays it's easy to know how hot it is, but I'm very skeptical and decided to get the data by myself.</p>
+									<p>   Thanks to google and wheater services, nowadays it's easy to know how hot it is, but I'm very skeptic and decided to get the data by myself.</p>
 									<br>
 								</span>
 
 								<span class="image fit">
 									<img src="/static/images/temperature_chart/sckeptical_dog2.jpg" style="display: block;margin-left:auto;margin-right:auto;max-width:200px;" alt=""/>
-									<figcaption style="display: block;margin-left:auto;margin-right:auto;max-width:200px;"> -- My pal, the skeptical dog. --</figcaption>
+									<figcaption style="display: block;margin-left:auto;margin-right:auto;max-width:200px;"> -- My pal, the skeptic dog. --</figcaption>
 								</span>
 								<h2>How this <del style="font-size:20px;">useless</del> project was done?</h2>
 								<p style="display:none;"> Well, my dear. If you're still reading this, you're a brave and unoccupied guy or girl(or whatever gender you prefer).
 									I removed this using display none for now, because of a job interview and maybe this paragraph looks offensive, but I doubt someone will ever read this. I feel like working in a group school homework doing all the job and writing comments for my colleagues read, but knowing that no one will.</p>
-								<p> Let's deal with what really matters (or not that much) the project:</p>
-								<p> The project is divided in two main fronts, the IoT device, and its electronics, and some <span style="font-size:30px">☁</span>️ service (cloud service). So I'll divide this topic in those two subtopics.</p>
+								<p style="color:#800000;">Disclaimer:</p>
+								<p style="color:#800000;">My intention on this page is to provide simple explanations about this project. I'll avoid creating a huge text with too many technical details. Very soon, I'll create a blog session on this web page to provide more details and I'll link the posts here.</p>
+								<p> But let's deal with what really matters (or not that much) the project:</p>
+								<p>The project is divided in two main fronts, the IoT device, and its electronics, and some <span style="font-size:30px">☁</span>️ service (cloud service). So I'll divide this topic in those two subtopics.</p>
 								<h3>The IoT device and electronics</h3>
 								<p>In order to get this thing working, I used the following electronics:</p>
 								<ul>
-									<li><b style="color:red">ESP8266</b> - A very famous device for IoT prototyping, I used it to send the information to the cloud;</li>
-									<li><b style="color:red">DS18B20</b> - Water proof temperature sensor with a good precison, about ±0,5ºC;</li>
-									<li><b style="color:red">1KΩ resistor</b> - Required for the sensor.</li>
+									<li><b style="color:#800000">ESP8266</b> - A very famous device for IoT prototyping. I used it to collect and send the information to the cloud;</li>
+									<li><b style="color:#800000">DS18B20</b> - Water proof temperature sensor with a good precison, about ±0,5ºC;</li>
+									<li><b style="color:#800000">4.7KΩ pull-up resistor</b> - Required for the sensor.</li>
 								</ul>
+								<p> You can check how the components were wired up at the schematic bellow.</p>
+								<img src="/static/images/temperature_chart/schematics.png" style="display: block;margin-left:auto;margin-right:auto;max-width:800px;" alt=""/>
+								<figcaption style="display: block;margin-left:auto;margin-right:auto;max-width:200px;"> -- Electronic's schematic --</figcaption>
+								<br>
 								<h3>The cloud</h3>
-								<p>As you may noticed, I'm using python anywhere, Micro PaaS for Python web apps, with an easier setup than AWS, thus faster to deploy.</p>
+								<p>For the cloud service, I'm using python anywhere, Micro PaaS for Python web apps, with an easier setup than AWS, thus faster to deploy.</p>
+								<h4>The data storage</h4>
+								<p>So, behind the scenes, the ESP is sending posts to a specific url.
+									The data format is a json that carries the temperature information and a secret hash to avoid non desirable posts from someone trying to bother me.</p>
+								<p> After parsing the data and checking the hash, the temperature is stored at a SQL database with the SQL insertion time.</p>
+								<h4>The charts</h4>
+								<p> Charts make data look beautiful and human readable.
+									Thus, to show the data acquired during the day,
+									I plotted a chart, that you can see above, using <a href="https://developers.google.com/chart">google charts tools</a>.
+									Google charts uses Javascript along with Material design, a design language developed by google, to create beautiful and interactive charts.
+								</p>
+								<p>
+
+								</p>
 							</span>
 						</section>
 
@@ -108,6 +132,23 @@
 <script>
 
 callChart({{listData | safe}});
+
+</script>
+<script>
+addData()
+function addData() {
+        jQuery.getJSON("application/API/update_temperature", function(data, status)
+        {
+            var temp_atual = data.My_data.temp;
+            var horario = data.My_data.time;
+            //horario = Date(horario)
+            document.getElementById("temp").innerHTML = temp_atual + "°C ";
+            document.getElementById("time").innerHTML = horario + " (Local time - Timezone: -04:00)";
+        }
+        );
+}
+
+setInterval(addData,10000);
 
 </script>
 </html>
