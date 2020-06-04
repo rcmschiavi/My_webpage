@@ -1,3 +1,5 @@
 from django.contrib import admin
+from applications.models import Temperature, My_plant_data
 
-# Register your models here.
+admin.site.register(Temperature)
+admin.site.register(My_plant_data)
