@@ -17,8 +17,8 @@
 		<script src="/static/js/skel-layers.min.js"></script>
 		<script src="/static/js/init.js"></script>
 
-		<script src="static/js/chart_day.js" type="text/javascript"></script>
-		<script src="static/js/change_language.js" type="text/javascript"></script>
+		<script src="/static/js/language/change_language.js" type="text/javascript"></script>
+		<script src="/static/js/applications/chart_my_plant.js" type="text/javascript"></script>
 
 		<!-- Vue plus google charts -->
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -40,6 +40,7 @@
 								<li><a href="">My plant</a></li>
 							</ul>
 						</li>
+						<!--
 						<li>
 							<a href="" class="icon fa-angle-down">Language</a>
 							<ul>
@@ -47,7 +48,7 @@
 						  		<li><a class="lan_text" href='javascript:changeEn()'><img alt='EN' class="lan_img" src="static/images/icons/usa.png">English</a></li>
 							</ul>
 						</li>
-
+						-->
 
 
 					</ul>
@@ -125,49 +126,7 @@
 
 	</body>
 
- <script type="text/javascript">
-
- 	var listData = {{listData | safe}}
-      google.charts.load('current', {'packages':['line', 'corechart']});
-      google.charts.setOnLoadCallback(drawChart);
-
-      function drawChart() {
-        var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time of Day');
-		data.addColumn('number', 'Temperature');
-		data.addColumn('number', 'Humidity');
-		data.addColumn('number', 'Moisture');
-		data.addRows(listData);
-
-        var options = {
-          title: 'Average Temperatures and Daylight in Iceland Throughout the Year',
-        width: 900,
-        height: 500,
-        hAxis: {
-			  title: 'Time of Day',
-			  format: 'h:mm a',
-			  viewWindow: {
-				min: [-1, 30, 0],
-				max: [23, 30, 0]
-			  }},
-      series: {
-        0: {axis: 'Temperature'},
-        1: {axis: 'Humidity'},
-        2: {axis: 'Moisture'}
-      },
-      axes: {
-        y: {
-          Temperature: {label: '°C'},
-          Humidity: {label: '% rel'},
-          Moisture: {label: '[ ]'}
-        }
-      }
-      };
-
-        var chart = new google.charts.Line(document.getElementById('chart_div'));
-
-        chart.draw(data, options);
-      }
-
-    </script>
+ <script>
+	 callChart({{listData | safe}});
+ </script>
 </html>
