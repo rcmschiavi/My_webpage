@@ -1,0 +1,16 @@
+{% extends 'blog/base_new.html' %}
+{% block head_title %}{{ post.title }}{% endblock %}
+{% block title %}{{ post.title }}{% endblock %}
+{% block content %}
+    {{ post.body }}
+    <div id="brother"></div>
+<script>
+    var keywords = {{ post | safe}}
+    console.log(keywords.body)
+    var converter = new showdown.Converter();
+    var text      = '# hello, markdown!';
+    var html      = converter.makeHtml(keywords.body);
+    console.log(html)
+    document.getElementById("brother").innerHTML = html;
+</script>
+{% endblock %}
