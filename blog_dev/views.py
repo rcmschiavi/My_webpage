@@ -8,7 +8,7 @@ def index(request):
 def open_post(request, slug):
      #('blog/open_post.html',
      context = {
-         'post': get_object_or_404(Blog_en.objects.values('title', 'body'), url=slug),
+         'post': get_object_or_404(Blog_en.objects.values('title', 'body', 'description'), url=slug),
          'keywords': list(Blog_en.objects.values('keywords__keyword').filter(url=slug))
      }
      print(context)
