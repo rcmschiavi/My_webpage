@@ -14,6 +14,7 @@ class Keyword(models.Model):
 
 class Blog_en(models.Model):
     title = models.CharField(max_length=100, unique=True)
+    description = models.CharField(max_length=250, default=" ")
     url = models.SlugField(max_length=100, unique=True)
     body = models.TextField()
     date = models.DateField(db_index=True, auto_now_add=True)
