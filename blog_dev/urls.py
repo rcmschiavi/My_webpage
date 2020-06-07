@@ -19,5 +19,6 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    url(r'^post/(?P<slug>[^\.]+)', views.open_post, name='open_post')
+    url(r'^(?P<slug>[^\.]+)', views.open_post, name='open_post'),
+    url('', views.index, name='index')
 ]
