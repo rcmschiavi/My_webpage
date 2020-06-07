@@ -14,7 +14,7 @@ def get_data_models():
     month = date.month
     year = date.year
     dataset = My_plant_data.objects.order_by('-REGISTERED_AT').\
-        filter(REGISTERED_AT__gte=datetime.datetime(year, month, day, tzinfo=tz)).\
+        filter(REGISTERED_AT__gte=datetime.datetime(year, 5, 4, tzinfo=tz)).\
         values('TEMPERATURE', 'REGISTERED_AT', 'HUMIDITY', 'MOISTURE')
     df = pd.DataFrame(list(dataset))
     df.REGISTERED_AT = pd.to_datetime(df.REGISTERED_AT)
