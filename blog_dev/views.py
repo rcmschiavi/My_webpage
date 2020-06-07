@@ -8,6 +8,7 @@ def index(request):
     # Counts how many times a keyword was referenced, Returns just the keywords referenced at least once
     keys = list(Blog_en.objects.values("keywords__keyword").annotate(Count('keywords__keyword')))
     print(keys)
+    # TODO Read the documentation to create the cloud word with the most used keywords
     return render(request,'blog/index.html')
 
 def open_post(request, slug):
