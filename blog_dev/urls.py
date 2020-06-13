@@ -19,6 +19,7 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    url(r'^/(?P<slug>[^\.]+)', views.open_post, name='open_post'),
+    url(r'^/post/(?P<slug>[^\.]+)', views.open_post, name='open_post'),
+    url(r'^/category/(?P<slug>[^\.]+)', views.open_keyword, name='open_keyword'),
     url('', views.index, name='index')
 ]
