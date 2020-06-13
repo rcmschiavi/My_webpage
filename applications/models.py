@@ -11,6 +11,9 @@ class Temperature(models.Model):
        managed = True
        db_table = 'TEMPERATURE'
 
+    def __str__(self):
+        return 'Time: ' + str(self.REGISTERED_AT)
+
 
 class My_plant_data(models.Model):
     TEMPERATURE = models.DecimalField(max_digits=5, decimal_places=2)
@@ -20,3 +23,6 @@ class My_plant_data(models.Model):
     class Meta:
        managed = True
        db_table = 'AGRICULTURE'
+
+    def __str__(self):
+        return 'Time: ' + str(self.REGISTERED_AT)
