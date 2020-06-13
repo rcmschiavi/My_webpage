@@ -3,9 +3,21 @@
 {% block title %}Blog{% endblock %}
 {% block description %}{% endblock %}
 {% block content %}
-    <div id="content"></div>
+<h1>Categories</h1>
+    <div id="key_list">
+        <ul class="actions" id="key-links">
+        </ul>
+    </div>
+{% endblock %}
+{% block script %}
 <script>
-    document.getElementById("content").innerHTML = html;
-
+    var keys = {{ keys | safe }}
+    console.log(keys)
+    var list = ""
+    for (var key in keys) {
+        console.log(key)
+         list +='<a style="width:100%" href=blog/category/' + keys[key].keywords__keyword +  ' class="button special fit">' + keys[key].keywords__keyword;
+    }
+    document.getElementById('key-links').innerHTML = list;
 </script>
 {% endblock %}

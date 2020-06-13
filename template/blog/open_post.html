@@ -1,5 +1,8 @@
 {% extends 'blog/base.html' %}
 {% block head_title %}RodolfoSchiavi - {{ post.title }}{% endblock %}
+{% block cdn %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.0/marked.js" type="text/javascript"></script>
+{% endblock %}
 {% block title %}{{ post.title }}{% endblock %}
 {% block description %}{{ post.description }}{% endblock %}
 {% block content %}

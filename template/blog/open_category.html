@@ -1,0 +1,18 @@
+{% extends 'blog/base.html' %}
+{% block head_title %}RodolfoSchiavi - {{ post.title }}{% endblock %}
+{% block cdn %}{% endblock %}
+{% block title %}{{ post.title }}{% endblock %}
+{% block description %}{{ post.description }}{% endblock %}
+{% block content %}
+    <div id="list_posts"></div>
+<script>
+    var posts = {{ post | safe }}
+    console.log(posts)
+    var list = ""
+    for (var iPost in posts) {
+        console.log(iPost)
+         list += '<a href="/blog/post/' + posts[iPost].url +'" ><h2>' + posts[iPost].title + '</h2> </a>' + '<a href="/blog/post/' + posts[iPost].url +'" ><img class="fit article img" src=' + posts[iPost].img + '/> </a> <br> <h4>' + posts[iPost].description + '</h4><br><h3>------</h3>'
+    }
+    document.getElementById('list_posts').innerHTML = list;
+</script>
+{% endblock %}
