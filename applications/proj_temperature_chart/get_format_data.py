@@ -9,6 +9,7 @@ from applications.models import Temperature
 def get_temp_by_hour():
     tz = pytz.timezone('America/Porto_Velho')
     last_post = Temperature.objects.order_by('REGISTERED_AT').values('REGISTERED_AT').last()
+    first_post = Temperature.objects.order_by('REGISTERED_AT').values('REGISTERED_AT').first()
     date_from = last_post['REGISTERED_AT'] - timedelta(days=1)
     day_from = date_from.day
     month_from = date_from.month
@@ -23,7 +24,7 @@ def get_temp_by_hour():
         .exclude(TEMPERATURE__lte=-120).values('TEMPERATURE', 'REGISTERED_AT')
     df, df_group_hour = df_manipulation(dataset)
     listData = format_data(df, df_group_hour)
-    return listData
+    return listData, [first_post['REGISTERED_AT'], last_post['REGISTERED_AT']]
 
 def df_manipulation(dataset):
     df = pd.DataFrame(list(dataset))

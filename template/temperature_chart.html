@@ -18,6 +18,9 @@
 
 		<script src="/static/js/applications/chart_day.js" type="text/javascript"></script>
 
+		<script src="https://unpkg.com/vue"></script>
+		<script src="https://unpkg.com/vuejs-datepicker"></script>
+
 
 		<!-- Vue plus google charts -->
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -64,6 +67,10 @@
 							  <em id="temp"></em><br>
 							  <b>At: </b>
 							  <em id="time"></em>
+
+							<div id="app">
+  								<vuejs-datepicker :disabled-dates="disabledDates"></vuejs-datepicker>
+							</div>
 							<span>
 								<h2>What is this about!?</h2>
 								<span>
@@ -150,6 +157,23 @@ function addData() {
 }
 
 setInterval(addData,10000);
+days = {{ days_date_picker | safe }}
+console.log(days)
+const app = new Vue({
+  el: '#app',
+  components: {
+  	vuejsDatepicker
+  },
+  data() {
+  	return{
+  		disabledDates: {
+			to: new Date(days[0][2], days[0][1]-1, days[0][0]), // Disable all dates up to specific date
+			from: new Date(days[1][2], days[1][1]-1, days[1][0]+1) // Disable all dates after specific date
+    	}
+    	}
+  }
+})
+
 
 </script>
 </html>
