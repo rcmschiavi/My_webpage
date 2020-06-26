@@ -16,9 +16,10 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.urls import path
-from . import views
+from . import views, api_temperature
 
 urlpatterns = [
     url('my_resume', views.resume, name='index'),
+    url('temperature_data', api_temperature.post_temperature, name='index'),
     url('', views.index, name='index')
 ]
