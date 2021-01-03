@@ -5,34 +5,37 @@
     <title>Ponto</title>
 </head>
 <style>
+
 body {
   font-family: Arial;
   color: white;
 }
 
 .split {
-  height: 50%;
+  height: 40%;
   width: 30%;
   position: fixed;
   z-index: 1;
-  top: 0;
+  top: 30%;
   overflow-x: hidden;
   padding-top: 20px;
 }
 
 .left {
   left: 0;
+  width: 30%;
   background-color: #111;
 }
 
 .right {
   right: 0;
-  background-color: red;
+  width: 30%;
+  background-color: #111;
 }
 
 .center {
 left: 30%;
-background-color: yellow;
+background-color: #111;
 width: 40%;
 }
 
@@ -48,39 +51,92 @@ width: 40%;
   width: 150px;
   border-radius: 50%;
 }
+
+.button {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.top_page {
+  height: 30%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 0px;
+}
+
+.bottom_page {
+  height: 30%;
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  overflow-x: hidden;
+  padding-top: 0px;
+}
+
 </style>
 </head>
 <body>
 
+<div class="top_page left">
+  <div class="centered">
+    <h2>App ponto</h2>
+  </div>
+</div>
+
 <div class="split left">
   <div class="centered">
-    <img src="img_avatar2.png" alt="Avatar woman">
-    <h2>Jane Flex</h2>
-    <p>Some text.</p>
+  	<h3>Atrasar</h3>
+    <input type="number" id="fname" name="fname"><br><br>
+  </div>
+</div>
+
+<div class="split center">
+  <div class="centered">
+  	<p>Cronômetro</p>
+    <input class="button" type="image" src="static/images/banner.jpg">
   </div>
 </div>
 
 <div class="split right">
   <div class="centered">
-    <img src="img_avatar.png" alt="Avatar man">
-    <h2>John Doe</h2>
-    <p>Some text here too.</p>
+  	<h3>Adiantar</h3>
+    <input type="number" id="fname" name="fname"><br><br>
   </div>
 </div>
-<div class="split center">
+
+<div class="bottom_page left">
   <div class="centered">
-    <img src="img_avatar2.png" alt="Avatar woman">
-    <h2>Jane Flex</h2>
-    <p>Some text.</p>
+  	<h3>Adiantar</h3>
+    <input type="number" id="fname" name="fname"><br><br>
   </div>
 </div>
 
+<div class="bottom_page left">
+  <div class="centered">
+  	<h3>Total dia</h3>
+    <input type="number" id="fname" name="fname"><br><br>
+  </div>
+</div>
 
+<div class="bottom_page center">
+  <div class="centered">
+  	<h3>Total semana</h3>
+    <input type="number" id="fname" name="fname"><br><br>
+  </div>
+</div>
+
+<div class="bottom_page right">
+  <div class="centered">
+  	<h3>Total mês</h3>
+    <input type="number" id="fname" name="fname"><br><br>
+  </div>
+</div>
 
 </body>
 </html>
+
 
 <!--- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_split_screen -->
-
-</body>
-</html>
