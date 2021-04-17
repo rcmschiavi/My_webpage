@@ -7,3 +7,5 @@
 /applications/migrations/0003_auto_20200603_1802.py
 */*/__pycache__/
 */__pycache__/
+.vscode/
+db-backup-2021.sql
