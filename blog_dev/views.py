@@ -27,7 +27,9 @@ def open_keyword(request, slug):
     post = list(Blog_en.objects.values('title', 'img', 'description','url').filter(keywords__keyword=slug))
     print(post)
     context = {
-        'post': post
+        'post': post,
+        'slug': slug
     }
 
     return render(request,'blog/open_category.html',context)
+

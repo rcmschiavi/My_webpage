@@ -19,7 +19,8 @@ from django.urls import path
 from . import views, api_temperature
 
 urlpatterns = [
-    url('my_resume', views.resume, name='index'),
-    url('temperature_data', api_temperature.post_temperature, name='index'),
+    url('my_resume', views.resume, name='resume'),
+    url('temperature_data', api_temperature.post_temperature, name='temperature_data'),
+    url('contact', views.contact, name='contact'),
     url('', views.index, name='index')
 ]

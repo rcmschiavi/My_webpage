@@ -20,3 +20,7 @@ def resume(request):
         response = HttpResponse(pdf.read(), content_type='application/pdf')
         response['Content-Disposition'] = 'inline;filename=resume.pdf'
         return response
+
+
+def contact(request):
+    return render(request,'contact.html')
