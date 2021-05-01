@@ -11,7 +11,7 @@
     var list = ""
     for (var iPost in posts) {
         console.log(iPost)
-         list += '<a href="/blog/post/' + posts[iPost].url +'" ><h2>' + posts[iPost].title + '</h2> </a>' + '<a href="/blog/post/' + posts[iPost].url +'" ><img class="fit article img" src=' + posts[iPost].img + '/> </a> <br> <h4>' + posts[iPost].description + '</h4><br><h3>------</h3>'
+         list += '<a href="/portfolio/post/' + posts[iPost].url +'" ><h2>' + posts[iPost].title + '</h2> </a>' + '<a href="/blog/post/' + posts[iPost].url +'" ><img class="fit article img" src=' + posts[iPost].img + '/> </a> <br> <h4>' + posts[iPost].description + '</h4><br><h3>------</h3>'
     }
     document.getElementById('list_posts').innerHTML = list;
 </script>

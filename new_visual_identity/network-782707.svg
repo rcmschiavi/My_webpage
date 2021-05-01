@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 1579.7 1027.3"
+   id="svg484"
+   sodipodi:docname="network-782707.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48">
+  <metadata
+     id="metadata490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs488" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview486"
+     showgrid="false"
+     inkscape:zoom="0.35196557"
+     inkscape:cx="590.14814"
+     inkscape:cy="208.56224"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g480" />
+  <g
+     transform="translate(302.15 -166.66)"
+     id="g482">
+    <g
+       transform="matrix(.013468 0 0 -.013468 8.2611 847.65)"
+       id="g480">
+      <path
+         d="M -23048,-24824 H 95752.119 V 42001.067 H -23048 Z"
+         id="path2"
+         inkscape:connector-curvature="0"
+         style="fill:#001213;stroke-width:0.94199365;fill-opacity:1"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 60814.764,16048.116 v -5914.074 c 0,-886.2634 718.494,-1604.6455 1604.646,-1604.6455 h 5910.961 c 886.35,0 1604.819,-683.5176 1604.819,-1526.5834 V 4586.1622"
+         stroke-miterlimit="10"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 40674.997,15291.696 v 7757.921 c 0,886.264 -718.494,1604.646 -1604.646,1604.646 H 33159.39 c -886.35,0 -1604.819,683.518 -1604.819,1526.583 v 2416.651"
+         stroke-miterlimit="10"
+         id="path6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="M 3779.2078,6878.5875 H 16243.266 c 886.263,0 1604.645,718.503 1604.645,1604.6459 v 4471.0846 c 0,886.35 683.518,1604.819 1526.497,1604.819 h 9325.999"
+         stroke-miterlimit="10"
+         id="path8"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 38974.567,9527.3511 h 14636.494 c 886.263,0 1604.645,1131.1709 1604.645,2017.3479 v 2854.25 c 0,886.35 683.518,1604.819 1526.584,1604.819 h 14764.436"
+         stroke-miterlimit="10"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 79219.521,-12233.314 v 7757.9211 c 0,886.2639 -718.503,1604.6459 -1604.732,1604.6459 h -5910.962 c -886.35,0 -1604.818,683.5176 -1604.818,1526.5834 v 2416.651"
+         stroke-miterlimit="10"
+         id="path12"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 73274.499,2220.7748 c 0,-1624.70173 -1317.12,-2942.08125 -2941.995,-2942.08125 -1624.874,0 -2941.994,1317.37952 -2941.994,2942.08125 0,1624.8747 1317.12,2941.9948 2941.994,2941.9948 1624.875,0 2941.995,-1317.1201 2941.995,-2941.9948"
+         id="path14"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="M 9016.135,-7101.7664 V 750.81481 c 0,888.42499 479.3449,1608.70889 1070.657,1608.70889 h 15303.007 c 591.398,0 1070.743,685.1601 1070.743,1530.3871 v 653.1398"
+         stroke-miterlimit="10"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 43607.31,7048.8898 h 16381.012 c 886.264,0 1604.646,-1131.1707 1604.646,-2017.3481 V -263.13255"
+         stroke-miterlimit="10"
+         id="path18"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 49962.095,-4904.0015 v 8272.1128 c 0,886.2638 -718.503,1604.6459 -1604.646,1604.6459 h -6716.137 c -886.35,0 -1604.819,683.4397 -1604.819,1526.4969 v 1645.5357"
+         stroke-miterlimit="10"
+         id="path20"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 34379.861,30606.806 c 0,-1624.702 -1317.12,-2942.081 -2941.994,-2942.081 -1624.875,0 -2941.995,1317.379 -2941.995,2942.081 0,1624.875 1317.12,2941.995 2941.995,2941.995 1624.874,0 2941.994,-1317.12 2941.994,-2941.995"
+         id="path22"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 12087.11,-9149.1986 c 0,-1624.7884 -1317.207,-2942.0814 -2942.0812,-2942.0814 -1624.8747,0 -2942.0813,1317.379 -2942.0813,2942.0814 0,1624.8749 1317.2066,2941.995 2942.0813,2941.995 1624.8742,0 2942.0812,-1317.1201 2942.0812,-2941.995"
+         id="path24"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 52903.917,-5728.8009 c 0,-1624.7882 -1317.12,-2942.0813 -2941.995,-2942.0813 -1624.875,0 -2941.995,1317.3795 -2941.995,2942.0813 0,1624.8747 1317.12,2941.9948 2941.995,2941.9948 1624.875,0 2941.995,-1317.1201 2941.995,-2941.9948"
+         id="path26"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 4655.876,7027.2779 c 0,-1624.7883 -1317.1202,-2942.0813 -2941.9949,-2942.0813 -1624.874607,0 -2941.9948,1317.3795 -2941.9948,2942.0813 0,1624.8746 1317.120193,2941.9948 2941.9948,2941.9948 1624.8747,0 2941.9949,-1317.1202 2941.9949,-2941.9948"
+         id="path28"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="M 33418.561,20434.482 H 20954.503 c -886.264,0 -1604.646,718.494 -1604.646,1604.646 v 4471.085 c 0,886.35 -683.518,1604.819 -1526.497,1604.819 H 8497.3612"
+         stroke-miterlimit="10"
+         id="path30"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 30017.7,7642.7869 v -16381.012 c 0,-886.2635 -1131.17,-1604.6459 -2017.348,-1604.6459 h -5294.674"
+         stroke-miterlimit="10"
+         id="path32"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 41325.085,16862.455 v 16381.012 c 0,886.264 1131.171,1604.646 2017.349,1604.646 h 5294.674"
+         stroke-miterlimit="10"
+         id="path34"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 45787.526,-19103.328 v 14636.4935 c 0,886.2638 -1131.171,1604.6458 -2017.348,1604.6458 h -2854.251 c -886.35,0 -1604.818,683.5176 -1604.818,1526.5835 V 11159.573"
+         stroke-miterlimit="10"
+         id="path36"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 52740.53,9971.6932 c 0,3109.8758 -2408.352,5656.9768 -5461.778,5878.7158 -364.983,2755.7 -2721.985,4882.577 -5577.445,4882.577 -814.78,0 -1588.221,-174.503 -2287.412,-486.053 -1234.821,1716.164 -3249.144,2833.935 -5524.712,2833.935 -3279.055,0 -6015.909,-2320.261 -6658.995,-5408.526 -47.579,1.043 -95.24,1.846 -143.054,1.846 -3756.766,0 -6802.066,-3045.387 -6802.066,-6802.066 0,-3756.8531 3045.3,-6801.9803 6802.066,-6801.9803 98.611,0 196.496,2.488 294.061,6.7403 h 19544.141 l -0.401,0.9622 c 3219.06,42.4442 5815.609,2664.4971 5815.609,5893.7583"
+         id="path38"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 45177.204,11468.97 v 7757.921 c 0,886.264 718.503,1604.646 1604.646,1604.646 h 5910.961 c 886.35,0 1604.819,683.518 1604.819,1526.583 v 2416.651"
+         stroke-miterlimit="10"
+         id="path40"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 22086.97,10078.889 v 6680.174 c 0,763.145 -874.593,1381.783 -1953.29,1381.783 h -7194.885"
+         stroke-miterlimit="10"
+         id="path42"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:197.14442444;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="M 38270.017,-7036.3254 V 743.72608 c 0,888.77082 -418.088,1609.22752 -933.724,1609.22752 H 33896.79 c -515.756,0 -933.81,685.4627 -933.81,1530.9923 v 2423.5668"
+         stroke-miterlimit="10"
+         id="path44"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 10601.589,28932.31 c 0,-1624.702 -1317.1197,-2942.081 -2941.9944,-2942.081 -1624.8747,0 -2941.9948,1317.379 -2941.9948,2942.081 0,1624.875 1317.1201,2941.995 2941.9948,2941.995 1624.8747,0 2941.9944,-1317.12 2941.9944,-2941.995"
+         id="path46"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 13012.794,18720.22 c 0,-1624.788 -1317.12,-2942.081 -2941.995,-2942.081 -1624.8743,0 -2941.9945,1317.379 -2941.9945,2942.081 0,1624.875 1317.1202,2941.995 2941.9945,2941.995 1624.875,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path48"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 32727.842,-3852.19 c 0,-1624.7017 -1317.12,-2942.0813 -2941.995,-2942.0813 -1624.874,0 -2941.995,1317.3796 -2941.995,2942.0813 0,1624.8747 1317.121,2941.99495 2941.995,2941.99495 1624.875,0 2941.995,-1317.12025 2941.995,-2941.99495"
+         id="path50"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 41095.998,-9221.2956 c 0,-1624.7894 -1317.12,-2942.0824 -2941.994,-2942.0824 -1624.875,0 -2941.995,1317.38 -2941.995,2942.0824 0,1624.8743 1317.12,2941.9945 2941.995,2941.9945 1624.874,0 2941.994,-1317.1202 2941.994,-2941.9945"
+         id="path52"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 48748.366,-18467.936 c 0,-1624.789 -1317.12,-2942.082 -2941.995,-2942.082 -1624.874,0 -2941.994,1317.38 -2941.994,2942.082 0,1624.874 1317.12,2941.995 2941.994,2941.995 1624.875,0 2941.995,-1317.121 2941.995,-2941.995"
+         id="path54"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 64693.681,-899.56195 c 0,-1624.70185 -1317.12,-2942.08135 -2941.995,-2942.08135 -1624.875,0 -2941.995,1317.3795 -2941.995,2942.08135 0,1624.87463 1317.12,2941.99475 2941.995,2941.99475 1624.875,0 2941.995,-1317.12012 2941.995,-2941.99475"
+         id="path56"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 73913.349,15728.258 c 0,-1624.788 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.995,1317.38 -2941.995,2942.081 0,1624.875 1317.121,2941.995 2941.995,2941.995 1624.875,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path58"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 57034.397,25089.701 c 0,-1624.702 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.994,1317.379 -2941.994,2942.081 0,1624.875 1317.12,2941.995 2941.994,2941.995 1624.875,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path60"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 52921.206,34876.468 c 0,-1624.702 -1317.12,-2942.082 -2941.995,-2942.082 -1624.874,0 -2941.994,1317.38 -2941.994,2942.082 0,1624.874 1317.12,2941.994 2941.994,2941.994 1624.875,0 2941.995,-1317.12 2941.995,-2941.994"
+         id="path62"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(73.432302,0,0,65.302741,49517.753,-6663.3027)"
+         id="g66"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 0,0 c 0.386,-0.413 1.045,-0.426 1.445,-0.041 0,0 1.515,1.514 3.527,3.553 0.316,-0.151 0.674,-0.247 1.059,-0.247 1.323,0 2.397,1.073 2.397,2.395 0,0.4 -0.097,0.772 -0.262,1.103 3.498,3.58 7.01,7.285 6.818,7.491 C 14.791,14.461 10.894,11.114 7.12,7.795 6.789,7.961 6.432,8.058 6.031,8.058 4.71,8.058 3.636,6.982 3.636,5.66 3.636,5.371 3.69,5.096 3.787,4.834 1.639,2.906 0.026,1.46 0.026,1.46 -0.373,1.061 -0.385,0.414 0,0 m 15.148,20.217 0.124,0.206 -0.302,0.18 -0.744,0.426 -2.231,-3.854 1.046,-0.607 z m 6.266,-6.376 -0.603,1.047 -3.858,-2.232 0.606,-1.046 z M 18.977,5.055 h 4.463 v 1.212 h -4.463 z m 2.437,-7.562 -3.855,2.231 -0.606,-1.046 3.858,-2.232 z m -9.433,-3.332 2.231,-3.856 1.047,0.606 -2.232,3.857 z M 5.438,-11.733 H 6.65 v 4.462 H 5.438 Z m -5.328,5.894 -1.047,0.607 -2.245,-3.872 1.046,-0.605 z m -5.578,5.563 -3.856,-2.231 0.606,-1.047 3.857,2.232 z M -6.887,6.267 H -11.35 V 5.055 h 4.463 z m 2.038,6.389 -3.855,2.232 -0.607,-1.047 3.856,-2.231 z m 3.898,3.912 1.048,0.607 -2.233,3.854 -0.674,-0.385 -0.385,-0.221 0.124,-0.206 z M 6.65,23.055 H 5.438 V 18.592 H 6.65 Z m 22.105,-41.551 h -45.406 c -0.454,0 -0.813,-0.358 -0.813,-0.813 0,-0.454 0.359,-0.812 0.813,-0.812 h 45.406 c 0.456,0 0.813,0.358 0.813,0.812 0,0.441 -0.372,0.813 -0.813,0.813 m 4.642,67.235 h -54.703 c -0.331,0 -0.606,-0.275 -0.606,-0.606 0,-0.33 0.275,-0.606 0.606,-0.606 h 1.06 c 0.606,-6.142 6.239,-11.402 14.256,-14.074 1.03,-0.345 2.093,-0.648 3.194,-0.895 2.768,-0.634 5.742,-0.993 8.841,-0.993 3.127,0 6.129,0.359 8.925,1.006 1.101,0.262 2.163,0.55 3.195,0.896 7.987,2.671 13.578,7.918 14.185,14.047 h 1.062 c 0.328,0 0.604,0.275 0.604,0.606 -0.013,0.344 -0.288,0.619 -0.619,0.619 M -12.561,3.126 c 1.24,-9.157 9.117,-16.252 18.606,-16.252 9.49,0 17.367,7.08 18.606,16.252 0.111,0.826 0.18,1.681 0.18,2.534 0,2.204 -0.387,4.312 -1.089,6.279 -1.156,3.28 -3.208,6.13 -5.852,8.291 -0.91,0.745 -1.901,1.406 -2.935,1.971 -1.309,0.702 -2.698,1.267 -4.172,1.653 -1.514,0.399 -3.113,0.606 -4.752,0.606 -1.637,0 -3.22,-0.207 -4.75,-0.606 -1.447,-0.374 -2.81,-0.923 -4.105,-1.613 -1.073,-0.577 -2.079,-1.253 -3.016,-2.011 -2.644,-2.148 -4.682,-5.011 -5.852,-8.291 -0.703,-1.967 -1.089,-4.075 -1.089,-6.279 0.041,-0.853 0.11,-1.708 0.22,-2.534 m -2.133,-20.809 1.747,17.091 c -0.164,0.51 -0.316,1.046 -0.453,1.57 -0.166,0.702 -0.303,1.418 -0.387,2.134 -0.109,0.84 -0.165,1.695 -0.165,2.548 0,2.286 0.386,4.49 1.101,6.528 0.236,0.689 0.51,1.35 0.813,2.011 0.235,0.495 0.482,0.964 0.759,1.447 l 0.633,6.169 c 0,1.116 0.909,2.025 2.024,2.025 h 6.335 c 0.482,0.221 0.965,0.427 1.46,0.605 0.647,0.235 1.308,0.441 1.982,0.607 1.572,0.398 3.21,0.606 4.89,0.606 1.693,0 3.334,-0.208 4.89,-0.606 0.675,-0.166 1.336,-0.372 1.982,-0.607 0.497,-0.178 0.979,-0.384 1.461,-0.605 h 6.336 c 1.114,0 2.023,-0.909 2.023,-2.025 l 0.633,-6.169 c 0.276,-0.469 0.525,-0.952 0.758,-1.447 0.304,-0.647 0.58,-1.322 0.813,-2.011 0.715,-2.052 1.102,-4.242 1.102,-6.528 0,-0.867 -0.056,-1.722 -0.166,-2.548 C 25.781,2.382 25.656,1.68 25.492,0.978 25.367,0.44 25.216,-0.082 25.037,-0.592 l 1.749,-17.091 z m 32.859,49.882 c -1.032,-0.33 -2.107,-0.62 -3.195,-0.868 v -6.279 h 3.195 z M -2.796,25.052 H -5.99 v 7.12 c 1.03,-0.331 2.105,-0.62 3.194,-0.867 z"
+           id="path64"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.9044472,0,0,1.9044472,-64613.355,-58151.843)"
+         id="g74"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 57612,20468 -253.33,-630.76 457.18,-156.9 107.65,709.37 c -110.86,7.055 -215.77,34.266 -311.51,78.289 z m 732.96,-1.923 c -110.86,-50.3 -233.63,-79.114 -364.19,-79.114 -19.239,0 -37.564,1.557 -55.887,2.702 l -27.487,-693.88 725.63,141.46 -278.07,628.84"
+           id="path68"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 58112,20726 c -271.2,0 -491.54,215.03 -491.54,480.36 0,265.33 220.35,480.36 491.54,480.36 272.11,0 492,-215.03 492,-480.36 0,-265.33 -219.89,-480.36 -492,-480.36 z m -131.93,1269.4 c -429.24,0 -777.4,-339.91 -777.4,-759.26 0,-419.25 348.16,-759.26 777.4,-759.26 428.78,0 776.94,340 776.94,759.26 0,419.34 -348.16,759.26 -776.94,759.26"
+           id="path70"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 58241,21007 c -112.23,0 -203.39,88.917 -203.39,198.63 0,109.67 91.161,198.63 203.39,198.63 112.24,0 203.4,-88.963 203.4,-198.63 0,-109.72 -91.162,-198.63 -203.4,-198.63 z m -92.992,589.35 c -217.6,0 -394.42,-172.66 -394.42,-385.72 0,-213.02 176.83,-385.77 394.42,-385.77 218.51,0 394.88,172.75 394.88,385.77 0,213.06 -176.37,385.72 -394.88,385.72"
+           id="path72"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 10434.226,-9425.3996 -171.875,880.2126 -5.423,5.5448 c 0,0 1091.837,1077.3137 844.665,1324.4682 -247.207,247.0854 -1358.0966,-879.2615 -1358.0966,-879.2615 l -779.8206,137.7633 c 199.1155,246.9644 282.8835,492.2344 187.056,588.1743 -114.6213,114.2581 -442.2156,-27.1196 -731.3665,-316.0276 -49.8978,-50.0188 -94.8507,-101.1268 -135.3515,-151.3789 l -625.4246,110.5236 -427.5108,-363.9975 1742.7032,-799.9456 -1042.6481,-1268.7101 c -26.9986,-27.361 -52.4298,-54.238 -74.6071,-81.719 l -651.3331,264.5574 -309.7601,-309.3974 696.5367,-319.036 209.7226,-209.602 293.1275,-562.387 287.3355,287.336 -335.4351,662.545 c 17.236,11.571 33.7492,24.83 49.0566,40.136 l 1352.3044,1063.0504 18.1999,-18.2 909.1727,-1803.4764 319.399,382.921 -130.415,668.208 c 65.93,48.572 132.818,105.7004 197.784,170.6654 289.272,289.393 430.527,616.745 315.906,731.367 -102.933,103.2962 -378.823,-1.688 -643.864,-234.43"
+         id="path76"
+         inkscape:connector-curvature="0"
+         style="fill:#131112;stroke-width:0.86447895"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(1.3275804,0,0,1.3275804,-24076.207,-13110.76)"
+         id="g84"
+         style="fill:#131112"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 46058,3644.2 h -612.47 v 204.19 H 46058 Z m 0,-408.37 h -612.47 v 204.19 H 46058 Z m -510.47,-1225.1 c -56.337,0 -102,45.682 -102,102.09 0,56.346 45.664,102.02 102,102.02 56.43,0 102.09,-45.673 102.09,-102.02 0,-56.411 -45.663,-102.09 -102.09,-102.09 z m 510.47,2041.9 h -612.47 c -112.95,0 -204.28,-91.42 -204.28,-204.19 v -2246.1 c 0,-112.93 91.327,-204.19 204.28,-204.19 H 46058 c 112.77,0 204.19,91.253 204.19,204.19 v 2246.1 c 0,112.77 -91.42,204.19 -204.19,204.19"
+           id="path78"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 47386,1806.5 v 204.19 h -612.66 V 1806.5 c -112.95,0 -204.19,-91.216 -204.19,-204.19 h 1020.9 c 0,112.97 -91.327,204.19 -204.09,204.19"
+           id="path80"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 47079,2317 c -56.523,0 -102,45.682 -102,102.09 0,56.346 45.478,102.09 102,102.09 56.43,0 102.09,-45.747 102.09,-102.09 0,-56.411 -45.664,-102.09 -102.09,-102.09 z m 1225.1,2144 h -2450.3 c -112.77,0 -204.1,-91.42 -204.1,-204.19 h 2654.4 v -1633.5 h -1837.6 v -408.45 h 1837.6 c 112.86,0 204.28,91.327 204.28,204.26 v 1837.7 c 0,112.77 -91.421,204.19 -204.28,204.19"
+           id="path82"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="M 18.119193,8431.1917 H 888.21729 v 315.6299 H 18.119193 Z"
+         id="path86"
+         inkscape:connector-curvature="0"
+         style="fill:#131112;stroke-width:0.86447895"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         id="g92"
+         transform="matrix(0.86447897,0,0,0.86447897,5740.5377,-2226.9695)"
+         style="fill:#131112"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m -2737.5,11473 h -425.93 c -127.43,0 -229.91,103.03 -229.91,229.35 0,127.15 102.48,230.18 229.91,230.18 h 425.93 c 126.87,0 230.05,-103.03 230.05,-230.18 0,-126.32 -103.17,-229.35 -230.05,-229.35 z M -5334.8,9139.1 c -732.52,0 -1327.3,594.5 -1327.3,1327.2 0,733.36 594.78,1327.7 1327.3,1327.7 733.22,0 1328,-594.36 1328,-1327.7 0,-732.66 -594.78,-1327.2 -1328,-1327.2 z m 2780.5,3077.7 h -4207.2 c -193.24,0 -350.37,-156.71 -350.37,-349.95 v -2800.3 c 0,-193.52 157.13,-350.23 350.37,-350.23 H -2554 c 193.38,0 349.95,156.71 349.95,350.23 v 2800.3 c 0,193.24 -156.57,349.95 -350.23,349.95"
+           id="path88"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -5348.4,11448 c 541.47,0 980.73,-439.05 980.73,-981.38 0,-541.46 -439.27,-980.95 -980.73,-980.95 -541.46,0 -980.73,439.48 -980.73,980.95 0,542.33 439.27,981.38 980.73,981.38"
+           id="path90"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(67.667956,0,0,60.176381,60635.817,-805.85245)"
+         id="g96"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 17.922,-0.729 h 4.934 c 0.474,0 0.864,-0.39 0.864,-0.864 0,-0.475 -0.39,-0.865 -0.864,-0.865 h -4.934 c -0.288,-0.476 -0.815,-0.796 -1.409,-0.796 -0.136,0 -0.27,0.017 -0.406,0.05 -0.711,0.186 -1.254,0.83 -1.254,1.593 0,0.595 0.323,1.119 0.795,1.408 v 9.5117 c 0,0.323 0.189,0.611 0.459,0.763 0.119,0.069 0.255,0.103 0.406,0.103 0.477,0 0.867,-0.391 0.867,-0.866 V -0.203 c 0.218,-0.119 0.406,-0.306 0.542,-0.526 m -1.798,-24.025 h 9.92 V -42.253 H 6.9 v 17.499 z m 11.445,3.729 h 4.138 l -4.374,-3.729 v 1.338 H 5.611 v -1.338 l -4.374,3.729 h 26.096 z m -0.186,42.662 4.374,-3.731 H 1.288 l 4.375,3.731 V 20.296 H 27.4 v 1.341 z m -11.259,0 H 6.951 V 39.136 H 26.094 V 21.637 Z m 13.464,-39.22 H 3.476 V 14.396 H 29.588 Z M 16.124,16.55 H 1.322 v -36.304 h 30.42 V 16.55 h -2.154 z"
+           id="path94"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(82.683956,0,0,73.529988,70672.417,60.182559)"
+         id="g100"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="M 0,0 H -19.455 V -2.873 H 0 Z m -29.395,54.053 14.905,-14.905 2.063,2.064 1.679,4.862 0.61,1.78 0.706,2.044 0.645,1.881 1.175,3.415 -1.406,1.406 -2.974,2.975 -1.35,1.358 -13.991,-4.815 z m 44.661,-22.7 -1.425,-1.427 -1.047,-1.046 -1.44,-1.439 -0.516,-0.516 0.686,-0.686 1.359,-1.358 1.121,-1.12 1.35,-1.352 0.66,-0.659 5.166,5.168 -5.166,5.168 z M -13.377,0.733 h 2.676 C -4.895,6.682 6.926,18.79 12.367,24.358 l -1.359,1.358 z M 13.479,23.245 -8.848,0.733 h 2.709 c 5.014,5.053 14.838,14.974 20.97,21.161 z m -22.964,24.249 -0.667,-1.922 20.943,-17.649 1.439,1.44 C 5.147,35.291 -6.294,44.418 -9.485,47.494 M 14.71,31.841 C 8.978,36.893 -3.237,46.768 -8.196,51.242 L -8.835,49.389 13.283,30.408 Z M -8.5,57.13 l -2.968,2.974 1.534,1.535 2.974,-2.974 z"
+           id="path98"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(63.234043,0,0,56.233493,71056.246,15765.431)"
+         id="g104"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m -15.591,-8.642 c 0,-0.525 0.93364,-0.964 1.4596,-0.964 0.525,0 1.4586,0.439 1.4586,0.964 V 5.926 c 0,0.525 -0.93364,0.961 -1.4586,0.961 -0.526,0 -1.4596,-0.436 -1.4596,-0.961 z m -3.9867,-31.954 v 51.937 h 36.459 v -51.937 c 0,-0.226 -0.194,-0.42 -0.422,-0.42 h -35.635 c -0.209,0.019 -0.402,0.194 -0.402,0.42 m 6.905,74.407 c 0,0.526 -0.93364,0.964 -1.4586,0.964 -0.526,0 -1.4596,-0.438 -1.4596,-0.964 V 19.246 c 0,-0.527 0.93364,-0.964 1.4596,-0.964 0.525,0 1.4586,0.437 1.4586,0.964 z m 29.554,-20.946 h -36.459 v 28.134 c 0,0.228 0.193,0.419 0.42,0.419 h 35.617 c 0.228,0 0.422,-0.191 0.422,-0.419 z m -1.789,-55.599 c 0.351,0 0.614,0.281 0.614,0.614 v 0.49 h -2.314 v -0.49 c 0,-0.351 0.28,-0.614 0.614,-0.614 z m -31.815,0 h -1.068 c -0.351,0 -0.613,0.281 -0.613,0.614 v 0.49 h 2.313 v -0.49 c -0.016,-0.333 -0.298,-0.614 -0.632,-0.614"
+           id="path102"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(65.095266,0,0,57.88897,54078.744,26556.722)"
+         id="g108"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m -14.12,-23.715 c 0,-7.909 6.41,-14.319 14.32,-14.319 3.274,0 6.302,1.102 8.719,2.953 0.2,0.152 0.414,0.322 0.598,0.489 0.014,0.015 0.03,0.031 0.045,0.045 0.184,0.154 0.367,0.322 0.536,0.489 0.015,0.016 0.031,0.032 0.046,0.048 0.75,0.734 1.438,1.545 2.019,2.432 0.016,0.03 0.046,0.061 0.062,0.091 0.122,0.185 0.228,0.367 0.336,0.552 0.031,0.046 0.062,0.091 0.092,0.153 0.107,0.182 0.198,0.352 0.29,0.535 0.031,0.046 0.061,0.108 0.078,0.154 0.091,0.183 0.182,0.381 0.274,0.58 0.015,0.047 0.046,0.092 0.061,0.122 0.214,0.475 0.382,0.965 0.536,1.47 0.016,0.061 0.031,0.107 0.046,0.168 0.061,0.183 0.107,0.382 0.152,0.581 0.016,0.092 0.046,0.169 0.062,0.26 0.046,0.168 0.076,0.337 0.107,0.504 0.015,0.092 0.031,0.186 0.046,0.291 0.031,0.169 0.046,0.338 0.076,0.506 0.016,0.091 0.031,0.198 0.031,0.291 0.015,0.182 0.031,0.367 0.046,0.55 0,0.092 0.015,0.167 0.015,0.261 0.016,0.259 0.03,0.535 0.03,0.81 0,0.275 -0.014,0.536 -0.03,0.81 0,0.093 -0.015,0.169 -0.015,0.261 -0.015,0.183 -0.031,0.367 -0.046,0.55 -0.015,0.091 -0.031,0.201 -0.031,0.291 -0.014,0.167 -0.045,0.337 -0.076,0.505 -0.015,0.092 -0.031,0.185 -0.046,0.291 -0.031,0.168 -0.061,0.337 -0.107,0.505 -0.016,0.091 -0.031,0.168 -0.062,0.26 -0.045,0.199 -0.106,0.381 -0.152,0.581 -0.015,0.062 -0.03,0.107 -0.046,0.168 -0.154,0.504 -0.336,0.996 -0.536,1.47 -0.015,0.046 -0.046,0.091 -0.061,0.122 -0.092,0.197 -0.183,0.382 -0.274,0.58 -0.032,0.061 -0.063,0.108 -0.078,0.155 -0.092,0.182 -0.183,0.367 -0.29,0.534 -0.03,0.046 -0.061,0.091 -0.077,0.153 -0.107,0.184 -0.229,0.367 -0.336,0.552 -0.015,0.031 -0.045,0.06 -0.061,0.092 -0.583,0.886 -1.255,1.697 -2.02,2.431 -0.015,0.014 -0.03,0.032 -0.046,0.047 -0.184,0.168 -0.352,0.335 -0.536,0.489 -0.015,0.015 -0.03,0.031 -0.046,0.046 -0.198,0.167 -0.397,0.336 -0.596,0.489 -2.417,1.851 -5.431,2.953 -8.72,2.953 C -7.71,-9.38 -14.12,-15.805 -14.12,-23.715 m -6.012,0 c 0,8.43 5.155,15.667 12.467,18.757 1.057,0.443 2.158,0.795 3.305,1.056 1.47,0.336 2.999,0.521 4.575,0.521 1.576,0 3.105,-0.185 4.574,-0.521 1.132,-0.261 2.25,-0.613 3.304,-1.056 7.313,-3.09 12.469,-10.327 12.469,-18.757 0,-11.214 -9.118,-20.347 -20.347,-20.347 -11.229,0 -20.347,9.133 -20.347,20.347 M 20.105,0.289 h 4.6181 V 5.124 H 20.105 Z M -10.983,7.556 H 26.835 V -3.902 H 8.292 c -2.493,1.024 -5.216,1.59 -8.077,1.59 -2.861,0 -5.584,-0.566 -8.078,-1.59 H -26.42 v 2.28 l 0.25831,5.1613 c 0.04383,0.87572 8.1574,3.6368 8.8503,3.6742 l 6.343,0.3425 z m 36.761,4.575 h -51.143 c -0.581,0 -1.055,-0.474 -1.055,-1.057 V 8.627 h 53.255 v 2.447 c 0,0.583 -0.474,1.057 -1.057,1.057 m -4.16,-35.846 c 0,-11.795 -9.608,-21.402 -21.403,-21.402 -11.795,0 -21.403,9.607 -21.403,21.402 0,8.062 4.483,15.117 11.107,18.757 H -26.42 v -49.95 c 4.023,-1.164 12.377,-2.907 26.635,-2.907 14.258,0 22.612,1.729 26.635,2.907 v 49.95 H 10.511 c 6.609,-3.64 11.107,-10.679 11.107,-18.757 M -12.392,-0.92 H -26.42 v 8.476 h 14.732 V -0.2 c 0,-0.398 -0.321,-0.72 -0.704,-0.72 M 0.215,-58.518 c 14.182,0 22.504,1.665 26.635,2.86 v -6.104 c 0,-0.581 -0.474,-1.057 -1.056,-1.057 h -51.159 c -0.581,0 -1.055,0.476 -1.055,1.057 v 6.104 c 4.13,-1.195 12.438,-2.86 26.635,-2.86"
+           id="path106"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.879896,0,0,1.879896,-68096.34,2114.3574)"
+         id="g116"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 62373,18445 c 279.44,-93.454 428.78,-389.84 333.96,-663.33 -95.286,-273.03 -399.46,-419.16 -678.91,-325.71 -279.9,92.995 -428.78,389.84 -333.96,662.87 95.287,273.03 399.47,419.16 678.91,326.17"
+           id="path110"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 63705,16896 c 0,0 11.454,-60.928 25.195,-135.6 3.667,-21.074 1.374,-45.353 -6.413,-68.715 -12.369,-36.19 -38.938,-67.8 -67.341,-80.625 -22.905,-11.911 -67.797,-12.829 -114.07,2.748 -32.982,10.995 -65.967,29.318 -91.621,53.598 l -63.218,58.179 c -11.451,-26.572 -37.105,-50.392 -62.3,-57.72 l 66.882,-61.387 c 35.731,-32.983 78.336,-56.805 123.23,-71.921 60.469,-19.7 124.6,-24.279 179.12,1.374 53.598,26.111 90.705,74.67 109.94,128.73 12.369,35.274 16.492,72.838 10.079,110.4 -13.743,74.67 -25.195,135.6 -25.195,136.06 -3.666,22.447 -25.197,37.106 -47.643,33.9 -22.905,-3.207 -40.313,-26.571 -36.649,-49.017"
+           id="path112"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 62872,17284 -110.86,110.4 c 0,0 51.764,49.933 79.708,90.705 l 101.7,-129.64 -70.549,-71.464 z m -94.825,424.2 c 0,0 -101.24,-307.39 -442.53,-362.36 l 823.66,-675.7 c 0,0 196.52,5.041 218.97,220.35 l -600.11,817.71 z m 92.994,-387.55 39.854,39.397 -65.508,76.503 -46.728,-49.018 72.382,-66.882"
+           id="path114"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(2.133707,0,0,2.133707,-88107.3,-30725.384)"
+         id="g126"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 54888,11991 c -165.38,0 -300.51,131.47 -300.51,293.64 0,161.71 135.14,293.18 300.51,293.18 165.83,0 300.06,-131.48 300.06,-293.18 0,-162.17 -134.22,-293.64 -300.06,-293.64 z m 113.61,1056.4 c 75.128,0 136.52,-59.553 136.52,-132.85 0,-73.753 -61.387,-133.31 -136.52,-133.31 -75.129,0 -136.06,59.554 -136.06,133.31 0,73.298 60.928,132.85 136.06,132.85 z m -609.27,441.15 v -1788 h 986.29 v 1788 z m 609.27,-663.79 c 50.392,0 91.62,40.313 91.62,89.787 0,49.477 -41.228,89.331 -91.62,89.331 -50.39,0 -91.621,-39.854 -91.621,-89.331 0,-49.474 41.231,-89.787 91.621,-89.787 z M 54888,12412.93 c -72.38,0 -131.48,-57.262 -131.48,-128.27 0,-71.005 59.095,-128.73 131.48,-128.73 72.838,0 131.93,57.721 131.93,128.73 0,71.006 -59.095,128.27 -131.93,128.27"
+           id="path118"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 54949,12284 c 0,-32.525 -27.485,-59.095 -60.928,-59.095 -33.441,0 -60.47,26.57 -60.47,59.095 0,32.983 27.029,59.553 60.47,59.553 33.443,0 60.928,-26.57 60.928,-59.553"
+           id="path120"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 55834,11863 c -93.452,0 -168.58,73.754 -168.58,164.46 0,91.162 75.128,164.92 168.58,164.92 92.538,0 168.12,-73.754 168.12,-164.92 0,-90.704 -75.584,-164.46 -168.12,-164.46 z m 63.217,592.78 c 42.605,0 76.503,-33.441 76.503,-74.671 0,-41.229 -33.898,-74.67 -76.503,-74.67 -42.143,0 -76.043,33.441 -76.043,74.67 0,41.23 33.9,74.671 76.043,74.671 z m -341.28,247.37 v -1003.2 h 552.93 v 1003.2 z m 278.07,-603.32 c -40.77,0 -74.213,-32.525 -74.213,-72.38 0,-39.855 33.443,-71.922 74.213,-71.922 40.312,0 73.297,32.067 73.297,71.922 0,39.855 -32.985,72.38 -73.297,72.38 z m 63.217,230.88 c 28.403,0 51.308,22.447 51.308,50.391 0,27.944 -22.905,50.391 -51.308,50.391 -27.943,0 -51.307,-22.447 -51.307,-50.391 0,-27.944 23.364,-50.391 51.307,-50.391"
+           id="path122"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 55868,12028 c 0,-18.324 -15.118,-32.984 -33.9,-32.984 -19.239,0 -34.357,14.66 -34.357,32.984 0,18.324 15.118,33.441 34.357,33.441 18.782,0 33.9,-15.117 33.9,-33.441"
+           id="path124"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(4.0952098,0,0,4.0952098,-1590.1575,-11067.996)"
+         id="g142"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 3364,7140.1 c 0,122.87 -101.94,222.45 -227.55,222.45 h -640.59 c -125.61,0 -227.55,-99.571 -227.55,-222.45 0,-122.84 101.94,-222.46 227.55,-222.46 h 640.59 c 125.61,0 227.55,99.63 227.55,222.46"
+           id="path128"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 2632,7171.3 h -73.177 v 71.377 h -66.328 V 7171.3 h -73.373 v -64.998 h 73.373 v -71.455 h 66.328 v 71.455 H 2632 v 64.998"
+           id="path130"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 3171.8,7818.6 h -42.066 v -110.55 c 0,-20.838 -14.284,-42.771 -43.045,-60.576 -28.175,-17.629 -69.46,-29.349 -115.05,-29.251 -108.79,-0.1761 -199.96,-79.105 -200.36,-179.65 v -32.636 h 42.459 v 32.636 c 0.195,74.331 69.654,138.17 157.9,138.21 104.29,0.6065 197.42,50.676 200.36,131.27 -0.196,60.811 -0.196,110.45 -0.196,110.55"
+           id="path132"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 3084.2,7130.6 c 0,-17.746 -14.87,-32.147 -33.066,-32.147 -18.001,0 -32.871,14.4 -32.871,32.147 0,17.785 14.87,32.186 32.871,32.186 18.196,0 33.066,-14.4 33.066,-32.186"
+           id="path134"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 3166,7209 c 0,-17.746 -14.87,-32.147 -32.871,-32.147 -18.196,0 -32.871,14.4 -32.871,32.147 0,17.746 14.675,32.147 32.871,32.147 18.001,0 32.871,-14.4 32.871,-32.147"
+           id="path136"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 3243.8,7125.1 c 0,-17.746 -14.87,-32.147 -32.871,-32.147 -18.196,0 -32.87,14.401 -32.87,32.147 0,17.785 14.674,32.166 32.87,32.166 18.001,0 32.871,-14.381 32.871,-32.166"
+           id="path138"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 3165.2,7049.8 c 0,-17.746 -14.87,-32.147 -32.871,-32.147 -18.196,0 -33.066,14.4 -33.066,32.147 0,17.786 14.87,32.166 33.066,32.166 18.001,0 32.871,-14.381 32.871,-32.166"
+           id="path140"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         transform="matrix(1.9181059,0,0,1.9181059,-110635.63,-11133.697)"
+         id="g146"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 62567,20654 c 12.826,-30.51 -2.289,-65.325 -33.9,-77.923 -31.151,-12.598 -66.882,2.061 -79.71,32.571 l -218.51,521.82 c -12.828,30.647 2.29,65.692 33.441,78.29 31.608,12.506 67.341,-2.291 80.166,-32.892 l 218.52,-521.87 z m -1697.7,-67.432 c -12.828,30.83 2.29,65.645 33.441,78.152 31.61,12.551 67.8,-2.016 80.166,-32.801 l 218.52,-521.87 c 12.826,-30.555 -2.289,-65.645 -33.9,-78.152 -30.692,-12.506 -66.423,2.245 -79.251,32.755 l -218.97,521.91 z m 1749,794.94 c -234.09,559.71 -888.26,827.74 -1460.9,598.92 -573.08,-229 -847.03,-868.1 -612.94,-1427.9 8.247,-19.423 17.867,-37.701 27.029,-56.3 3.207,-17.27 8.246,-34.449 15.576,-51.445 l 203.85,-486.36 c 55.89,-134.41 213.02,-198.86 350.9,-143.84 137.43,54.972 202.94,208.39 147.05,342.84 l -203.85,486.36 c -56.348,134.59 -213.48,198.95 -350.91,144.07 -60.01,-23.959 -104.9,-67.112 -133.31,-118.65 -157.58,492.37 93.912,1028.8 591.41,1227.7 498.87,199.46 1064.6,-13.101 1304.7,-474.82 -59.095,19.515 -125.06,20.202 -187.82,-4.764 -137.43,-54.972 -203.4,-208.44 -147.05,-343.03 l 203.85,-486.36 c 52.225,-124.51 190.57,-187.59 320.21,-152.73 -43.977,-265.65 -222.18,-448.25 -335.33,-539.83 -19.7,43.978 -57.264,70.685 -85.667,59.324 l -176.37,-70.501 c -29.318,-11.636 -37.105,-58.591 -17.864,-104.9 19.697,-46.406 59.095,-74.533 87.954,-62.943 l 176.83,70.501 c 24.738,9.987 32.982,46.223 22.905,85.528 388.01,189.29 486.04,511.79 506.2,719.22 24.736,60.698 26.569,130.28 -0.918,195.42 l -203.85,486.41 c -2.29,5.956 -5.956,11.041 -8.705,16.858 -10.077,30.647 -20.156,60.974 -32.982,91.163"
+           id="path144"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(13.426223,0,0,13.426223,-40212.571,32831.975)"
+         id="g150"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 5391.2,-267.49 h -109.43 v -13.267 h 109.43 z m 0,26.534 h -109.43 v -13.267 h 109.43 z m 0,26.534 h -109.43 v -13.267 h 109.43 z m 32.828,0 v -79.602 c 0,-7.329 -7.3478,-13.267 -16.414,-13.267 h -142.26 c -9.0675,0 -16.414,5.938 -16.414,13.267 v 106.14 h 175.08 v -26.534 z m 0,137.09 h -175.08 v 39.801 c 0,1.831 0.4565,3.577 1.2929,5.165 2.4892,4.76 8.3202,8.102 15.121,8.102 h 142.26 c 0.3316,0 0.6409,-0.06 0.9601,-0.078 0.7918,-0.038 1.5824,-0.068 2.3309,-0.19 h 0.012 c 1.8262,-0.301 3.5273,-0.893 5.085,-1.649 v -0.01 c 0.014,0 0.028,-0.01 0.039,-0.01 1.1111,-0.544 2.1577,-1.152 3.0671,-1.882 0.021,-0.01 0.03,-0.018 0.048,-0.027 0.704,-0.565 1.3399,-1.191 1.9066,-1.857 0.028,-0.029 0.066,-0.055 0.09,-0.086 1.7754,-2.094 2.8171,-4.608 2.8542,-7.329 v -0.012 h 0.016 v -39.94 z m -213.4,-39.79 c -9.0675,0 -16.415,-5.938 -16.415,-13.267 0,-7.329 7.3478,-13.267 16.415,-13.267 9.0662,0 16.414,5.938 16.414,13.267 0,7.329 -7.3478,13.267 -16.414,13.267 m 284.51,-123.83 h -54.714 v 66.335 h -207.91 v -66.335 h -54.713 c -9.0662,0 -16.414,5.938 -16.414,13.267 v 123.83 c 0,7.329 7.3478,13.267 16.414,13.267 h 317.34 c 9.0675,0 16.414,-5.938 16.414,-13.267 v -123.83 c 0,-7.329 -7.3465,-13.267 -16.414,-13.267"
+           id="path148"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <path
+         d="m 23509.038,-9937.6896 c 0,-1624.7024 -1317.12,-2942.0814 -2941.995,-2942.0814 -1624.874,0 -2941.994,1317.379 -2941.994,2942.0814 0,1624.8746 1317.12,2941.9947 2941.994,2941.9947 1624.875,0 2941.995,-1317.1201 2941.995,-2941.9947"
+         id="path152"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 13296.516,1132.7416 c 0,-1624.70175 -1317.12,-2942.0813 -2941.995,-2942.0813 -1624.8743,0 -2941.9945,1317.37955 -2941.9945,2942.0813 0,1624.8746 1317.1202,2941.9948 2941.9945,2941.9948 1624.875,0 2941.995,-1317.1202 2941.995,-2941.9948"
+         id="path154"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 60438.715,17855.741 c 0,-1624.702 -1317.12,-2942.081 -2941.994,-2942.081 -1624.875,0 -2941.995,1317.379 -2941.995,2942.081 0,1624.875 1317.12,2941.995 2941.995,2941.995 1624.874,0 2941.994,-1317.12 2941.994,-2941.995"
+         id="path156"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 14289.37,9075.2286 c 0,-1624.7018 -1317.12,-2942.0813 -2941.995,-2942.0813 -1624.8742,0 -2941.9944,1317.3795 -2941.9944,2942.0813 0,1624.8744 1317.1202,2941.9944 2941.9944,2941.9944 1624.875,0 2941.995,-1317.12 2941.995,-2941.9944"
+         id="path158"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="M 10759.27,9773.7276 H 6095.925 c -886.2638,0 -1604.6458,718.4944 -1604.6458,1604.6454 v 4471.085 c 0,886.351 -683.5176,1604.819 -1526.497,1604.819 h -5071.034"
+         stroke-miterlimit="10"
+         id="path160"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 14585.887,18110.762 v 3518.516 c 0,886.264 -1131.171,1604.646 -2017.349,1604.646 H 859.17079 c -886.350297,0 -1604.8188,683.518 -1604.8188,1526.583 v 4127.11"
+         stroke-miterlimit="10"
+         id="path162"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 2383.0743,29526.207 c 0,-1624.702 -1317.1202,-2942.081 -2941.99481,-2942.081 -1624.87429,0 -2941.99529,1317.379 -2941.99529,2942.081 0,1624.875 1317.121,2941.995 2941.99529,2941.995 1624.87461,0 2941.99481,-1317.12 2941.99481,-2941.995"
+         id="path164"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m -1596.2088,17869.573 c 0,-1624.702 -1317.12,-2942.082 -2941.995,-2942.082 -1624.875,0 -2941.995,1317.38 -2941.995,2942.082 0,1624.874 1317.12,2941.995 2941.995,2941.995 1624.875,0 2941.995,-1317.121 2941.995,-2941.995"
+         id="path166"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 41412.398,30305.967 h 23473.197 c 886.264,0 1604.646,-1131.171 1604.646,-2017.348 v -3167.105"
+         stroke-miterlimit="10"
+         id="path168"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 69232.196,24379.964 c 0,-1624.702 -1317.121,-2942.081 -2941.995,-2942.081 -1624.875,0 -2941.995,1317.379 -2941.995,2942.081 0,1624.875 1317.12,2941.995 2941.995,2941.995 1624.874,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path170"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="M 65802.807,35424.547 H 58499.17 c -886.263,0 -1604.645,-1131.171 -1604.645,-2017.348 v -3167.105"
+         stroke-miterlimit="10"
+         id="path172"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 70105.319,35810.969 c 0,-1624.702 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.994,1317.379 -2941.994,2942.081 0,1624.875 1317.12,2941.995 2941.994,2941.995 1624.875,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path174"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m -8616.7288,2239.1018 h 3846.499 c 886.264,0 1604.646,-718.4944 1604.646,-1604.64586 V -3571.4936 c 0,-886.3503 683.517,-1604.8188 1526.5832,-1604.8188 H 9001.8711"
+         stroke-miterlimit="10"
+         id="path176"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m -5039.5148,1966.3586 c 0,-1624.70169 -1317.12,-2942.08115 -2941.995,-2942.08115 -1624.875,0 -2941.9952,1317.37946 -2941.9952,2942.08115 0,1624.8747 1317.1202,2941.9949 2941.9952,2941.9949 1624.875,0 2941.995,-1317.1202 2941.995,-2941.9949"
+         id="path178"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(1.2355133,0,0,1.2355133,-40816.842,-6671.861)"
+         id="g190"
+         style="fill:#131112"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 41417,8479.4 c -766.3,0 -1387.6,-530.42 -1387.6,-1184.4 0,-592.46 953.36,-2068.3 953.36,-2068.3 l 978.58,0.8747 c 0,0 842.84,1466 842.84,2067.5 0,653.83 -620.86,1184.2 -1387.2,1184.2 z m 0,-119.84 c 687.39,0 1246.5,-477.87 1246.5,-1064.5 0,-496.17 -628.11,-1656.3 -790.5,-1947.5 l -806.26,-0.471 c -283.31,448.06 -896.29,1509.2 -896.29,1948 0,586.81 559.06,1064.5 1246.5,1064.5"
+           id="path180"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 41033,4357.8 h 859.4 c 19.155,25.906 34.369,53.358 46.903,82.359 h -952.89 c 12.376,-29.001 27.669,-56.454 46.588,-82.359"
+           id="path182"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 41462,4154.4 c 138.11,0 263.05,47.37 354.81,123.61 h -709.46 c 91.915,-76.169 216.39,-123.61 354.65,-123.61"
+           id="path184"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 41972,5113.2 h -1018.4 v -523.96 c 0,-23.82 3.704,-46.63 8.04,-69.507 h 1002 c 4.178,22.81 8.356,45.688 8.356,69.507 v 523.96"
+           id="path186"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 41462,5457.9 -392.65,1469.5 359.38,-112.71 427.33,118.22 -394.07,-1475.1 z m 523.74,1511.2 0.788,2.4896 -14.189,2.6242 -120.45,47.437 -423.31,-133.5 -356.62,133.5 -134.48,-43.736 v -9.4201 l 0.947,-0.2692 465.17,-1741.7 h 116.82 l 465.33,1741.7 0.788,0.2692 -0.788,0.6056"
+           id="path188"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.4722941,0,0,1.4722941,-76911.432,-26179.953)"
+         id="g196"
+         style="fill:#131112"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 46888,17755 v 243.63 c 0,38.332 -31.184,69.331 -69.238,69.331 -38.424,0 -69.423,-30.999 -69.423,-69.331 V 17755 c -698.6,35.361 -1258.1,594.37 -1293.2,1293.2 h 232.77 c 38.239,0 69.238,31.185 69.238,69.423 0,38.239 -31.184,69.146 -69.238,69.146 h -232.87 c 35.269,699.16 594.93,1258.5 1293.7,1293.7 0,-1.485 -0.928,-2.228 -0.928,-3.435 v -254.03 c 0,-38.332 31.185,-69.238 69.424,-69.238 38.238,0 69.238,31.092 69.238,69.238 v 253.94 c 0,1.206 -0.929,2.042 -0.929,3.341 699.06,-35.176 1258.6,-594.37 1293.8,-1293.5 h -234.44 c -38.424,0 -69.424,-31 -69.424,-69.146 0,-38.424 31,-69.423 69.424,-69.423 h 234.44 c -34.99,-698.78 -594.09,-1257.8 -1292.9,-1293.2 z m -69.238,2996 c -902.41,0 -1633.6,-731.27 -1633.6,-1633.4 0,-902.14 731.18,-1633.7 1633.6,-1633.7 902.04,0 1633.5,731.55 1633.5,1633.7 0,902.14 -731.45,1633.4 -1633.5,1633.4"
+           id="path192"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 46947,19063 c 4.92,14.015 8.725,28.123 8.725,43.251 0,75.549 -60.885,136.71 -136.34,136.71 -75.363,0 -136.53,-61.164 -136.53,-136.71 0,-75.364 61.164,-136.53 136.53,-136.53 7.24,0 13.644,3.063 20.512,4.269 1.207,-1.577 1.763,-2.877 3.248,-4.269 l 565.23,-490.61 152.58,-40.188 -75.735,157.22 -538.22,466.85"
+           id="path194"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(64.364782,0,0,57.238882,22199.353,-9103.2081)"
+         id="g200"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="M 0,0 C -0.334,0 -0.608,0.275 -0.608,0.609 -0.608,0.942 -0.334,1.22 0,1.22 H 5.337 C 5.294,1.522 5.25,1.813 5.177,2.117 H 0 c -0.334,0 -0.608,0.277 -0.608,0.61 0,0.334 0.274,0.608 0.608,0.608 H 4.858 C 4.538,4.408 4.075,5.526 3.48,6.744 3.062,7.412 2.132,8.021 1.465,8.108 c -5.961,0.696 -11.879,1.043 -17.796,1.043 -5.541,0 -11.065,-0.303 -16.636,-0.913 V -9.021 c 1.581,-0.173 3.162,-0.319 4.743,-0.435 2.552,-0.202 5.106,-0.348 7.644,-0.421 l 2.161,-6.424 0.333,-0.972 h 1.814 l 4.19,-16.985 -9.268,-2.102 c -0.667,-0.203 -1.203,-0.537 -1.203,-1.204 v -2.03 H 4.438 v 4.134 c 0,0.665 -0.536,1.202 -1.205,1.202 h -3.885 l -5.933,24.629 c 2.684,0.173 5.367,0.42 8.064,0.738 0.667,0.087 1.611,0.698 2.017,1.364 0.986,2.002 1.595,3.742 1.841,5.423 H 0.015 c -0.333,0 -0.61,0.277 -0.61,0.612 0,0.331 0.277,0.606 0.61,0.606 h 5.438 c 0.014,0.306 0.014,0.611 0,0.901 H 0 Z m -22.568,-46.077 c 0,-0.667 0.537,-1.203 1.205,-1.203 H 3.219 c 0.669,0 1.205,0.536 1.205,1.203 v 5.568 h -26.992 z m 1.32,35.302 c -2.203,0.072 -4.424,0.202 -6.627,0.362 l 1.914,-5.062 c 0.174,-0.465 0.725,-0.84 1.218,-0.84 h 5.366 z m -42.93,10.224 1.392,-0.812 h 11.936 v 1.624 h -11.921 z m 14.243,2.247 v -4.235 l 3.858,-2.74 5.627,-0.754 v 11.24 l -5.627,-0.754 z m 10.427,3.483 5.613,3.016 V -9.036 l -5.613,3.016 z"
+           id="path198"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.3254192,0,0,1.3254192,1022.1251,-8454.8489)"
+         id="g206"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <g
+           transform="matrix(55.608,0,0,49.452,50690,24257)"
+           id="g204">
+          <path
+             d="M 0,0 H -57.143 V -5.719 H 5.095 V 0 Z M -57.143,36.838 V 0.805 h 3.19 V 33.648 H 1.907 V 0.805 h 3.188 v 36.033 z m 19.256,-52.798 h 23.741 v 0.934 h -23.741 z m 14.288,9.439 V -9.84 h 6.783 l 2.657,-4.384 h -23.728 l 2.658,4.384 h 6.781 v 3.319 z"
+             id="path202"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="matrix(68.914535,0,0,61.285508,66583.432,33755.238)"
+         id="g210"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="M 0,0 H -4.341 C -4.466,0.671 -5.043,1.203 -5.763,1.203 H -6.105 V 11.885 H -8.76 V 1.203 h -0.327 c -0.719,0 -1.297,-0.516 -1.422,-1.203 h -4.341 c -0.984,0 -1.781,-0.796 -1.781,-1.78 V -2.624 H 1.781 V -1.78 C 1.766,-0.796 0.97,0 0,0 m -6.105,12.758 v 46.835 c 0,6.418 5.216,11.634 11.634,11.634 6.419,0 11.634,-5.216 11.634,-11.634 V 20.364 c 0,-0.734 0.594,-1.343 1.327,-1.343 0.735,0 1.328,0.594 1.328,1.343 V 59.67 C 19.787,67.525 13.4,73.897 5.529,73.897 -2.357,73.897 -8.775,67.479 -8.775,59.593 V 12.758 H -7.9 v 45.944 h 0.889 V 12.758 Z M 6.888,0.828 C 6.903,0.655 6.935,0.5 6.965,0.328 7.325,-1.249 8.729,-2.437 10.433,-2.437 H 26.58 c 1.858,0 3.39,1.438 3.545,3.265 H 6.965 Z m 18.52,20.161 -3.5467,-8.9222 c 2.124,0.388 8.5327,0.51263 8.0917,5.3142 -0.359,2.14 -1.295,4.06 -2.654,5.638 -4.9477,3.9566 -4.6867,-2.1407 -1.891,-2.03 m -0.593,-5.592 c -1.733,-0.265 -3.826,-0.453 -6.325,-0.453 -2.544,0 -4.622,0.188 -6.324,0.469 v -1.89 h 12.649 z m 0,-4.497 H 12.181 v -0.624 h 12.634 z m 0,-4.966 H 12.181 V 5.327 H 24.815 Z M 11.589,20.989 c 0,0 2.0393,5.8308 -1.891,2.03 -1.311,-1.531 -2.249,-3.404 -2.623,-5.466 0.086652,-1.9384 2.25,-0.984 4.514,-1.421 z m 8.839,0.702 c 0.249,-0.375 0.389,-0.812 0.389,-1.296 0,-1.28 -1.046,-2.327 -2.327,-2.327 -1.28,0 -2.327,1.047 -2.327,2.327 0,0.484 0.141,0.921 0.391,1.296 v 5.216 c -2.514,-0.421 -4.747,-1.64 -6.434,-3.389 2.015,-0.671 0.54172,-2.4043 0.54385,-2.4202 l 0.66762,-4.966 c 1.687,-0.28 4.5995,-0.57016 7.1585,-0.57784 2.5023,-0.0075 5.0312,-0.79965 6.325,0.468 l 2.0029,4.372 c 0.005,0.014 -1.972,2.453 0.041,3.124 -1.685,1.749 -3.934,2.968 -6.432,3.389 z M 11.589,1.421 V 15.523 C 9.34,15.944 22.751,18.759 6.965,16.944 6.903,16.46 6.872,15.961 6.872,15.461 V 1.437 h 4.717 z M 24.815,7.169 H 12.181 v -0.61 h 12.634 z m 0,1.249 H 12.181 V 7.809 h 12.634 z m 5.232,8.354 C 26.268,15.409 7.598,17.226 11.49,15.507 L 9.9474,1.355 30.1254,1.421 v 14.024 c 0,0.453 -0.031,0.89 -0.078,1.327 M 24.8154,9.65 H 12.1814 V 9.042 h 12.634 z M 12.1824,1.421 h 12.634 v 3.28 h -12.634 z m -6.201,9.886 c -0.092,0.015 -0.186,0.031 -0.281,0.031 -0.702,0 -1.046,-0.564 -1.264,-1.266 0,0 -0.827,-2.467 -0.827,-5.622 0,-3.154 0.827,-5.621 0.827,-5.621 0.203,-0.703 0.562,-1.266 1.264,-1.266 0.564,0 1.032,0.36 1.188,0.875 -0.563,0.75 -0.907,1.671 -0.907,2.687 z m 26.659,-1.219 c 0,0 0.827,-2.467 0.827,-5.621 0,-3.155 -0.827,-5.622 -0.827,-5.622 -0.204,-0.703 -0.563,-1.266 -1.266,-1.266 -0.593,0 -1.077,0.406 -1.218,0.953 0.531,0.735 0.843,1.624 0.843,2.593 v 10.149 c 0.125,0.033 0.234,0.064 0.375,0.064 0.703,0.016 1.062,-0.564 1.266,-1.25"
+           id="path208"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 440.33069,31648.503 h 75.7119 c 25.6561,0 46.6828,18.63 46.6828,41.443 0,22.684 -21.0267,41.452 -46.6828,41.452 h -92.0324 c -69.8274,187.462 -375.028297,338.599 -768.7293,384.157 -33.7363,-54.834 -133.925,-94.185 -251.6152,-94.185 -117.6902,0 -216.6212,39.351 -251.6931,93.217 -391.34959,-45.506 -694.11609,-195.727 -765.11569,-383.189 h -92.0327 c -25.734,0 -46.682,-18.768 -46.682,-41.452 0,-22.813 20.948,-41.443 46.682,-41.443 h 75.7113 z M -1246.4407,29319.856 H 58.230993 c 258.669397,0 363.573897,2202.174 363.573897,2202.174 H -1609.8071 c 0,1.132 100.1931,-2202.174 363.3405,-2202.174 m -236.314,332.453 c -41.9747,184.48 -80.419,441.238 -114.0766,763.585 -57.1956,545.755 -82.7726,1098.84 -83.8716,1104.113 l -3.609,65.095 H 494.84049 l -3.2154,-65.095 c 0,-2.23 -2.5114,-58.05 -8.3173,-151.267 -2.2744,-47.728 -5.806,-103.547 -10.513,-167.873 -13.8083,-210.224 -36.0911,-498.173 -66.3764,-784.999 -25.5773,-241.405 -53.5864,-446.607 -83.7922,-612.319 -10.5129,-54.911 -19.7706,-105.777 -30.3631,-151.266 -1.0201,-5.092 -2.1967,-10.322 -3.3735,-16.538 -62.9219,-271.394 -128.1244,-379.134 -231.844597,-379.134 H -1246.5028 c -104.6625,1.046 -173.3886,115.062 -236.314,395.672 m 1654.09409,-912.544 235.1383,-1415.066 c 0,-115.961 -106.0716,-209.178 -235.1383,-209.178 H -1348.8225 c -130.4759,0 -235.3717,94.185 -235.3717,209.178 l 235.3717,1415.066 z M -67.543707,27034.727 c 0,-53.866 48.8777,-98.447 110.6274,-98.447 60.490197,0 110.627397,43.466 110.627397,98.447 v 17.583 H -67.535007 Z m -1273.204593,0 c 0,-53.866 48.9572,-98.447 110.5496,-98.447 61.8249,0 110.7829,43.466 110.7829,98.447 v 17.583 h -221.3239 z m 94.2282,2159.728 h -94.2282 v -391.627 H 152.55269 v 391.627 H 58.168893 Z m 2393.8287,1880.069 -1.1766,-11.368 -171.19281,-1145.608 c -29.1087,-169.974 -160.6807,-282.788 -329.5999,-282.788 h -283.1514 c 0,0.968 1.1767,1.945 1.1767,4.046 11.6117,49.75 22.0468,104.645 32.6384,163.611 h 250.4396 c 87.321,0 131.6515,71.518 142.2413,138.991 l 169.9393,1138.259 c -2.2744,67.395 -65.2768,121.192 -140.9879,121.192 h -271.4637 c 4.8648,64.325 8.1593,121.199 10.5916,167.873 h 260.8739 c 181.7826,0 329.67771,-131.591 329.67771,-294.234"
+         id="path212"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.86447895"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(72.72948,0,0,64.677723,-4434.3798,20184.647)"
+         id="g216"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 0,0 h -12.434 l -7.362,-15.579 H 16.942 L 9.672,0 Z m 0.114,-70.274 v 48.363 h -0.793 v 1.961 h 0.793 v 3.513 h -2.989 v -3.513 h 0.742 v -1.961 h -0.742 v -48.363 c -4.152,-0.172 -7.321,-1.071 -7.321,-2.149 0,-1.201 3.922,-2.181 8.766,-2.181 4.844,0 8.765,0.972 8.765,2.181 0,1.078 -3.12,1.969 -7.221,2.149 M -0.205,0.849 h -2.46 l 0.508,2.166 h 1.445 z"
+           id="path214"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 12786.041,10054.683 -458.779,-938.8239 c -102.026,-208.8668 -289.479,-326.1852 -418.338,-261.2196 l -1096.592,546.3593 c -129.343,64.9172 -151.266,285.6584 -48.815,495.528 l 458.424,939.3432 c 102.173,208.883 289.48,326.184 418.339,261.219 l 1096.764,-546.333 c 128.86,-64.968 150.843,-286.661 48.958,-495.511 z m -777.573,-1674.4955 -81.539,-166.5073 c -18.103,-37.3205 -51.69,-58.0766 -74.605,-47.0796 l -194.983,97.2712 c -22.906,11.9532 -27.027,50.7683 -8.505,88.1336 l 81.472,167.4583 c 18.107,37.3195 51.416,58.048 74.395,46.1009 l 194.983,-97.2712 c 22.915,-10.997 26.617,-50.8132 8.786,-88.1077 z m -281.949,-577.1608 -81.612,-167.4755 c -18.237,-36.3755 -51.555,-58.0627 -74.327,-46.0931 l -195.259,97.2452 c -23.258,10.9599 -27.098,50.7613 -8.646,88.1163 l 81.399,166.49 c 18.453,37.3576 51.554,58.0636 74.816,47.1038 l 194.845,-97.2885 c 23.051,-10.9823 26.751,-50.7985 8.784,-88.1077 z m -282.011,-577.1607 -81.614,-167.4755 c -18.313,-37.3403 -51.554,-58.061 -74.467,-47.064 l -195.329,97.2366 c -22.696,11.9756 -26.534,51.7788 -8.427,89.1018 l 81.255,166.4814 c 18.382,37.3481 51.555,58.0619 74.747,47.096 l 194.836,-98.2481 c 23.26,-10.9598 26.684,-50.8054 8.999,-87.1222 z m -442.406,219.6814 -81.538,-166.5073 c -17.967,-37.3057 -51.348,-58.0394 -74.471,-47.0666 l -195.112,98.2221 c -22.913,10.9971 -26.683,50.8063 -8.861,87.1395 l 81.819,167.5015 c 17.753,36.3254 51.487,58.054 74.252,46.0845 l 195.26,-97.2453 c 22.918,-10.9953 26.754,-50.7985 8.649,-88.1163 z m -442.042,221.6351 -81.82,-167.5014 c -18.105,-37.3187 -51.553,-58.0619 -74.47,-47.0649 l -195.053,97.2712 c -22.978,11.948 -27.029,50.77 -8.717,88.1077 l 81.683,167.4841 c 17.965,37.3058 51.553,58.0619 74.47,47.0649 l 195.259,-97.2453 c 22.701,-11.9756 26.47,-51.7866 8.647,-88.1163 z m -442.544,219.6641 -81.604,-166.5159 c -18.174,-37.3274 -51.2087,-58.0265 -74.4701,-47.0666 l -194.9054,98.2394 c -23.2589,10.9599 -27.1032,49.8044 -8.9301,87.1308 l 81.6811,167.4842 c 17.9674,37.3048 51.4867,58.0558 74.4637,46.1078 l 195.0528,-97.2711 c 23.123,-10.9763 26.821,-50.7925 8.715,-88.1077 z m -77.89,549.9124 81.604,166.5159 c 18.244,37.3334 51.487,58.0541 74.538,47.0735 l 195.121,-97.2626 c 22.84,-11.9609 26.755,-50.7985 8.716,-88.1076 l -81.749,-167.4842 c -17.894,-36.3401 -51.347,-58.0411 -74.326,-46.0932 l -194.983,97.2712 c -23.121,10.9754 -26.962,50.7778 -8.924,88.0904 z m 282.08,577.1694 81.818,167.4928 c 17.968,37.3057 51.279,58.0342 74.186,46.0793 l 195.19,-97.2539 c 22.982,-10.9893 26.89,-50.7864 8.784,-88.1077 l -81.604,-166.5159 c -18.175,-37.3265 -51.487,-58.0541 -74.537,-47.0718 l -195.052,97.2712 c -22.905,11.9549 -26.96,50.7769 -8.784,88.1077 z m 520.157,-769.6025 -81.543,-167.4668 c -18.177,-37.3274 -51.559,-58.0619 -74.322,-46.0932 l -195.476,97.228 c -22.774,11.0117 -26.682,50.8063 -8.654,87.1654 l 81.75,167.4841 c 18.244,37.3334 51.488,58.0541 74.473,47.0666 l 194.983,-97.2712 c 23.046,-11.9402 27.103,-50.7639 8.787,-88.1077 z m 364.291,328.2946 82.024,167.5187 c 18.107,37.3196 51.21,58.0256 74.256,46.0863 l 195.052,-97.2712 c 23.122,-10.9754 26.822,-50.7916 8.651,-88.125 l -81.329,-166.49 c -18.317,-37.3403 -51.56,-58.0601 -74.819,-47.1003 l -194.983,97.2712 c -22.769,11.9678 -26.821,50.7907 -8.853,88.099 z m 69.39,-460.8192 c 22.904,-11.9549 26.959,-50.7777 8.643,-88.1163 l -81.609,-167.4755 c -18.248,-37.3334 -51.488,-58.0541 -74.6,-46.1208 l -194.992,97.2711 c -22.915,10.9953 -26.751,50.7985 -8.644,88.1164 l 81.532,166.5073 c 18.177,37.3273 51.212,58.0255 74.472,47.0657 l 195.19,-97.2539 z m -511.512,681.4861 81.819,167.4928 c 17.967,37.3057 51.35,58.0394 74.257,46.0862 l 194.983,-97.2712 c 23.049,-10.9806 27.028,-50.7699 8.784,-88.1076 l -81.396,-166.4901 c -18.313,-37.342 -51.558,-58.0618 -74.471,-47.0656 l -195.26,97.2452 c -22.837,11.9618 -26.606,51.771 -8.715,88.1077 z m 2196.209,2067.5746 -1191.598,594.778 c -218.169,109.201 -535.329,-89.698 -708.086,-442.881 L 9651.4562,8127.993 c -172.697,-354.1338 -135.5849,-728.3581 82.6528,-837.5504 l 1191.598,-594.7789 c 218.307,-109.1837 535.536,89.7243 708.224,442.8986 l 1409.274,2885.7177 c 172.628,354.125 135.524,729.309 -82.999,837.515"
+         id="path218"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.86447895"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(1.8919122,0,0,1.8919122,-66948.312,-21425.319)"
+         id="g226"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 66628,21947 c 0,-31.151 -25.654,-56.484 -57.72,-56.484 -32.067,0 -57.721,25.333 -57.721,56.484 0,31.288 25.654,56.575 57.721,56.575 32.066,0 57.72,-25.287 57.72,-56.575"
+           id="path220"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 66528,21864 -132.85,-515.55 79.251,-16.125 100.78,521.41 -47.184,10.262 z m -268.45,-1039.4 h 116.82 l 83.833,432.04 -84.748,16.95 -115.9,-448.98"
+           id="path222"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 66455,20007 c -147.97,0 -267.53,116.86 -267.53,261.12 0,144.21 119.56,261.12 267.53,261.12 147.51,0 267.07,-116.91 267.07,-261.12 0,-144.26 -119.56,-261.12 -267.07,-261.12 z m -1487,0 c -147.51,0 -267.07,116.86 -267.07,261.12 0,144.21 119.56,261.12 267.07,261.12 147.51,0 267.53,-116.91 267.53,-261.12 0,-144.26 -120.02,-261.12 -267.53,-261.12 z m 1536.9,767.09 h -206.6 c -254.24,-139.67 -262.03,-379.03 -262.49,-404.96 l 4.121,-29.365 h -664.25 l -2.289,23.73 c -30.693,270.14 -188.74,372.44 -272.11,410.6 h -183.24 c -276.69,0 -501.16,-219.2 -501.16,-489.66 0,-270.42 224.47,-489.66 501.16,-489.66 h 349.99 l 81.543,233.54 c 23.362,62.072 83.831,104.54 151.17,106.28 h 407.25 c 67.797,-1.741 127.81,-45.902 148.42,-109.3 l 66.884,-230.52 h 381.6 c 276.69,0 501.16,219.25 501.16,489.66 0,270.46 -224.47,489.66 -501.16,489.66 z m -596.9,-719.4 h -407.25 c -26.111,1.604 -67.341,-26.936 -73.754,-52.086 l -71.921,-207.84 h 683.48 l -60.925,208.44 c -5.498,25.012 -43.98,53.048 -69.631,51.49 z m -483.76,338.35 h 557.97 c 5.041,67.616 38.482,247.88 217.14,381.05 h -992.24 c 87.954,-62.943 188.28,-177.42 217.14,-381.05"
+           id="path224"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="M 56341.085,7040.2451 V -17602.593 c 0,-886.264 1131.171,-1604.646 2017.348,-1604.646 h 5294.675"
+         stroke-miterlimit="10"
+         id="path228"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 4923.389,-14191.359 v 3525 c 0,888.7704 -418.088,1609.2276 -933.7238,1609.2276 H 550.16279 c -515.756797,0 -933.8102,685.4627 -933.8102,1530.9923 v 2423.5667"
+         stroke-miterlimit="10"
+         id="path230"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 8014.2039,-15773.355 c 0,-1624.702 -1317.1202,-2942.082 -2941.9949,-2942.082 -1624.8746,0 -2941.9948,1317.38 -2941.9948,2942.082 0,1624.874 1317.1202,2942.081 2941.9948,2942.081 1624.8747,0 2941.9949,-1317.12 2941.9949,-2942.081"
+         id="path232"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 6680.0535,-15690.365 h 4212.0875 c 886.264,0 1604.646,-718.503 1604.646,-1604.646 v -95.681 c 0,-886.35 683.517,-1604.819 1526.583,-1604.819 h 2416.651"
+         stroke-miterlimit="10"
+         id="path234"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 20813.593,-18724.687 c 0,-1624.701 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.995,1317.38 -2941.995,2942.081 0,1624.875 1317.121,2942.082 2941.995,2942.082 1624.875,0 2941.995,-1317.12 2941.995,-2942.082"
+         id="path236"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 68117.882,-10374.598 h -5034.293 c -886.264,0 -1604.646,1131.1714 -1604.646,2017.3488 v 5294.6743"
+         stroke-miterlimit="10"
+         id="path238"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 71644.092,-9835.2486 c 0,-1624.7024 -1317.12,-2942.0824 -2941.995,-2942.0824 -1624.875,0 -2941.995,1317.38 -2941.995,2942.0824 0,1624.8743 1317.12,2941.9945 2941.995,2941.9945 1624.875,0 2941.995,-1317.1202 2941.995,-2941.9945"
+         id="path240"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 82139.731,-10847.814 c 0,-1624.701 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.995,1317.38 -2941.995,2942.081 0,1624.8754 1317.121,2941.9957 2941.995,2941.9957 1624.875,0 2941.995,-1317.1203 2941.995,-2941.9957"
+         id="path242"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(1.4972776,0,0,1.4972776,-911.97371,-22001.062)"
+         id="g252"
+         style="fill:#131112"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 46512,8978.6 c 550.38,-5.2903 895.08,28.958 941.86,-581.28 h 671.31 c 0,945.2 -824.45,1072.5 -1630.8,1072.5 -806.26,0 -1630.7,-127.34 -1630.7,-1072.5 h 666.21 c 51.511,621.94 436.12,586.76 982.14,581.28"
+           id="path244"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 45196,8093.6 c 163.54,0 299.51,-9.7453 329.76,151.01 4.176,21.996 6.497,46.592 6.497,75.364 h -672.52 c 0,-239.27 150.64,-226.37 336.26,-226.37"
+           id="path246"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 47458,8319.9 h -6.312 c 0,-28.957 2.506,-53.831 7.054,-75.364 31.928,-148.22 167.9,-139.13 330.88,-139.13 186.46,0 337.65,-12.344 337.65,214.49 h -669.27"
+           id="path248"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 46841,8003.4 c -51.139,0 -92.627,41.394 -92.627,92.72 0,51.232 41.488,92.72 92.627,92.72 51.233,0 92.627,-41.487 92.627,-92.72 0,-51.325 -41.394,-92.72 -92.627,-92.72 z m 0,-317.6 c -51.139,0 -92.627,41.487 -92.627,92.534 0,51.325 41.488,92.72 92.627,92.72 51.233,0 92.627,-41.394 92.627,-92.72 0,-51.047 -41.394,-92.534 -92.627,-92.534 z m 0,-317.79 c -51.139,0 -92.627,41.487 -92.627,92.534 0,51.325 41.488,92.72 92.627,92.72 51.233,0 92.627,-41.394 92.627,-92.72 0,-51.047 -41.394,-92.534 -92.627,-92.534 z m -381.27,635.39 c -51.232,0 -92.627,41.394 -92.627,92.72 0,51.232 41.395,92.72 92.627,92.72 51.14,0 92.627,-41.487 92.627,-92.72 0,-51.325 -41.487,-92.72 -92.627,-92.72 z m 0,-317.6 c -51.232,0 -92.627,41.487 -92.627,92.534 0,51.325 41.395,92.72 92.627,92.72 51.14,0 92.627,-41.394 92.627,-92.72 0,-51.047 -41.487,-92.534 -92.627,-92.534 z m 0,-317.79 c -51.232,0 -92.627,41.487 -92.627,92.534 0,51.325 41.395,92.72 92.627,92.72 51.14,0 92.627,-41.394 92.627,-92.72 0,-51.047 -41.487,-92.534 -92.627,-92.534 z m -381.18,635.39 c -51.325,0 -92.812,41.394 -92.812,92.72 0,51.232 41.487,92.72 92.812,92.72 51.14,0 92.627,-41.487 92.627,-92.72 0,-51.325 -41.487,-92.72 -92.627,-92.72 z m 0,-317.6 c -51.325,0 -92.812,41.487 -92.812,92.534 0,51.325 41.487,92.72 92.812,92.72 51.14,0 92.627,-41.394 92.627,-92.72 0,-51.047 -41.487,-92.534 -92.627,-92.534 z m 0,-317.79 c -51.325,0 -92.812,41.487 -92.812,92.534 0,51.325 41.487,92.72 92.812,92.72 51.14,0 92.627,-41.394 92.627,-92.72 0,-51.047 -41.487,-92.534 -92.627,-92.534 z m 1051.2,1114.8 v 95.04 c 0,42.601 -49.098,45.107 -109.7,45.107 h -98.566 c -60.514,0 -109.52,-2.506 -109.52,-45.107 v -145.44 h -699.16 v 145.44 c 0,42.601 -48.912,45.107 -109.33,45.107 h -98.752 c -60.607,0 -109.52,-2.506 -109.52,-45.107 v -178.01 c -159.36,-165.48 -680.32,-869.93 -699.16,-955.23 l 0.185,-569.22 c 0,-52.439 42.787,-95.226 95.133,-95.226 h 2542 c 52.347,0 95.133,42.786 95.133,95.226 v 572 c -18.655,82.696 -539.61,786.96 -698.78,952.44 v 82.974"
+           id="path250"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 6910.1778,-15305.672 c 1.2327,9.649 2.4663,18.201 1.2327,23.537 0,4.312 -1.2327,8.625 -1.2327,10.817 -2.3834,-1.095 -6.0004,-3.215 -10.8492,-5.336 -6.0825,-3.289 -12.0007,-8.624 -20.63,-16.227 -25.3171,-22.512 -59.0162,-64.468 -94.1936,-128.867 -35.0148,-64.469 -50.6308,-113.878 -55.5626,-146.184 -1.1507,-9.722 -2.4655,-18.2 -1.1507,-23.682 0,-4.167 1.1507,-8.553 1.1507,-10.672 2.4654,0.95 6.0816,3.142 10.8492,5.335 6.1646,3.29 12.164,8.625 20.6308,16.081 25.3154,22.587 59.2617,64.469 94.1158,129.015 35.1782,64.469 50.8772,113.878 55.6448,146.184 m -88.1942,22.513 h -2.3012 c -65.4264,0 -126.992,-34.28 -154.6899,-86.031 -20.6299,-36.548 -23.0971,-78.357 -7.3965,-117.024 7.3965,-17.251 17.013,-33.404 30.2464,-47.366 12.0837,45.172 33.9464,94.513 53.1793,131.133 21.8635,40.933 50.7129,85.01 80.9611,119.289 m 77.3449,-186.9 c -21.618,-40.861 -51.9466,-85.009 -82.1947,-119.368 h 2.5485 c 65.18,0 126.7413,34.356 154.6899,85.959 20.4657,36.548 22.9329,78.431 7.068,117.102 -7.068,17.178 -16.7675,33.331 -30.2464,47.364 -9.5352,-45.244 -32.3851,-95.68 -51.8644,-131.055 m -87.0444,381.478 c 2.4672,-4.312 4.8497,-7.528 7.3982,-9.648 2.3012,2.12 4.6855,5.336 7.068,9.648 3.7812,5.335 7.4812,12.865 9.6994,22.512 10.9322,30.043 21.8644,80.551 21.8644,152.624 0,70.901 -10.9322,122.505 -21.8644,152.546 -3.534,9.794 -7.2322,17.323 -9.6994,22.658 -2.3825,4.313 -4.7668,7.529 -7.068,9.723 -2.5485,-2.194 -4.931,-5.41 -7.3982,-9.723 -3.534,-5.335 -7.2323,-12.864 -9.6165,-22.658 -10.9322,-30.042 -21.7814,-80.55 -21.7814,-152.546 0,-70.902 10.8492,-122.583 21.7814,-152.624 3.617,-9.647 7.3152,-17.177 9.6165,-22.512 m -65.1792,35.378 c -12.0828,45.172 -15.6989,98.896 -15.6989,138.731 0,39.617 3.6161,93.416 15.6989,138.585 -59.2617,-24.707 -100.2795,-77.407 -100.2795,-138.585 0,-61.327 42.2471,-114.025 100.2795,-138.731 m 245.27,139.751 c 0,61.326 -41.1786,115.054 -100.2795,138.663 12.0819,-45.172 15.6989,-98.897 15.6989,-138.663 0,-39.762 -3.617,-93.415 -15.6989,-138.662 59.0975,23.608 100.2795,76.309 100.2795,138.662 m 100.2796,-982.307 c 0,16.153 -14.4662,29.018 -32.5494,29.018 h -480.9961 c -18.0832,0 -32.6306,-12.865 -32.6306,-29.018 0,-16.08 14.5474,-29.018 32.6306,-29.018 h 480.9961 c 18.0832,0 32.5494,12.938 32.5494,29.018 m -32.5494,-73.022 h -480.9961 m 513.5437,-131.133 c 0,16.081 -14.4661,29.019 -32.5493,29.019 h -480.9961 c -18.0832,0 -32.6306,-12.938 -32.6306,-29.019 0,-16.153 14.5474,-28.945 32.6306,-28.945 h 480.9961 c 18.0832,0 32.5493,12.792 32.5493,28.945 m 0,-204.224 c 0,16.153 -14.4661,29.018 -32.5493,29.018 h -480.9961 c -18.0832,0 -32.6306,-12.865 -32.6306,-29.018 0,-16.08 14.5474,-29.018 32.6306,-29.018 h 480.9961 c 18.0832,0 32.5493,12.938 32.5493,29.018 m -63.9472,932.859 c -13.2334,34.354 -37.5625,64.469 -68.8791,87.131 0,25.729 -8.6292,45.027 -29.0136,53.652 -6.0825,2.12 -12.0007,4.312 -19.3981,4.312 -14.4662,0 -30.2464,-6.505 -45.864,-17.177 -15.7802,3.216 -30.1652,4.24 -45.8641,4.24 -84.6602,0 -163.3174,-44.076 -199.4007,-110.593 -25.4814,-47.364 -29.0975,-101.092 -9.7825,-150.575 13.3977,-34.353 37.4804,-64.396 69.0442,-86.983 0,-25.876 8.3008,-45.246 28.8494,-53.798 6.0012,-2.12 12.165,-4.313 19.3981,-4.313 14.4662,0 30.1651,6.505 45.864,17.25 15.7802,-3.215 30.3294,-4.385 46.0284,-4.385 84.495,0 163.0753,44.148 199.3229,110.739 25.3154,47.294 28.9324,99.995 9.6986,150.506 m -430.1993,457.794 c 0,-92.396 72.4122,-169.801 169.1526,-191.292 13.2334,-22.513 30.1651,-37.643 52.0295,-37.643 21.6171,0 39.8646,15.13 51.9465,37.643 96.5796,21.49 169.1526,98.896 169.1526,191.292 0,92.395 -72.5773,169.87 -169.1526,191.291 -13.3147,22.586 -30.3294,37.643 -51.9465,37.643 -21.8644,0 -39.8646,-15.057 -52.0295,-37.643 -96.7439,-21.415 -169.1526,-98.896 -169.1526,-191.291 m 598.2021,306.267 v -1886.034 c 0,-27.921 -25.3975,-51.53 -58.0281,-51.53 h -639.2995 c -31.3996,0 -58.0299,22.512 -58.0299,51.53 v 1886.034 c 0,27.995 25.3975,51.531 58.0299,51.531 h 639.2995 c 32.6306,-1.023 58.0281,-23.536 58.0281,-51.531 m 49.3981,0 c 0,52.701 -48.2466,94.583 -106.1926,94.583 h -639.2995 c -59.2626,0 -106.3569,-43.053 -106.3569,-94.583 v -1886.034 c 0,-52.699 48.3305,-94.513 106.3569,-94.513 h 639.2995 c 59.0975,0 106.1926,42.98 106.1926,94.513 z m -1185.3736,-108.544 c -23.0142,80.622 -118.5201,156.929 -209.1002,167.675 -878.5699,103.132 -1746.161,103.132 -2624.8175,0 -90.5801,-11.768 -186.0877,-88.151 -209.1001,-167.675 -141.2905,-557.779 -141.2905,-1084.316 0,-1642.078 23.0141,-80.623 118.52,-156.937 209.1001,-167.674 878.7429,-103.132 1746.2476,-103.132 2624.8175,0 90.5801,11.768 186.0878,88.151 209.1002,167.674 141.3769,557.71 141.3769,1084.316 0,1642.078 m 1401.8391,280.463 v -2348.184 H 2680.6288 v 2348.184 c 0,80.623 73.728,146.261 164.3893,146.261 h 4454.4008 c 90.6579,0 163.1532,-65.64 163.1532,-146.261 m -4781.9519,-2471.718 c 0,-80.551 73.7279,-146.114 164.3893,-146.114 h 4454.4008 c 90.6579,0 164.3893,65.565 164.3893,146.114 v 80.623 H 2680.6375 Z m 4114.747,-292.229 c 0,-32.308 29.0154,-58.11 65.3442,-58.11 h 201.7867 c 36.3289,0 65.3442,25.802 65.3442,58.11 v 102.113 h -333.5419 v -102.113 z m -3781.231,102.113 h 333.6283 v -102.113 c 0,-32.308 -29.0136,-58.11 -65.4263,-58.11 h -202.9365 c -36.2476,0 -65.2621,25.802 -65.2621,58.11 z"
+         id="path254"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.86447895"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(67.373169,0,0,59.914444,16316.573,-17470.328)"
+         id="g258"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 0,0 c 0.127,-0.297 0.255,-0.453 0.341,-0.481 0.085,0.028 0.213,0.184 0.34,0.481 0.055,0.142 0.128,0.297 0.184,0.496 0.198,0.65 0.383,1.643 0.383,2.96 0,1.318 -0.171,2.311 -0.383,2.961 C 0.809,6.615 0.736,6.785 0.681,6.913 0.554,7.209 0.412,7.379 0.341,7.394 0.255,7.366 0.143,7.209 0,6.913 -0.057,6.771 -0.127,6.615 -0.183,6.417 c -0.199,-0.65 -0.37,-1.643 -0.37,-2.961 0,-1.317 0.171,-2.31 0.383,-2.96 C -0.127,0.311 -0.057,0.142 0,0 m 3.358,3.456 c 0,1.078 -0.566,2.011 -1.417,2.55 0.17,-0.778 0.241,-1.673 0.241,-2.55 0,-0.879 -0.084,-1.771 -0.241,-2.55 0.851,0.538 1.417,1.473 1.417,2.55 m -4.605,-2.55 c -0.169,0.779 -0.24,1.671 -0.24,2.55 0,0.877 0.085,1.772 0.24,2.55 -0.85,-0.539 -1.416,-1.472 -1.416,-2.55 0,-1.077 0.566,-2.012 1.416,-2.55 m 25.528,-18.585 c -0.269,0.184 -0.595,0.297 -0.948,0.297 -0.298,0 -0.568,-0.085 -0.808,-0.213 -0.098,-0.056 -0.185,-0.113 -0.27,-0.185 -0.367,-0.297 -0.595,-0.751 -0.609,-1.259 v -0.03 c 0,-0.211 0.042,-0.41 0.113,-0.593 0.156,-0.412 0.468,-0.751 0.879,-0.936 0.156,-0.07 0.31,-0.112 0.481,-0.127 0.072,-0.014 0.142,-0.029 0.214,-0.029 0.551,0 1.034,0.269 1.344,0.68 0.072,0.1 0.142,0.199 0.185,0.313 0.098,0.212 0.157,0.438 0.157,0.692 0,0.454 -0.186,0.851 -0.47,1.163 -0.083,0.085 -0.168,0.155 -0.268,0.227 m 1.701,-2.636 c 0.183,0.384 0.282,0.794 0.282,1.246 0,0.851 -0.368,1.631 -0.95,2.153 -0.055,0.057 -0.113,0.101 -0.169,0.144 -0.496,0.395 -1.12,0.623 -1.799,0.623 -0.552,0 -1.076,-0.157 -1.516,-0.426 -0.057,-0.043 -0.127,-0.071 -0.184,-0.112 -0.751,-0.539 -1.232,-1.403 -1.232,-2.382 0,-0.198 0.014,-0.382 0.057,-0.579 0,-0.014 0.013,-0.029 0.013,-0.057 0.257,-1.133 1.162,-2.041 2.31,-2.253 h 0.028 c 0.17,-0.028 0.34,-0.042 0.524,-0.042 1.105,0 2.068,0.608 2.565,1.515 0.012,0.057 0.04,0.113 0.071,0.17 m 18.414,1.035 c -0.155,-1.374 -1.188,-2.338 -2.35,-2.268 -4.492,0.143 -8.926,0.284 -13.346,0.838 -0.126,-0.44 -0.325,-0.851 -0.552,-1.233 3.783,-2.267 7.693,-3.797 12.282,-4.817 1.19,-0.185 1.784,-1.218 1.374,-2.38 -1.997,-5.907 -6.147,-8.797 -11.9,-10.525 -1.459,-0.269 -2.846,0.496 -3.2,1.685 -1.346,4.405 -2.635,8.797 -3.457,13.302 -0.369,0 -0.737,0.043 -1.09,0.115 -0.892,-4.421 -1.035,-8.684 -0.497,-13.43 0.228,-1.176 -0.624,-2.013 -1.913,-1.913 -5.199,0.453 -10.708,2.635 -13.811,6.998 -0.778,1.104 -0.552,2.72 0.453,3.528 3.754,3.031 7.523,5.963 11.658,8.401 -0.127,0.353 -0.211,0.707 -0.269,1.089 -4.661,-0.495 -8.909,-1.799 -13.343,-3.938 -1.119,-0.666 -2.239,-0.156 -2.494,1.218 -0.963,5.356 0.269,11.22 3.315,15.725 0.708,1.034 2.139,1.275 3.202,0.566 3.924,-2.634 7.749,-5.34 11.22,-8.484 0.338,0.282 0.708,0.538 1.103,0.75 -1.995,4.293 -4.702,7.877 -8.286,11.375 -1.034,0.85 -1.077,2.125 0.099,2.861 5.014,3.061 11.559,3.105 16.957,1.077 1.202,-0.452 1.813,-1.672 1.416,-2.777 -1.403,-4.348 -2.804,-8.626 -4.645,-12.763 0.395,-0.255 0.764,-0.538 1.09,-0.877 3.371,3.017 5.977,6.444 8.287,10.666 0.524,1.161 1.685,1.616 2.706,0.879 4.858,-3.584 6.672,-9.847 5.991,-15.668 m 3.075,0.326 c 0,13.471 -10.922,24.393 -24.395,24.393 -13.472,0 -24.393,-10.922 -24.393,-24.393 0,-13.473 10.921,-24.395 24.393,-24.395 13.473,0 24.395,10.922 24.395,24.395 m -48.363,18.67 c 0.299,-0.695 0.709,-1.133 1.233,-1.133 0.524,0 0.933,0.453 1.232,1.133 1.573,0.523 2.719,1.997 2.719,3.754 0,1.742 -1.146,3.23 -2.719,3.755 -0.299,0.693 -0.708,1.133 -1.232,1.133 -0.524,0 -0.934,-0.453 -1.233,-1.133 -1.573,-0.525 -2.72,-2.013 -2.72,-3.769 0,-1.743 1.147,-3.23 2.72,-3.74 m 53.363,9.165 v -55.673 c 0,-0.864 -0.694,-1.557 -1.556,-1.557 H -4.758 c -0.866,0 -1.558,0.693 -1.558,1.557 V 8.881 c 0,0.865 0.692,1.559 1.558,1.559 h 55.673 c 0.848,0.014 1.556,-0.694 1.556,-1.559 m -3.399,-58.166 h -3.4 c -0.50494,-4.0019 3.4,-4.0019 3.4,0 z m -52.004,0 h 3.399 c 0.50483,-4.0017 -3.399,-4.0017 -3.399,0 z"
+           id="path256"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.8333006,0,0,1.8333006,-43222.687,-42674.212)"
+         id="g266"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 67452,17484 h -1363.8 v 797.09 H 67452 Z m -1465.9,894.67 v -992.25 h 1568.1 v 992.25 h -1568.1"
+           id="path260"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 68044,16669 c 0,26.57 -22.446,48.1 -49.016,48.1 h -2437.1 c -27.028,0 -49.015,-21.53 -49.015,-48.1 0,-26.11 21.987,-47.641 49.015,-47.641 h 2437.1 c 26.57,0 49.016,21.531 49.016,47.641"
+           id="path262"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 66906,16874 h -248.75 c -49.933,0 -76.505,38.938 -59.554,87.497 16.949,48.559 59.095,87.956 94.369,87.956 h 176.37 c 34.816,0 77.418,-39.397 95.285,-87.956 17.407,-48.559 -7.788,-87.497 -57.721,-87.497 z m 659.21,416.87 h -1591 l -446.65,-504.82 h 2502.1 l -464.51,504.82"
+           id="path264"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 75854.969,21107.046 h -7303.637 c -886.264,0 -1604.646,-1131.17 -1604.646,-2017.348 v -3167.105"
+         stroke-miterlimit="10"
+         id="path268"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 81563.988,21323.166 c 0,-1624.702 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.995,1317.379 -2941.995,2942.081 0,1624.875 1317.121,2941.995 2941.995,2941.995 1624.875,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path270"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 21094.549,35019.107 h -5097.228 c -886.264,0 -1604.646,-1131.171 -1604.646,-2017.349 v -4771.751"
+         stroke-miterlimit="10"
+         id="path272"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 26001.331,35435.785 c 0,-1624.701 -1317.12,-2942.081 -2941.995,-2942.081 -1624.874,0 -2941.995,1317.38 -2941.995,2942.081 0,1624.875 1317.121,2941.995 2941.995,2941.995 1624.875,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path274"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(1.3090805,0,0,1.3090805,660.85929,26510.905)"
+         id="g278"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 60804,-4415.3 h -378.49 c -68.124,0 -123.35,55.316 -123.35,123.35 0,68.217 55.224,123.44 123.35,123.44 H 60804 c 68.124,0 123.44,-55.223 123.44,-123.44 0,-68.031 -55.316,-123.35 -123.44,-123.35 z m -793.82,24.688 h -880.33 c -42.972,0 -78.055,34.99 -78.055,78.241 0,43.065 35.083,77.962 78.055,77.962 h 880.33 c 43.157,0 78.148,-34.897 78.148,-77.962 0,-43.251 -34.991,-78.241 -78.148,-78.241 z m -1336.9,-24.688 h -378.4 c -68.032,0 -123.35,55.316 -123.35,123.35 0,68.217 55.316,123.44 123.35,123.44 h 378.4 c 68.217,0 123.53,-55.223 123.53,-123.44 0,-68.031 -55.316,-123.35 -123.53,-123.35 z m -177.83,1167.4 c 113.05,318.72 204,416.08 387.68,416.08 h 1369.5 c 182.56,0 284.01,-108.5 387.31,-414.78 l 207.06,-419.6 c -67.568,25.059 -142,38.888 -220.34,38.888 h -2145.2 c -70.352,0 -137.55,-11.323 -199.64,-31.835 l 213.56,411.25 z m 2692.1,-865.48 c 0,64.226 -14.386,125.67 -40.559,181.73 -2.692,14.386 -5.848,28.586 -9.746,42.972 l -283.63,703.42 -1.949,6.2185 c -99.31,295.7 -240.57,569.31 -598.83,569.31 h -1369.7 c -367.07,0 -496.82,-280.39 -598.27,-567.55 l -296.81,-705.1 c -42.972,-68.867 -67.382,-147.39 -67.382,-231.01 v -218.85 c 0,-33.877 4.084,-66.918 11.602,-98.845 -7.332,-19.212 -11.602,-40.002 -11.602,-61.906 v -650.71 c 0,-95.597 77.499,-173 172.82,-173 h 358.81 c 95.225,0 172.63,77.406 172.63,173 v 325.31 h 1879.1 v -325.31 c 0,-95.597 77.313,-173 172.82,-173 h 338.12 c 95.318,0 172.82,77.406 172.82,173 v 650.89 c 0,21.718 -4.269,42.601 -11.509,61.72 7.518,31.927 11.509,64.969 11.509,99.031 v 218.67"
+           id="path276"
+           inkscape:connector-curvature="0"
+           style="fill:#131112" />
+      </g>
+      <g
+         transform="matrix(1.9423114,0,0,1.9423114,-106633.09,21839.26)"
+         id="g284"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <path
+           d="m 66917,7849.1 c -146.14,0 -264.32,-115.9 -264.78,-258.83 0.459,-143.39 118.65,-258.83 264.78,-259.28 146.59,0.4582 265.24,115.9 265.24,259.28 0,142.93 -118.65,258.83 -265.24,258.83 z m -336.7,-258.83 c 0,181.87 151.17,329.37 336.7,329.37 186.45,0 337.62,-147.51 337.62,-329.37 0,-182.32 -151.17,-329.83 -337.62,-329.83 -185.53,0 -336.7,147.51 -336.7,329.83 z m -239.59,-414.58 c 71.92,47.642 124.6,120.02 143.84,205.23 44.436,-87.497 116.36,-158.5 203.4,-205.23 z m 816.33,0 h -7.787 c 149.8,80.168 251.5,235.92 251.5,414.58 0,260.66 -216.68,472.3 -483.3,472.3 -251.04,0 -458.1,-187.82 -481.46,-427.41 -60.928,90.704 -165.83,151.17 -285.4,151.17 -189.2,0 -342.2,-149.8 -342.2,-334.41 0,-114.98 59.551,-215.77 149.8,-276.23 h -8.246 c -105.36,0 -191.03,-83.374 -191.03,-186.45 v -601.17 c 0,-103.03 85.666,-186.49 191.03,-186.49 h 1207.1 c 105.36,0 191.03,83.466 191.03,186.49 v 601.17 c 0,103.07 -85.664,186.45 -191.03,186.45"
+           id="path280"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 67434,6796.9 v -255.62 l 481.01,-246.37 v 769.98 L 67434,6796.9"
+           id="path282"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         d="m 67523.121,-19195.828 c 0,-1624.701 -1317.121,-2942.081 -2941.995,-2942.081 -1624.875,0 -2941.995,1317.38 -2941.995,2942.081 0,1624.875 1317.12,2941.995 2941.995,2941.995 1624.874,0 2941.995,-1317.12 2941.995,-2941.995"
+         id="path286"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 81697.982,5342.6677 v 5150.3063 c 0,886.264 -718.494,1604.646 -1604.646,1604.646 H 66459.639 c -886.351,0 -1604.819,683.517 -1604.819,1526.583 v 2416.651"
+         stroke-miterlimit="10"
+         id="path288"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:192.56268311;stroke-miterlimit:10"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <path
+         d="m 84572.375,4373.4139 c 0,-1624.7018 -1317.12,-2942.0813 -2941.995,-2942.0813 -1624.875,0 -2941.995,1317.3795 -2941.995,2942.0813 0,1624.8747 1317.12,2941.9948 2941.995,2941.9948 1624.875,0 2941.995,-1317.1201 2941.995,-2941.9948"
+         id="path290"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:8.02340221"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48" />
+      <g
+         transform="matrix(2.0395652,0,0,2.0395652,-58038.992,-74557.061)"
+         id="g296"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <g
+           transform="matrix(8.7564,0,0,8.7564,53411,11810)"
+           id="g294">
+          <path
+             d="M 847.55,1849.6 H 684.99 v -188.23 h 162.56 z m -81.282,-213.9 c 4.727,0 8.556,3.827 8.556,8.557 0,4.72 -3.829,8.555 -8.556,8.555 -4.727,0 -8.556,-3.835 -8.556,-8.555 0,-4.73 3.829,-8.557 8.556,-8.557 m 94.116,-8.556 h -188.23 c -7.089,0 -12.834,5.744 -12.834,12.834 v 222.46 c 0,7.09 5.745,12.834 12.834,12.834 h 188.23 c 7.09,0 12.834,-5.744 12.834,-12.834 v -222.46 c 0,-7.09 -5.744,-12.834 -12.834,-12.834"
+             id="path292"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1.6566875,0,0,1.6566875,-89231.122,-489.88545)"
+         id="g322"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <g
+           transform="matrix(5.6699,0,0,5.6699,37563,-25695)"
+           id="g320">
+          <path
+             d="m 11406,5055.6 c 59.1,107.7 196.5,-46.05 272,2.97 -37.4,-117.91 -201.6,34.45 -272,-2.97"
+             id="path298"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11458,5115 c 59,107.6 196.5,-45.96 272,2.97 -37.4,-118 -201.6,34.44 -272,-2.97"
+             id="path300"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11510,5174.5 c 59,107.7 196.4,-46.05 272,2.88 -37.4,-117.91 -201.7,34.53 -272,-2.88"
+             id="path302"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11570,5233.5 c 0,0 11.6,17.45 71.6,-3.9 59.8,-21.17 63.5,-11.7 69.6,3.25 10.4,25.99 -120,75.01 -141.2,0.65"
+             id="path304"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11556,4992.6 c -14,-72.32 -85.8,-17.73 -121.6,-59.7 l 36.5,-36.48 c 0,0 7.8,16.61 47.7,13.92 52.2,-3.62 82,40.85 81.3,66.94 l -43.9,15.32"
+             id="path306"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11474,5031.1 -51.4,18.57 c -26.3,-3.34 -13,-35.28 -9.1,-51.81 9.3,-38.06 0.4,-44.19 0.4,-44.19 l 8.2,-8.45 c 11.4,13.83 23.5,17.83 37.2,19.59 -3.6,25.53 -13.4,50.79 14.7,66.29"
+             id="path308"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11444,4840.4 c -3.4,-3.25 -8.9,-3.15 -12.3,0.28 l -72.3,73.16 c -3.3,3.34 -3.2,8.73 0.2,11.98 3.4,3.34 8.9,3.15 12.3,-0.19 l 72.3,-73.25 c 3.3,-3.34 3.2,-8.73 -0.2,-11.98"
+             id="path310"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11434,4828.7 c -3.4,-3.24 -8.9,-3.15 -12.3,0.19 l -72.3,73.25 c -3.3,3.34 -3.2,8.73 0.3,11.98 3.4,3.25 8.9,3.16 12.3,-0.19 l 72.3,-73.25 c 3.2,-3.34 3.1,-8.73 -0.3,-11.98"
+             id="path312"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11455,4851.8 c -3.4,-3.25 -8.9,-3.16 -12.3,0.19 l -72.3,73.25 c -3.3,3.34 -3.2,8.73 0.3,11.98 3.4,3.25 8.9,3.15 12.3,-0.19 l 72.2,-73.25 c 3.3,-3.34 3.2,-8.73 -0.2,-11.98"
+             id="path314"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11465,4863.7 c -3.5,-3.25 -9,-3.16 -12.4,0.27 l -72.3,73.26 c -3.2,3.34 -3.1,8.72 0.3,11.97 3.4,3.25 8.9,3.07 12.2,-0.18 l 72.4,-73.25 c 3.3,-3.35 3.2,-8.73 -0.2,-12.07"
+             id="path316"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11384,4837.2 c -0.9,-1.02 -2.5,-1.11 -3.5,-0.28 l -21.7,18.02 c -1.1,0.93 -1.2,2.5 -0.2,3.52 l 20.5,23.49 c 0.9,1.03 2.5,1.12 3.6,0.28 l 21.6,-18.01 c 1.1,-0.93 1.1,-2.41 0.2,-3.44 l -20.5,-23.58"
+             id="path318"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g478"
+         transform="matrix(0.86447897,0,0,0.86447897,5740.5377,-2226.9695)"
+         style="fill:#ff1300;fill-opacity:0.50588238"
+         inkscape:export-filename="/home/rcms/Documents/My_webpage/template/static/images/iot.png"
+         inkscape:export-xdpi="48"
+         inkscape:export-ydpi="48">
+        <g
+           transform="matrix(0.14665,0,0,0.14665,-10374,44598)"
+           id="g332"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m 367930,-219120 c -2134.7,-473.34 -3768.2,-1373.6 -5151.1,-2840.1 -1104.5,-1178.7 -1819.1,-2459.5 -2255.3,-4074.5 l -241.32,-881.72 -37.12,-7267.2 c -27.84,-8019 -46.41,-7787 547.59,-8687.2 167.07,-250.59 519.75,-594 807.47,-779.62 445.5,-297 594,-343.41 1188,-371.25 853.87,-46.41 1382.9,176.34 1847,798.19 445.5,575.43 603.28,1169.4 603.28,2246.1 0,761.06 27.84,937.4 185.62,1141.6 352.69,445.5 1698.5,538.31 2023.3,129.94 46.41,-55.69 111.38,-566.16 139.22,-1132.3 64.97,-1253 232.03,-1754.2 788.91,-2376 547.59,-612.56 1002.4,-816.75 1772.7,-826.03 742.5,0 1271.5,232.03 1726.3,770.34 501.19,584.72 705.38,1243.7 770.34,2459.5 46.41,1039.5 46.41,1048.8 306.29,1188 389.81,194.9 1020.9,250.59 1290.1,111.37 222.75,-120.65 232.03,-176.34 287.72,-1206.6 46.4,-974.53 83.53,-1150.9 352.68,-1689.2 501.19,-1020.9 1290.1,-1559.2 2376,-1614.9 538.31,-27.84 742.5,0 1095.2,167.06 538.31,250.6 1030.2,788.91 1355.1,1475.7 l 241.31,519.75 v 7425 c 0,7387.9 0,7425 -204.19,8241.7 -464.06,1800.6 -1317.9,3294.8 -2598.7,4529.2 -1215.8,1178.7 -2394.6,1856.2 -4074.5,2366.7 -751.78,222.75 -983.81,250.59 -2682.3,278.44 -1382.9,27.84 -2014,0 -2459.5,-102.1 z m 4594.2,-1614.9 c 408.37,-102.1 1178.7,-408.38 1717,-677.53 863.15,-426.94 1085.9,-594 1911.9,-1420 761.06,-761.06 1002.4,-1076.6 1355.1,-1763.4 241.32,-464.06 529.03,-1150.9 649.69,-1531.4 204.19,-696.09 204.19,-696.09 241.31,-8046.8 27.85,-7295 27.85,-7360 -167.06,-7731.3 -222.75,-436.22 -686.81,-705.37 -1048.8,-612.56 -306.28,74.25 -779.62,473.34 -946.69,807.47 -92.81,176.34 -139.21,547.59 -139.21,1123 0,1420 -259.88,1986.2 -1104.5,2422.4 -928.13,464.06 -2376,297 -3146.3,-361.97 -612.56,-519.75 -696.09,-761.06 -761.06,-2106.8 -64.97,-1271.5 -157.78,-1531.4 -677.53,-1828.4 -213.47,-120.66 -278.44,-120.66 -566.16,18.56 -510.47,250.59 -640.4,603.28 -705.37,1893.4 -46.41,1039.5 -64.97,1150.9 -324.85,1568.5 -417.65,668.25 -1058.1,993.1 -2041.9,1048.8 -1327.2,74.25 -2366.7,-399.09 -2802.9,-1280.8 -176.35,-343.4 -213.47,-566.15 -213.47,-1299.4 0,-1030.2 -111.38,-1512.8 -426.94,-1828.4 -278.44,-278.43 -686.81,-241.31 -1039.5,92.82 -501.18,464.06 -482.62,167.06 -482.62,7712.7 0,7554.9 9.28,7684.9 501.18,9002.8 983.82,2608 3499,4566.4 6376.2,4974.7 946.68,129.94 2988.6,37.13 3842.4,-176.34 z"
+             id="path324"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 371550,-221670 c -139.22,-269.15 27.84,-529.03 389.81,-603.28 167.06,-37.12 640.41,-222.75 1048.8,-417.65 1689.2,-816.75 2849.3,-2208.9 3304.1,-3963.1 157.78,-621.85 176.35,-1039.5 176.35,-3508.3 0,-2051.2 27.84,-2821.5 111.37,-2905 167.06,-167.06 519.75,-129.94 631.12,64.97 120.66,241.31 120.66,4520 0,5615.2 -287.71,2505.9 -1921.2,4622.1 -4315.8,5596.6 -863.16,352.68 -1206.6,380.53 -1345.8,120.65 z"
+             id="path326"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 364780,-226790 c -1512.8,-464.06 -2125.4,-2301.8 -1188,-3536.2 816.75,-1067.3 2515.2,-1169.4 3415.5,-194.91 1290.1,1382.9 436.22,3619.7 -1447.9,3786.8 -259.87,18.56 -603.28,0 -779.62,-55.69 z m 1290.1,-872.44 c 891,-454.78 1058.1,-1717 306.28,-2366.7 -993.09,-881.72 -2441,-250.6 -2441,1067.3 0,853.87 575.44,1438.6 1420,1438.6 241.31,0 566.16,-64.97 714.66,-139.22 z"
+             id="path328"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 370580,-226770 c -464.06,-120.65 -835.31,-352.68 -1160.2,-714.65 -408.37,-473.35 -556.87,-863.16 -556.87,-1475.7 0,-1271.5 946.69,-2218.2 2227.5,-2218.2 1280.81,0 2227.5,946.69 2227.5,2218.2 0,863.16 -445.5,1605.6 -1215.8,1995.5 -389.81,204.18 -1123,297 -1522.1,194.9 z m 1253,-928.12 c 380.53,-194.91 742.49,-826.03 742.49,-1280.8 0,-1512.8 -2116.1,-2004.8 -2775.1,-640.41 -213.46,436.22 -241.31,751.78 -92.81,1141.6 111.38,306.29 519.75,761.07 779.63,863.16 334.12,139.22 1011.6,102.09 1345.8,-83.53 z"
+             id="path330"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(1.5472,0,0,1.5472,-47114,-17148)"
+           id="g338"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m 56224,17943 c -127.81,-19.241 -263.41,21.071 -302.8,89.787 -39.395,69.171 31.61,140.64 158.96,159.88 127.81,19.698 262.95,-21.071 302.35,-89.787 40.313,-69.174 -31.149,-140.18 -158.5,-159.88 z m -146.59,-317.92 c -109.03,-39.856 -260.2,-23.364 -337.16,36.19 -76.961,59.553 -50.848,140.18 58.18,180.03 108.57,39.397 259.74,23.364 336.7,-36.19 76.961,-59.554 51.308,-140.18 -57.721,-180.03 z m -460.85,535.06 c -133.77,3.207 -240.5,63.677 -239.13,135.14 1.833,71.464 111.32,127.35 245.08,124.14 133.31,-2.749 240.05,-63.218 238.21,-134.68 -1.831,-71.461 -110.86,-127.35 -244.17,-124.6 z m -150.26,-492.46 c -79.708,-55.888 -231.34,-65.508 -338.08,-21.072 -107.2,44.436 -129.18,126.44 -49.018,182.32 79.71,56.346 231.34,65.51 338.08,21.074 107.2,-44.436 128.73,-125.98 49.016,-182.32 z m -619.35,470.01 c 43.062,67.341 180.03,101.24 306.01,76.502 126.9,-24.738 194.7,-99.866 151.63,-166.75 -42.605,-67.341 -179.58,-101.7 -306.47,-76.503 -125.98,24.736 -193.78,99.408 -151.17,166.75 z m 778.77,384.34 c -541.02,11.911 -985.38,-213.47 -991.79,-503.91 -6.872,-289.98 426.49,-535.06 967.51,-546.97 541.02,-11.91 984.92,213.48 991.79,503.91 6.871,289.98 -426.04,535.06 -967.51,546.97"
+             id="path334"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 56071,17252 c 152.55,35.274 274.86,83.833 361.44,124.15 l -7.787,-324.8 c -84.749,-43.518 -207.06,-96.2 -361.44,-135.14 l 7.79,335.79 z m -143.39,-364.19 c -113.15,-19.241 -237.75,-29.776 -373.81,-23.822 -44.895,2.292 -90.246,6.871 -136.97,13.286 l 7.787,340.83 c 45.811,-6.413 90.705,-11.452 135.14,-13.285 136.05,-6.413 261.57,3.208 375.64,21.072 l -7.787,-338.08 z m -645.46,11.911 c -166.75,31.607 -339.91,77.876 -508.03,111.32 l 8.244,354.11 c 166.75,-33.9 339.45,-86.123 508.04,-122.31 l -8.247,-343.12 z m -642.26,135.14 c -127.81,18.326 -249.66,25.197 -361.44,5.497 l 9.62,347.24 c 112.69,34.815 232.72,16.492 359.61,0 l -7.79,-352.74 z m 1898.4,458.1 h -0.457 l 1.831,80.166 c 0,0 -381.14,-278.07 -983.08,-240.96 -601.95,37.567 -1373.4,492 -1648.7,-146.59 l -3.667,-147.05 c 88.415,209.35 184.62,283.1 262.49,315.17 l -6.872,-361.44 c -93.451,-39.397 -214.39,-149.8 -262.95,-284.94 l -2.749,-102.16 c 275.78,638.59 1047.2,183.7 1649.2,146.59 601.49,-37.564 983.08,240.5 983.08,240.5 l 0.916,54.516 h 0.918 l 10.077,446.19"
+             id="path336"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(0.78844,0,0,0.78844,93730,-31279)"
+           id="g344"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -72242,61633 c 0,471.3 382.11,853.41 853.5,853.41 471.39,0 853.5,-382.11 853.5,-853.41 0,-471.49 -382.11,-853.5 -853.5,-853.5 -471.39,0 -853.5,382.02 -853.5,853.5 z m 853.5,-2241.8 c 141.35,0 1321.4,1465.7 1321.4,2195.4 0,729.78 -591.68,1321.5 -1321.4,1321.5 -729.78,0 -1321.4,-591.68 -1321.4,-1321.5 0,-729.69 1185.1,-2195.4 1321.4,-2195.4"
+             id="path340"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -69042,60401 c 0,121.58 -98.938,220.62 -220.71,220.62 h -804.78 c -16.799,0 -36.011,1.025 -57.358,-34.712 -42.508,-71.372 -38.796,-64.968 -78.612,-130.96 -18.563,-30.721 9.467,-41.116 21.068,-41.116 h 919.77 c 7.239,0 13.736,-6.497 13.736,-13.829 l 207.06,-1813.4 c 0,-7.518 -6.497,-14.108 -13.829,-14.108 h -4666.2 c -7.328,0 -13.829,6.594 -13.829,14.108 l 206.88,1813.4 c 0,7.329 6.682,13.829 13.922,13.829 h 912.62 c 18.841,0 48.448,10.859 14.664,65.897 -39.723,64.69 -24.224,45.664 -66.361,117.41 -15.685,26.637 -37.403,23.481 -66.825,23.481 h -794.1 c -121.68,0 -220.71,-99.031 -220.71,-220.62 l -206.97,-1813.4 c 0,-121.86 99.031,-220.8 220.71,-220.8 h 4666.2 c 121.68,0 220.62,98.938 220.62,220.8 l -206.97,1813.4"
+             id="path342"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(1.2267,0,0,1.2267,157410,-58215)"
+           id="g352"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -95927,63606 h -326.24 c -11.787,0 -21.439,9.652 -21.439,21.439 v 71.837 c 0,11.787 -9.653,21.44 -21.44,21.44 h -456.54 c -11.88,0 -21.44,-9.653 -21.44,-21.44 v -71.837 c 0,-11.787 -9.652,-21.439 -21.347,-21.439 h -326.33 c -11.787,0 -21.44,-9.653 -21.44,-21.347 v -91.884 c 0,-11.788 9.653,-21.44 21.44,-21.44 h 1194.8 c 11.787,0 21.44,9.652 21.44,21.44 v 91.884 c 0,11.694 -9.653,21.347 -21.44,21.347"
+             id="path346"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -96122,64669 -4.176,-0.149 -4.084,-0.742 c -4.176,-0.743 -7.61,-1.114 -10.673,-1.114 h -895.36 c -6.683,0 -13.458,1.299 -20.233,3.616 l -6.405,1.916 c -84.737,20.975 -143.95,96.617 -143.95,184.05 0,104.6 85.666,200.75 189.71,189.71 16.057,-1.671 45.849,-0.928 57.451,10.581 11.416,11.508 9.281,38.424 7.61,54.573 -17.17,161.49 132.16,294.49 294.59,294.49 113.23,0 229.43,-61.442 266.37,-168.55 6.032,-17.635 17.541,-47.056 35.361,-52.161 17.913,-5.101 44.364,13.551 58.843,25.338 43.9,36.011 103.02,47.242 159.92,47.242 162.42,0 294.59,-132.16 294.59,-294.59 0,-157.13 -122.88,-286.42 -279.55,-294.22 z m -15.035,719.02 c -57.08,0 -108.59,-17.356 -160.47,-39.352 -1.949,-0.832 -6.775,-1.203 -10.209,3.527 -78.519,113.51 -209.48,183.95 -349.81,183.95 -208.08,0 -377.56,-155.65 -413.85,-353.34 -1.021,-5.754 0,-14.943 -13.18,-15.778 -147.29,-28.493 -252.54,-154.81 -252.54,-310.46 0,-146.37 98.474,-273.24 239.83,-309.62 19.862,-6.779 40.373,-10.209 60.978,-10.209 h 895.36 c 9.467,0 19.119,0.743 29.328,2.413 224.24,13.365 399.37,198.8 399.37,424.06 0,234.17 -190.64,424.8 -424.8,424.8"
+             id="path348"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -95120,64221 h -2810 v 1679.6 c 0,22.646 19.212,41.765 41.858,41.765 h 2726.4 c 22.646,0 41.765,-19.119 41.765,-41.765 V 64221 Z m -1405,-238.53 c -42.787,0 -77.499,34.712 -77.499,77.498 0,42.88 34.712,77.592 77.499,77.592 42.786,0 77.591,-34.712 77.591,-77.592 0,-42.786 -34.805,-77.498 -77.591,-77.498 z m 1363.2,2090.1 h -2726.4 c -94.854,0 -171.98,-77.127 -171.98,-171.98 v -1894.7 c 0,-94.762 77.127,-171.98 171.98,-171.98 h 2726.4 c 94.761,0 171.98,77.22 171.98,171.98 v 1894.7 c 0,94.854 -77.22,171.98 -171.98,171.98"
+             id="path350"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(0.80522,0,0,0.80522,97892,-42042)"
+           id="g360"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -85437,63907 c 0,16.056 -13.179,29.421 -29.329,29.421 h -626.48 c -16.243,0 -29.329,-13.365 -29.329,-29.421 v -98.567 c 0,-16.149 -13.18,-29.329 -29.422,-29.329 h -447.54 c -16.242,0 -29.422,-13.272 -29.422,-29.421 v -126.04 c 0,-16.057 13.18,-29.329 29.422,-29.329 h 1639.1 c 16.149,0 29.328,13.272 29.328,29.329 v 126.04 c 0,16.149 -13.179,29.421 -29.328,29.421 h -447.63 c -16.15,0 -29.329,13.18 -29.329,29.329 V 63907"
+             id="path354"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -83852,64620 h -3854.7 v 2304.1 c 0,31.092 26.544,57.358 57.45,57.358 h 3739.9 c 31.092,0 57.358,-26.266 57.358,-57.358 V 64620 Z m -1927.2,-327.07 c -58.75,0 -106.27,47.613 -106.27,106.36 0,58.658 47.52,106.27 106.27,106.27 58.658,0 106.27,-47.612 106.27,-106.27 0,-58.75 -47.613,-106.36 -106.27,-106.36 z m 1869.9,2867.1 h -3739.9 c -130.03,0 -235.84,-105.81 -235.84,-235.93 v -2598.8 c 0,-130.22 105.81,-236.02 235.84,-236.02 h 3739.9 c 130.12,0 236.02,105.81 236.02,236.02 v 2598.8 c 0,130.12 -105.9,235.93 -236.02,235.93"
+             id="path356"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -84331,66441 c -36.289,27.75 -88.357,20.789 -116.11,-15.593 l -609.87,-798.46 -724.96,385.64 c -65.711,34.897 -150.17,14.293 -192.21,-47.242 l -480.12,-701.2 c -4.18,-5.101 -17.82,-12.158 -23.945,-12.715 h -698.6 c -45.849,0 -82.789,-37.125 -82.789,-82.881 0,-45.757 36.94,-82.789 82.789,-82.789 h 698.6 c 59.4,0 126.78,35.454 160.29,84.459 l 471.76,688.85 721.8,-383.96 c 63.762,-33.969 148.22,-15.592 192.12,42.044 l 616.92,807.75 c 27.658,36.29 20.697,88.265 -15.686,116.11"
+             id="path358"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(0.9568,0,0,0.9568,113110,-46187)"
+           id="g366"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -84135,69768 c -47.52,0 -88.821,-29.7 -110.91,-73.6 v 6.682 c 0,91.977 -65.339,166.6 -145.9,166.6 -55.409,0 -103.67,-35.361 -128.36,-87.522 -24.688,52.161 -72.951,87.522 -128.36,87.522 -44.457,0 -84.181,-22.739 -110.91,-58.564 v 516.87 c 0,92.07 -65.247,166.6 -145.81,166.6 -80.654,0 -145.9,-74.528 -145.9,-166.6 v -1017.9 l -68.031,141.63 c -26.452,55.316 -76.385,86.687 -127.99,86.687 -23.667,0 -47.705,-6.683 -69.98,-20.512 -70.63,-44.364 -96.525,-145.62 -57.729,-226.28 l 336.26,-701.1 c 0.148,-0.742 36.104,-57.451 54.109,-84.552 49.377,-74.621 114.9,-131.7 201.12,-131.7 h 506.48 c 148.96,0 269.71,143.02 269.71,319.37 v 930.35 c 0,80.654 -57.265,145.99 -127.8,145.99"
+             id="path362"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -83176,70278 c -61.628,0 -111.38,49.933 -111.38,111.56 0,61.535 49.747,111.47 111.38,111.47 61.534,0 111.56,-49.933 111.56,-111.47 0,-61.627 -50.026,-111.56 -111.56,-111.56 z m 45.756,1451.4 h -3340.1 c -126.22,0 -228.78,-102.65 -228.78,-228.69 v -2226.3 c 0,-126.13 102.56,-228.69 228.78,-228.69 h 990.96 c 0,0 62.184,0 48.077,45.014 -9.931,31.463 -55.038,115.37 -57.08,119.26 -18.377,36.104 -66.918,32.299 -66.918,32.299 h -727.28 c -30.536,0 -55.502,24.409 -55.502,54.295 v 2182 c 0,29.793 24.966,54.295 55.502,54.295 h 2872.5 c 30.442,0 55.409,-24.502 55.409,-54.295 v -2182 c 0,-29.886 -24.967,-54.295 -55.409,-54.295 h -382.11 c 0,0 -77.034,7.796 -77.034,-58.287 v -80.097 c 0,-58.193 81.861,-58.193 81.861,-58.193 h 657.11 c 126.22,0 228.78,102.56 228.78,228.69 v 2226.3 c 0,126.04 -102.56,228.69 -228.78,228.69"
+             id="path364"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(1.1893,0,0,1.1893,155560,-58157)"
+           id="g380"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -93501,68104 c 0,-108.5 -89.843,-196.11 -198.43,-196.11 h -1603 c -108.59,0 -198.53,87.615 -198.53,196.11 v 981.96 c 0,95.04 77.035,171.98 171.98,171.98 h 1656 c 94.947,0 171.89,-76.942 171.89,-171.98 V 68104 h 0.07 z m -195.18,1537.4 c 57.637,0 104.41,-46.87 104.41,-104.51 0,-57.637 -46.777,-104.41 -104.41,-104.41 -57.544,0 -104.32,46.777 -104.32,104.41 0,57.636 46.777,104.51 104.32,104.51 z m -1.67,203.26 h -1603.1 c -221.91,0 -401.78,-179.96 -401.78,-401.88 v -1341.3 c 0,-221.91 179.87,-401.88 401.78,-401.88 h 1603.1 c 221.91,0 401.88,179.96 401.88,401.88 v 1341.3 c 0,221.91 -179.96,401.88 -401.88,401.88"
+             id="path368"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -94911,69067 c 0,47.892 -38.889,86.687 -86.78,86.687 h -233.42 c -47.891,0 -86.779,-38.795 -86.779,-86.687 v -902.23 c 0,-47.984 38.888,-86.779 86.779,-86.779 h 233.42 c 47.891,0 86.78,38.795 86.78,86.779 V 69067"
+             id="path370"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -93681,69067 c 0,47.892 -38.795,86.687 -86.687,86.687 h -952.53 c -47.984,0 -86.78,-38.795 -86.78,-86.687 v -82.046 c 0,-47.891 38.796,-86.779 86.78,-86.779 h 952.53 c 47.892,0 86.687,38.888 86.687,86.779 V 69067"
+             id="path372"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -94312,68531 c 0,47.984 -38.888,86.779 -86.779,86.779 h -321.69 c -47.984,0 -86.78,-38.795 -86.78,-86.779 v -365.77 c 0,-47.891 38.796,-86.687 86.78,-86.687 h 321.69 c 47.891,0 86.779,38.796 86.779,86.687 V 68531"
+             id="path374"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -94195,68165 c 0,-47.891 38.796,-86.687 86.687,-86.687 h 321.78 c 47.798,0 86.779,38.796 86.779,86.687 v 365.77 c 0,47.984 -38.981,86.779 -86.779,86.779 h -321.78 c -47.891,0 -86.687,-38.795 -86.687,-86.779 V 68165"
+             id="path376"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -93681,68763 c 0,34.897 -28.215,63.112 -63.112,63.112 h -999.78 c -34.898,0 -63.113,-28.215 -63.113,-63.112 0,-34.805 28.215,-63.02 63.113,-63.02 h 999.87 c 34.804,0 63.019,28.215 63.019,63.02"
+             id="path378"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(1.1869,0,0,1.1869,163470,-57901)"
+           id="g388"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -99642,65746 c -56.43,0 -102.37,45.942 -102.37,102.56 0,56.708 46.035,102.56 102.37,102.56 56.708,0 102.74,-45.849 102.74,-102.56 0,-56.616 -46.035,-102.56 -102.74,-102.56 z m -3.063,421.09 h -1574.297 c -226.28,0 -409.86,-183.58 -409.86,-409.86 v -1316.7 c 0,-171.33 105.06,-317.98 254.12,-379.14 l 182,195.46 -1.2,4.641 h -24.97 c -98.2,0 -179.22,81.953 -179.22,180.15 v 1145.7 h 1932.497 v -1145.9 c 0,-98.103 -81.025,-180.06 -179.22,-180.06 h -524.207 c 26.36,-35.547 41.21,-78.148 42.79,-123.26 1.39,-37.867 -6.68,-74.714 -23.3,-107.57 h 504.807 c 226.28,0 409.86,183.58 409.86,409.86 v 1316.7 c 0.09,226.37 -183.49,409.95 -409.86,409.95"
+             id="path382"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -99851,64567 c 90.12,96.989 137.27,223.31 132.44,355.75 -4.826,132.44 -60.792,255.05 -157.78,345.26 -92.163,85.666 -212.08,132.82 -337.84,132.82 -137.36,0 -269.71,-57.637 -363.27,-158.15 -117.03,-125.67 -155.92,-296.44 -119.26,-452.27 l 147.85,158.89 c 5.85,6.312 12.07,12.252 18.66,17.728 11.13,57.079 37.68,111.65 80,157.32 61.72,66.268 145.53,102.65 236.02,102.65 81.77,0 159.64,-30.628 219.41,-86.223 63.02,-58.564 99.588,-138.29 102.56,-224.42 3.063,-85.851 -27.472,-167.99 -86.037,-231.01 -52.813,-56.801 -121.863,-91.606 -197.503,-100.52 l -151.75,-163.16 c 36.75,-8.446 74.62,-12.808 113.14,-12.808 137.36,0 269.803,57.544 363.363,158.15"
+             id="path384"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -100420,64339 c -20.78,19.212 -32.85,45.664 -33.96,73.879 -0.93,28.029 9.28,55.502 28.49,76.199 l 170.87,183.68 c 19.12,20.697 29.33,48.076 28.49,76.291 -1.11,28.03 -13.27,54.574 -33.97,73.786 l -56.43,52.625 c -19.68,18.377 -45.48,28.493 -72.39,28.493 h -3.81 c -28.21,-1.017 -54.76,-13.272 -73.97,-33.969 l -299.41,-321.69 c -10.4,-11.416 -24.97,-17.449 -40,-17.449 -4.37,0 -8.91,0.446 -13.46,1.671 -19.21,4.826 -34.34,19.769 -39.45,39.074 l -18.28,69.888 c -12.44,47.798 -55.41,79.54 -102.65,79.54 -8.82,0 -17.91,-1.203 -26.92,-3.527 l -74.71,-19.49 c -56.8,-14.758 -90.68,-72.858 -75.92,-129.66 l 75.18,-287.81 c 9.18,-35.175 -0.19,-72.579 -24.88,-99.309 l -280.01,-300.9 c -19.12,-20.511 -29.33,-47.984 -28.4,-76.106 1.11,-28.122 13.27,-54.759 33.78,-73.971 l 353.52,-328.74 c 20.51,-19.026 46.5,-28.4 72.3,-28.4 28.5,0 56.99,11.323 77.78,33.876 l 604.95,650.24 c 19.21,20.697 29.42,48.077 28.4,76.384 -1.02,27.937 -13.27,54.667 -33.87,73.879 l -141.27,131.52"
+             id="path386"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <path
+           d="m 32547,17297 -155.92,-1300.4 c -7.889,-65.34 -63.577,-115.55 -129.47,-115.55 h -1882.7 c -65.989,0 -121.77,51.047 -129.57,116.66 l -173.47,1447 h 2341.6 c 37.31,0 72.857,-16.799 97.638,-44.736 24.596,-27.936 36.383,-66.082 31.928,-103.02 z m -630.75,-2003.9 c -75.085,0 -136.16,61.07 -136.16,136.25 0,75.085 61.163,136.16 136.16,136.16 75.085,0 136.34,-61.071 136.34,-136.16 0,-75.178 -61.256,-136.25 -136.34,-136.25 z m -1188.8,0 c -75.178,0 -136.25,61.07 -136.25,136.25 0,75.085 61.071,136.16 136.25,136.16 75.085,0 136.16,-61.071 136.16,-136.16 0,-75.178 -61.071,-136.25 -136.16,-136.25 z m 2009.9,2304.3 c -81.025,91.421 -197.69,144.97 -319.83,144.97 h -2906.8 c -82.047,0 -148.59,-66.732 -148.59,-148.68 0,-82.139 66.546,-148.96 148.59,-148.96 h 265.54 l 178.01,-1483.7 c 23.667,-196.39 178.01,-349.07 369.58,-374.03 -19.212,-48.912 -29.886,-102.09 -29.886,-157.69 0,-239.18 194.44,-433.53 433.53,-433.53 239.08,0 433.43,194.35 433.43,433.53 0,54.203 -10.117,106.08 -28.401,153.98 h 378.86 c -18.377,-47.891 -28.4,-99.773 -28.4,-153.98 0,-239.18 194.44,-433.53 433.34,-433.53 239.18,0 433.53,194.35 433.53,433.53 0,55.688 -10.766,109.06 -29.978,157.97 189.89,26.266 342.94,178.57 366.33,373.76 l 155.92,1300.5 c 14.572,121.49 -23.667,244.38 -104.78,335.89"
+           id="path390"
+           inkscape:connector-curvature="0"
+           style="fill:#ff1300;fill-opacity:0.50588238" />
+        <path
+           d="m 22255,18547 203.18,59.397 c 122.66,36.338 209.22,146.93 214.65,274.41 5.428,128.33 -71.108,245.56 -190.14,292.04 l -1706.5,667.5 c -111.07,43.34 -237.11,16.9 -321.01,-67.488 -84.148,-84.147 -110.47,-209.94 -67.246,-320.77 l 667.26,-1706.5 c 46.723,-119.28 164.07,-195.82 292.16,-190.15 127.85,5.197 238.07,91.752 274.29,214.41 l 59.881,202.82 783.76,-783.64 c 56.017,-56.379 132.56,-87.768 212,-87.768 79.439,0 155.5,31.389 211.88,87.768 l 150.31,150.06 c 116.74,117.35 116.74,306.65 0,423.63 l -784.49,784.24"
+           id="path392"
+           inkscape:connector-curvature="0"
+           style="fill:#ff1300;fill-opacity:0.50588238" />
+        <g
+           transform="translate(115620,-49221)"
+           id="g400"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -89557,67991 c 832.62,0 1507.7,191.47 1507.7,427.31 v 539.15 c -9.838,-7.611 -19.769,-14.757 -30.535,-21.811 -89.75,-60.142 -213.66,-112.77 -367.91,-156.76 -298.48,-84.274 -692.19,-130.87 -1109.3,-130.87 -417.1,0 -810.81,46.592 -1109.3,130.87 -154.35,43.993 -278.16,96.618 -368,156.76 -10.673,7.054 -20.604,14.2 -30.442,21.811 v -539.15 c 0,-235.84 675.12,-427.31 1507.7,-427.31"
+             id="path394"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -89557,68806 c 804.5,0 1461.8,178.39 1505.4,403.64 1.581,7.796 2.316,15.778 2.316,23.76 v 542.95 c -9.838,-7.518 -19.769,-14.664 -30.535,-21.811 -75.549,-50.768 -175.69,-96.246 -297.93,-135.32 -22.553,-7.147 -45.942,-14.201 -69.98,-21.347 -24.224,-6.776 -48.727,-13.551 -74.065,-19.862 -58.564,-14.572 -119.91,-27.658 -184.05,-39.538 -252.08,-46.685 -545.27,-71.559 -851.18,-71.559 -305.91,0 -599.2,24.874 -851.65,71.559 -64.041,11.88 -125.39,25.338 -183.96,39.538 -25.337,6.311 -49.933,12.715 -74.064,19.862 -24.131,6.682 -47.427,13.829 -70.073,21.347 -122.23,39.074 -222.38,84.552 -297.93,135.32 -10.673,7.147 -20.604,14.293 -30.442,21.811 v -542.95 c 0,-7.982 0.742,-15.964 2.316,-23.76 43.9,-225.26 701.2,-403.64 1505.8,-403.64"
+             id="path396"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -89395,70028 c 0,-89.378 -72.765,-162.24 -162.24,-162.24 -89.379,0 -162.33,72.858 -162.33,162.24 0,89.378 72.95,162.33 162.33,162.33 89.471,0 162.24,-72.951 162.24,-162.33 z m -1013.9,-327.72 c 81.954,-15.779 169.38,-29.608 261.55,-40.652 181.36,-21.811 380.81,-34.062 590.1,-34.062 209.29,0 408.75,12.251 590.01,34.062 92.256,11.044 179.68,24.873 261.64,40.652 372.74,72.486 625.28,191.19 653.77,326.98 1.952,8.724 2.695,16.984 2.695,25.709 v 767.65 c 0,235.93 -675.12,427.4 -1507.7,427.4 -832.62,0 -1507.7,-191.47 -1507.7,-427.4 v -767.65 c 0,-8.725 0.831,-16.985 2.784,-25.709 28.122,-135.78 280.2,-254.49 652.94,-326.98"
+             id="path398"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="translate(134320,-34842)"
+           id="g406"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -98030,61244 h -2.042 c -31.464,498.5 -446.06,892.95 -952.44,892.95 -467.31,0 -856.1,-335.8 -938.43,-779.07 -10.581,0.371 -21.718,0.832 -32.392,0.832 -348.136,0 -641.886,-230.73 -737.666,-547.22 -14.76,1.114 -29.98,2.042 -45.02,2.042 -275,0 -498.21,-222.94 -498.21,-498.12 0,-274.82 222.84,-498.22 498.21,-498.22 h 885.156 v 339.14 c 0,214.77 174.49,389.16 389.16,389.16 h 888.86 c 214.68,0 389.16,-174.4 389.16,-389.16 v -339.14 h 155.65 c 394.08,0 713.26,319.55 713.26,713.17 0,393.71 -319.18,713.64 -713.26,713.64"
+             id="path402"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -98370,60157 c 0,113.05 -91.699,204.84 -204.84,204.84 h -888.86 c -113.05,0 -204.84,-91.791 -204.84,-204.84 v -578.41 h -268.69 c -176.16,0 -269.99,-207.53 -154.07,-339.88 l 918.1,-1045.7 c 40.838,-46.406 97.361,-69.795 153.98,-69.795 56.523,0 113.05,23.389 153.98,69.795 l 918.01,1046.1 c 116.29,132.35 22.09,339.88 -154.07,339.88 h -268.69 v 578.04"
+             id="path404"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(-0.79527,0,0,0.79527,-14909,-34177)"
+           id="g410"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -79947,65147 c -387.49,-387.58 -1018.3,-387.58 -1406,0 -387.58,387.68 -387.58,1018.3 0,1406.1 387.68,387.58 1018.5,387.58 1406,0 387.77,-387.68 387.77,-1018.4 0,-1406.1 z m 1755.4,-1208.4 -998.48,998.38 c -73.879,73.971 -170.12,111.47 -267.11,113.04 374.5,558.08 315.56,1322.8 -177.18,1815.5 -559.84,559.94 -1471.1,559.94 -2031,0 -560.03,-559.94 -560.03,-1471 0,-2030.9 492.74,-492.74 1257.4,-551.86 1815.5,-177.27 1.485,-96.803 39.167,-193.33 113.05,-267.11 l 998.29,-998.38 c 151.01,-151.01 395.84,-151.01 546.94,0 151.01,151.01 151.01,395.75 0,546.76"
+             id="path408"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(1.5037,0,0,1.5037,171200,-92710)"
+           id="g416"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -98154,67796 c -388.14,0 -703.89,315.75 -703.89,703.89 0,388.05 315.75,703.89 703.89,703.89 388.14,0 703.89,-315.84 703.89,-703.89 0,-388.14 -315.75,-703.89 -703.89,-703.89 z m 0,1595.4 c -491.63,0 -891.56,-399.93 -891.56,-891.56 0,-491.72 399.93,-891.65 891.56,-891.65 491.63,0 891.56,399.93 891.56,891.65 0,491.63 -399.93,891.56 -891.56,891.56"
+             id="path412"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -97676,68527 h -348.23 c -12.623,20.604 -29.979,37.96 -50.676,50.583 v 418.58 c 0,43.993 -35.64,79.818 -79.726,79.818 -44.086,0 -79.726,-35.825 -79.726,-79.818 v -418.58 c -43.9,-26.916 -73.229,-75.271 -73.229,-130.4 0,-84.366 68.589,-152.96 152.96,-152.96 55.131,0 103.49,29.329 130.4,73.137 h 348.23 c 43.993,0 79.726,35.825 79.726,79.818 0,44.086 -35.733,79.819 -79.726,79.819"
+             id="path414"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(0.75269,0,0,0.75269,88841,-35469)"
+           id="g420"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -91125,65450 -1335.3,1131.3 h 2670.6 z m 1517.9,-1090.9 h -3035.6 c -38.332,0 -71.93,24.873 -71.93,53.181 v 1836.1 l 1373,-1159.1 c 28.122,-23.853 63.855,-36.847 100.7,-36.847 h 231.94 c 36.847,0 72.672,12.994 100.8,36.847 l 1373.1,1159.1 v -1836.1 c -0.07,-28.308 -33.691,-53.181 -71.93,-53.181 z m 0,2622.7 h -3035.6 c -260.52,0 -472.51,-203.54 -472.51,-453.67 v -2115.8 c 0,-250.22 211.98,-453.76 472.51,-453.76 h 3035.6 c 260.43,0 472.42,203.54 472.42,453.76 v 2115.8 c 0,250.13 -211.98,453.67 -472.42,453.67"
+             id="path418"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <g
+           transform="matrix(0.93262,0,0,0.93262,121600,-46765)"
+           id="g428"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -73474,64258 c 0,-74.992 -61.071,-136.16 -136.25,-136.16 h -2715 c -75.085,0 -136.16,61.163 -136.16,136.16 v 1609.6 h 2987.4 V 64258 Z m -2506.5,2947.4 c 0,71.93 58.472,130.4 130.59,130.4 71.837,0 130.4,-58.472 130.4,-130.4 v -271.85 c 0,-72.022 -58.565,-130.49 -130.4,-130.49 -72.115,0 -130.59,58.472 -130.59,130.49 z m 1764.5,0 c 0,71.93 58.565,130.4 130.4,130.4 71.929,0 130.49,-58.472 130.49,-130.4 v -271.85 c 0,-72.022 -58.565,-130.49 -130.49,-130.49 -71.837,0 -130.4,58.472 -130.4,130.49 z m 605.69,-76.199 h -127.34 v 76.199 c 0,191.84 -156.02,347.95 -347.95,347.95 -191.84,0 -347.95,-156.11 -347.95,-347.95 v -76.199 h -1068.5 v 76.199 c 0,191.84 -156.11,347.95 -347.86,347.95 -191.94,0 -347.95,-156.11 -347.95,-347.95 v -76.199 h -127.43 c -275.37,0 -499.33,-223.96 -499.33,-499.33 v -2371.8 c 0,-275.37 223.96,-499.33 499.33,-499.33 h 2715 c 275.47,0 499.42,223.96 499.42,499.33 v 2371.8 c 0,275.37 -223.96,499.33 -499.42,499.33"
+             id="path422"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -75617,65376 h 96.711 v -869.56 c 0,-67.567 54.852,-122.51 122.42,-122.51 h 2.414 c 67.474,0 122.51,54.945 122.51,122.51 v 994.48 c 0,67.567 -55.038,122.51 -122.51,122.51 h -221.54 c -67.474,0 -122.42,-54.945 -122.42,-122.51 v -2.413 c 0,-67.475 54.945,-122.51 122.42,-122.51"
+             id="path424"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m -74319,64935 h -41.023 v 93.834 c 0,67.474 -55.038,122.51 -122.6,122.51 h -2.228 c -67.66,0 -122.7,-55.038 -122.7,-122.51 V 64935 h -166.97 l 290.41,504.62 c 21.81,37.682 21.718,84.645 -0.149,122.33 -21.718,37.775 -62.37,61.256 -105.99,61.256 h -2.598 c -43.715,0 -84.367,-23.574 -106.27,-61.441 l -385.82,-671.03 c -10.673,-18.562 -16.335,-39.631 -16.335,-61.163 v -19.491 c 0,-67.567 55.038,-122.42 122.42,-122.42 h 371.34 v -181.45 c 0,-67.567 55.038,-122.51 122.6,-122.51 h 2.317 c 67.567,0 122.6,54.945 122.6,122.51 v 181.45 h 41.023 c 67.568,0 122.51,54.853 122.51,122.42 v 2.413 c 0,67.568 -54.945,122.51 -122.51,122.51"
+             id="path426"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <path
+           d="m 29569,25912 c -68.125,0 -123.35,55.223 -123.35,123.35 0,68.125 55.223,123.35 123.35,123.35 68.217,0 123.35,-55.223 123.35,-123.35 0,-68.124 -55.13,-123.35 -123.35,-123.35 z m -178.66,466.2 h -650.99 v 108.13 c 0,179.41 145.99,325.4 325.49,325.4 179.41,0 325.49,-145.99 325.49,-325.4 v -108.13 z m -829.56,-466.2 c -68.125,0 -123.35,55.223 -123.35,123.35 0,68.125 55.223,123.35 123.35,123.35 68.124,0 123.44,-55.223 123.44,-123.35 0,-68.124 -55.316,-123.35 -123.44,-123.35 z m 1737.2,-1843 -113.88,2199.9 c -3.155,61.163 -53.645,109.24 -114.99,109.24 h -336.08 v 108.13 c 0,368.37 -299.78,668.06 -668.16,668.06 -368.37,0 -668.06,-299.69 -668.06,-668.06 v -108.13 h -336.17 c -61.349,0 -111.84,-48.077 -115.09,-109.24 l -114.16,-2206.1 c -1.581,-31.557 9.745,-62.37 31.556,-85.202 21.626,-22.925 51.882,-35.919 83.439,-35.919 h 2237.1 c 63.669,0 115.18,51.511 115.18,115.18 0,4.083 -0.149,8.167 -0.669,12.065"
+           id="path430"
+           inkscape:connector-curvature="0"
+           style="fill:#ff1300;fill-opacity:0.50588238" />
+        <g
+           transform="matrix(1.279,0,0,1.279,139700,-74898)"
+           id="g434"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m -74853,70275 c -117.22,0 -212.54,95.318 -212.54,212.45 0,117.22 95.319,212.45 212.54,212.45 117.04,0 212.45,-95.226 212.45,-212.45 0,-117.13 -95.411,-212.45 -212.45,-212.45 z m -702.59,0 c -117.13,0 -212.45,95.318 -212.45,212.45 0,117.22 95.319,212.45 212.45,212.45 117.22,0 212.54,-95.226 212.54,-212.45 0,-117.13 -95.318,-212.45 -212.54,-212.45 z m -702.4,0 c -117.13,0 -212.45,95.318 -212.45,212.45 0,117.22 95.318,212.45 212.45,212.45 117.22,0 212.54,-95.226 212.54,-212.45 0,-117.13 -95.318,-212.45 -212.54,-212.45 z m 1668.7,1003 c -259.04,224.61 -602.17,348.32 -966.27,348.32 -364.01,0 -707.14,-123.72 -966.18,-348.32 -264.7,-229.62 -410.6,-536.55 -410.6,-864.27 0,-321.04 143.12,-625.65 396.4,-851.65 -117.41,-203.63 -314.36,-394.55 -316.58,-396.68 -42.973,-41.302 -55.224,-105.16 -30.629,-159.36 22.925,-50.49 73.137,-82.418 127.9,-82.418 3.987,0 8.075,0.186 12.066,0.557 23.574,2.042 568.85,51.233 1042.1,283.82 48.448,-4.547 97.36,-6.775 145.62,-6.775 364.01,0 707.14,123.72 966.18,348.32 264.79,229.62 410.6,536.46 410.6,864.18 0,327.72 -145.81,634.65 -410.6,864.27"
+             id="path432"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+        <path
+           d="m 26277,14133 h -690.12 v 389.06 c 0,190.61 154.45,345.06 345.06,345.06 190.48,0 345.06,-154.45 345.06,-345.06 z m 1124.4,1234.8 -1307.9,1308 c -89.298,89.169 -233.83,89.169 -322.99,0 l -1308,-1308 c -65.27,-65.277 -84.724,-163.46 -49.473,-248.84 35.377,-85.382 118.67,-141 211.1,-141 h 177.17 v -977.87 c 0,-163.19 132.26,-295.32 295.32,-295.32 h 1670.9 c 163.07,0 295.32,132.12 295.32,295.32 v 977.87 h 177.16 c 92.434,0 175.73,55.617 210.98,141 35.379,85.385 15.926,183.56 -49.482,248.84"
+           id="path436"
+           inkscape:connector-curvature="0"
+           style="fill:#ff1300;fill-opacity:0.50588238" />
+        <path
+           d="m 48317,9883.9 -359.21,764.83 c 0,0 196.08,141.77 376.57,-77.679 180.65,-220.18 109.73,-581.4 -17.359,-687.15 z m -183.13,-213.7 c -62.466,-44.615 -623.1,-343.19 -1011.1,77.72 -387.96,420.19 -498.4,878.53 245.28,1700.2 l 196.84,-463.36 c 0,0 -341.22,-314.42 -230.48,-679.21 111.22,-364.82 390.13,-459.79 514.14,-477.78 0,0 -459.1,359.05 -204.52,688.57 118.58,153.27 162.06,23.031 300.23,-268.37 138.03,-291.42 251.96,-532.45 189.57,-577.78 z m -745.86,4059.5 c 561.65,-746.84 -87.958,-1584.4 -87.958,-1584.4 -501.66,1080 87.958,1584.4 87.958,1584.4 z m 985.17,-4102 c 0,0 391.69,322.35 367.2,682.12 -24.563,359.76 -167.63,629.58 -629.21,774.21 -150.97,46.774 -367.43,-3.609 -367.43,-3.609 l -224.75,536.05 c 0,0 492.82,709.46 378.58,1241.2 -167.93,782.83 -519.78,1377.2 -519.78,1377.2 0,0 -560.25,-633.16 -481.97,-1239 50.766,-395.01 112.84,-613.72 274.43,-1062.7 0,0 -686.33,-757.67 -738.73,-1310.3 -59.677,-628.13 214.28,-1083.6 711.83,-1157 590.09,-87.794 1063.1,108.64 1063.1,108.64 0,0 218.25,-233.13 178.49,-599.37 -39.913,-365.51 -415.86,-543.95 -563.81,-421.65 0,0 347.2,197.87 204.59,459.06 -142.59,260.47 -410.9,268.37 -574.03,82.737 -163.07,-184.9 -99.276,-651.87 401.75,-693.62 501.19,-41.717 850.71,535.32 633.79,985.04 -96.555,200.04 -114.08,241.03 -114.08,241.03"
+           id="path438"
+           inkscape:connector-curvature="0"
+           style="fill:#ff1300;fill-opacity:0.50588238" />
+        <g
+           transform="matrix(1.3442,0,0,1.3442,-23072,-11027)"
+           id="g476"
+           style="fill:#ff1300;fill-opacity:0.50588238">
+          <path
+             d="m 41642,18467 c -20,-22 -22,-33 -22,-164 0,-141 0,-142 26,-162 36,-28 79,-27 109,4 24,23 25,29 25,158 0,121 -2,137 -21,161 -27,35 -86,36 -117,3 z"
+             id="path440"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 42059,18471 c -23,-18 -24,-26 -27,-153 -3,-133 -3,-135 23,-166 32,-38 79,-43 113,-12 30,29 34,52 30,190 -3,114 -5,123 -27,141 -30,24 -82,24 -112,0 z"
+             id="path442"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 42515,18465 c -24,-23 -25,-29 -25,-158 0,-132 1,-135 26,-161 34,-33 74,-34 111,-2 27,24 28,27 31,141 2,64 1,128 -2,141 -17,64 -95,86 -141,39 z"
+             id="path444"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 42892,18467 c -20,-22 -22,-33 -22,-164 0,-141 0,-142 26,-162 36,-28 79,-27 109,4 24,23 25,29 25,158 0,121 -2,137 -21,161 -27,35 -86,36 -117,3 z"
+             id="path446"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 41643,17969 c -52,-26 -88,-66 -122,-139 l -26,-55 v -1321 l 26,-49 c 18,-35 39,-59 74,-80 l 48,-30 663,-3 c 644,-2 664,-2 716,18 73,27 130,78 157,140 21,50 22,53 19,673 -3,615 -3,623 -25,669 -29,64 -104,142 -166,173 l -51,25 h -635 c -626,0 -637,0 -678,-21 z m 1320,-172 c 70,-53 67,-20 67,-690 0,-681 7,-625 -80,-647 -31,-7 -231,-10 -653,-8 -589,3 -609,4 -623,22 -12,17 -14,121 -14,642 0,374 4,633 10,648 5,14 18,34 30,46 20,20 26,20 624,18 l 603,-3 z"
+             id="path448"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 41825,17681 c -70,-32 -79,-55 -83,-219 -4,-156 1,-175 47,-170 l 26,3 5,142 c 4,119 8,145 23,160 15,15 42,19 184,23 144,4 167,7 177,23 8,12 8,22 0,35 -10,15 -31,17 -175,19 -142,2 -170,0 -204,-16 z"
+             id="path450"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 40949,17801 c -45,-45 -37,-100 18,-129 13,-7 71,-12 148,-12 120,0 127,1 150,25 15,15 25,36 25,54 0,76 -31,91 -190,91 -121,0 -122,0 -151,-29 z"
+             id="path452"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 43385,17818 c -52,-28 -62,-92 -20,-133 23,-24 30,-25 150,-25 77,0 135,5 148,12 55,29 63,84 18,129 -29,29 -30,29 -153,29 -69,0 -132,-5 -143,-12 z"
+             id="path454"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 40965,17358 c -53,-31 -60,-85 -16,-129 29,-29 30,-29 151,-29 159,0 190,15 190,91 0,18 -10,39 -25,54 -23,24 -29,25 -152,25 -77,0 -136,-5 -148,-12 z"
+             id="path456"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 43365,17345 c -15,-15 -25,-36 -25,-54 0,-76 31,-91 190,-91 121,0 122,0 151,29 45,45 37,100 -18,129 -13,7 -71,12 -148,12 -120,0 -127,-1 -150,-25 z"
+             id="path458"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 40945,16925 c -31,-30 -32,-73 -4,-109 20,-26 21,-26 163,-26 136,0 144,1 164,23 32,34 30,89 -4,116 -24,19 -40,21 -161,21 -129,0 -135,-1 -158,-25 z"
+             id="path460"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 43366,16929 c -35,-27 -36,-86 -3,-117 22,-20 33,-22 164,-22 141,0 142,0 162,26 28,36 27,79 -4,109 -23,24 -29,25 -158,25 -121,0 -137,-2 -161,-21 z"
+             id="path462"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 40949,16551 c -45,-45 -37,-100 18,-129 13,-7 71,-12 148,-12 120,0 127,1 150,25 15,15 25,36 25,54 0,76 -31,91 -190,91 -121,0 -122,0 -151,-29 z"
+             id="path464"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 43385,16568 c -52,-28 -62,-92 -20,-133 23,-24 30,-25 150,-25 77,0 135,5 148,12 55,29 63,84 18,129 -29,29 -30,29 -153,29 -69,0 -132,-5 -143,-12 z"
+             id="path466"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 41646,16139 c -26,-20 -26,-21 -26,-163 0,-136 1,-144 23,-164 34,-32 89,-30 116,4 19,24 21,40 21,161 0,129 -1,135 -25,158 -30,31 -73,32 -109,4 z"
+             id="path468"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 42055,16128 c -26,-31 -26,-33 -23,-166 3,-127 4,-135 27,-153 30,-24 82,-24 112,0 22,18 24,27 27,141 4,138 0,161 -30,190 -34,31 -81,26 -113,-12 z"
+             id="path470"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 42516,16134 c -25,-26 -26,-29 -26,-161 0,-129 1,-135 25,-158 46,-47 124,-25 141,39 3,13 4,77 2,141 -3,114 -4,117 -31,141 -37,32 -77,31 -111,-2 z"
+             id="path472"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+          <path
+             d="m 42896,16139 c -26,-20 -26,-21 -26,-163 0,-136 1,-144 23,-164 34,-32 89,-30 116,4 19,24 21,40 21,161 0,129 -1,135 -25,158 -30,31 -73,32 -109,4 z"
+             id="path474"
+             inkscape:connector-curvature="0"
+             style="fill:#ff1300;fill-opacity:0.50588238" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

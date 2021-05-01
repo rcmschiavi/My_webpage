@@ -3,7 +3,7 @@
 {% load static %}
 <html>
 	<head>
-		<title>Rodolfo Schiavi's page</title>
+		<title>Rodolfo Schiavi's portfolio</title>
 		<link rel="shortcut icon" href="/static/images/favicon.png"/>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
@@ -26,13 +26,14 @@
 					<ul>
 						<li><a href="/">Home</a></li>
 						<li>
-							<a href="" class="icon fa-angle-down">Projects</a>
+							<a href="" class="icon fa-angle-down">Portfolio</a>
 							<ul>
-								<li><a href="application/temperature_chart">Temperature chart</a></li>
-								<li><a href="application/my_plant">My plant</a></li>
+								<li><a href="/portfolio/category/SoftwareEngineering">Software Engineering</a></li>
+								<li><a href="/portfolio/category/Robotics">Robotics</a></li>
+								<li><a href="/portfolio/category/IoT">IoT</a></li>
 							</ul>
 						</li>
-						<li><a href="/blog">Blog</a></li>
+						<li><a href="/portfolio">Contact</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -41,81 +42,99 @@
 			<section id="banner">
 				<div class="inner">
 					<h2>Rodolfo Schiavi</h2>
-					<p>Webpage under construction</p>
+					<p>My portfolio webpage</p>
 					<ul class="actions">
-						<li><a href="#one" class="button big scrolly">Know more</a></li>
+						<li><a href="#about-me" class="button big scrolly">Know more</a></li>
 					</ul>
 				</div>
 			</section>
 
 		<!-- One -->
-			<section id="one" class="wrapper style1">
+			<section id="about-me" class="wrapper style1">
 				<div class="container">
 					<header class="major">
-						<h2>About the page</h2>
-						<p>I'm an almost Mechatronics Engineer and on this page I'll post some of my work.</p>
+						<h2>About me</h2>
+						<p>I'm a technology lover and I've been studying it since I know my self as a person.
+							During college I starterd working and developing projects related to Robotics, Software Engineering and IoT. <br>
+							In this Django page I posted some of the projects that worked on.
+						</p>
 					</header>
-					<div class="slider">
-						<span class="nav-previous"></span>
-						<div class="viewer">
-							<div class="reel">
-								<div class="slide">
-									<a href="temperature_chart"><img class="fit article img" src="{% static 'images/pic_slide01.jpg' %}" alt="" /></a>
-								</div>
-								<div class="slide">
-									<img class="fit article img" src="{% static 'images/pic_slide02.png' %}" alt="" />
-								</div>
-							</div>
-						</div>
-						<span class="nav-next"></span>
-					</div>
 				</div>
 			</section>
 
 
 		<!-- Three -->
-			<section id="three" class="wrapper style2">
+			<section id="portfolio" class="wrapper style2">
 				<div class="container">
 					<header class="major">
-						<h2>Projects</h2>
-						<p>I'll post some projects involving IoT on this page.</p>
+						<h2>Portfolio</h2>
+						<p>I have a multidisciplinary knowledge with focus in software engineering and automation. <br>
+							If you wanna know more about some projects in a certain field, you can access it below.
+						</p>
 					</header>
 					<div class="row">
 						<div class="4u 6u(2) 12u$(3)">
 							<article class="box post">
-								<a href="application/temperature_chart" class="image fit" style="border: 1px solid #cfcfcf;"><img class="fit article img" src="{% static 'images/temperature_chart_img.png' %}" alt="" /></a>
-								<h3>Temperature dashboard</h3>
-								<p> In this project, I implemented a IoT device to collect temperature data and integrated it with a database to plot some beautiful charts. </p>
+								<a href="/portfolio/category/SoftwareEngineering" class="image fit"><img class="fit article img" src="{% static 'images/coding.png' %}" alt="" /></a>
+								<h3>Software Engineering</h3>
+								<p> In order to give life to robotics and electronics, I started learning code at college. Later that need became a passion.<br> </p>
 								<ul class="actions">
-									<li><a href="application/temperature_chart" class="button" style="margin-top:15px">See More</a></li>
+									<li><a href="/portfolio/category/SoftwareEngineering" class="button" style="margin-top:15px">See More</a></li>
 								</ul>
 							</article>
 						</div>
 						<div class="4u 6u(2) 12u$(3)">
 							<article class="box post">
-								<a  href="application/my_plant" class="image fit" style="border: 1px solid #cfcfcf;"><img class="fit article img" src="{% static 'images/agriculture/home_banner.png' %}" alt="" /></a>
-								<h3>Plant sensing</h3>
-								<p> I added some sensors to my plant to make it talk to me when it needs water.<br> </p>
+								<a href="/portfolio/category/Robotics" class="image fit"><img class="fit article img" src="{% static 'images/robot.png' %}" alt="" /></a>
+								<h3>Robotics</h3>
+								<p> Projects that I worked and content related to robotics and automation. </p>
 								<ul class="actions">
-									<li><a href="application/my_plant" class="button" style="margin-top:15px">See More</a></li>
+									<li><a href="/portfolio/category/Robotics" class="button" style="margin-top:15px">See More</a></li>
 								</ul>
 							</article>
 						</div>
 						<div class="4u 6u(2) 12u$(3)">
 							<article class="box post">
-								<a class="image fit" style="border: 1px solid #cfcfcf;"><img class="fit article img" src="{% static 'images/coming_soon.png' %}" alt="" /></a>
-								<h3>Upcoming</h3>
-								<p> An old air conditioner without remote control being turned on with MQTT.<br> </p>
+								<a  href="/portfolio/category/IoT" class="image fit"><img class="fit article img" src="{% static 'images/iot.png' %}" alt="" /></a>
+								<h3>IoT</h3>
+								<p> A few projects and content related to data acquisition and data analysis with IoT.  </p>
 								<ul class="actions">
-									<li><a class="button" style="margin-top:15px">See More</a></li>
+									<li><a href="/portfolio/category/IoT" class="button" style="margin-top:15px">See More</a></li>
 								</ul>
 							</article>
 						</div>
+						
 					</div>
 				</div>
 			</section>
 
+			<!-- One -->
+			<section id="spotlight" class="wrapper style2">
+				<div class="container">
+					<header class="major">
+						<h2>Spotlight</h2>
+						<p>Here the projects I worked that have a special place in my starting carrer.</p>
+					</header>
+				</div>
+				<div class="slider">
+					<div class="viewer">
+						<div class="reel">
+							<div class="slide">
+								<a href="temperature_chart"><img class="fit article img" src="{% static 'images/pic_slide01.jpg' %}" alt="" /></a>
+							</div>
+							<div class="slide">
+								<img class="fit article img" src="{% static 'images/pic_slide02.png' %}" alt="" />
+							</div>
+						</div>
+					</div>
+					<span class="nav-previous"></span>
+					<span class="nav-next"></span>
+				</div>
+			</section>
+
 		<!-- Footer -->
+		<br>
+			<h3>Me on the internet</h3>
 		<div id="footer" style="margin-right:50px"></div>
 	</body>
 <script>

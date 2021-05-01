@@ -20,39 +20,29 @@
 	</head>
 	<body>
 
-		<!-- Header -->
-			<header id="header" class="skel-layers-fixed">
-				<nav id="nav" style="margin-right:50px">
-					<ul>
-						<li><a href="/">Home</a></li>
-						<li>
-							<a href="" class="icon fa-angle-down">Projects</a>
-							<ul>
-								<li><a href="/application/temperature_chart">Temperature chart</a></li>
-								<li><a href="/application/my_plant">My plant</a></li>
-							</ul>
-						</li>
-						<li><a href="/blog">Blog</a></li>
-						<!--
-						<li>
-							<a href="" class="icon fa-angle-down">Language</a>
-							<ul>
-								<li><a class="lan_text" href='javascript:changePt()'><img alt="PT" class="lan_img" src="static/images/icons/brazil.png">Português</a></li>
-						  		<li><a class="lan_text" href='javascript:changeEn()'><img alt='EN' class="lan_img" src="static/images/icons/usa.png">English</a></li>
-							</ul>
-						</li>
-						-->
-
-
-					</ul>
-				</nav>
-			</header>
+<!-- Header -->
+<header id="header" class="skel-layers-fixed">
+	<nav id="nav" style="margin-right:50px">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li>
+				<a href="" class="icon fa-angle-down">Portfolio</a>
+				<ul>
+					<li><a href="/portfolio/category/SoftwareEngineering">Software Engineering</a></li>
+					<li><a href="/portfolio/category/Robotics">Robotics</a></li>
+					<li><a href="/portfolio/category/IoT">IoT</a></li>
+				</ul>
+			</li>
+			<li><a href="/portfolio">Contact</a></li>
+		</ul>
+	</nav>
+</header>
 
 		<!-- Main -->
 			<section id="main" class="wrapper style1">
 				<header class="major">
 					<h2>{% block title %}{% endblock %}</h2>
-					<h4 style="color:#842407;">{% block description %}{% endblock %}</h4>
+					<p>{% block description %}{% endblock %}</p>
 				</header>
 				<div class="container">
 
@@ -66,16 +56,19 @@
 			</section>
 
 		<!-- Footer -->
-			<footer id="footer">
-				<ul class="icons">
-					<li><a href="https://github.com/rcmschiavi"  target="_blank" class="icon fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="https://www.instagram.com/rodolfoschiavi/"  target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="https://www.facebook.com/rodolfo.schiavi.3"  target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-				</ul>
-				<span class="copyright">
-					&copy; Copyright. All rights reserved. Design by <a target="_blank" href="http://www.html5webtemplates.co.uk">Responsive Web Templates</a><p>Images downloaded in <a target="_blank" href ="https://pixabay.com/">PixaBay</a></p>
-				</span>
-			</footer>
+		<h3>Me on the internet</h3>
+	<div id="footer" style="margin-right:50px"></div>
+		<footer id="footer">
+			<ul class="icons">
+				<li><a href="https://github.com/rcmschiavi"  target="_blank" class="icon fa-github"><span class="label">GitHub</span></a></li>
+				<li><a href="https://www.linkedin.com/in/rodolfo-schiavi/"  target="_blank" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+				<li><a href="https://www.instagram.com/rodolfoschiavi/"  target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="https://www.facebook.com/rodolfo.schiavi.3"  target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+			</ul>
+			<span class="copyright">
+				Template inspired by <a target="_blank" href="http://www.html5webtemplates.co.uk">Responsive Web Templates</a> and Images from <a target="_blank" href ="https://pixabay.com/">PixaBay</a></p>
+			</span>
+		</footer>
 
 	</body>
 {% block script %}
