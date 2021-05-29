@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'main_pages',
     'applications',
     'blog_dev',
+    'pedidos',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

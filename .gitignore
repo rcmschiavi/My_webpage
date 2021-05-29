@@ -10,3 +10,4 @@
 .vscode/
 db-backup-2021.sql
 certificates/
+blog_dev/migrations/
