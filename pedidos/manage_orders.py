@@ -47,3 +47,19 @@ def create_order(client_id):
 
 def list_orders_clients(client_id):
     order = Order.objects.filter(ID=client_id)
+
+def list_clients():
+    clients = list(Client.objects.values_list('name', flat=True).all())
+    return clients
+
+def list_products():
+    products = list(Product.objects.values_list('name', 'sugested_price','multiplier'))
+    details_list = []
+    for product in products:
+        details = {
+            "item": product[0],
+            "suggested_price": float(product[1]),
+            "multiplier": product[2]
+        }
+        details_list.append(details)
+    return details_list
