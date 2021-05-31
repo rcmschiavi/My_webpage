@@ -10,4 +10,4 @@ def application_page(request):
         'products': products
     }
     print(context)
-    return render(request, 'static/pedidos/index.html', context)
+    return render(request, 'pedidos/index.html', context)

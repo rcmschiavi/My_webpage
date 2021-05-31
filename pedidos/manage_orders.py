@@ -49,17 +49,33 @@ def list_orders_clients(client_id):
     order = Order.objects.filter(ID=client_id)
 
 def list_clients():
-    clients = list(Client.objects.values_list('name', flat=True).all())
-    return clients
+    clients = list(Client.objects.values_list('id','name'))
+    details_list = []
+    for client in clients:
+        details = {
+            "id": client[0],
+            "name": client[1]
+        }
+        details_list.append(details)
+    return details_list
+
+def get_return_rate_values(suggested_price):
+    great = suggested_price + 0.01
+    good = round(0.9*suggested_price, 2)
+    poor = good-0.01
+    return great, good, poor
 
 def list_products():
-    products = list(Product.objects.values_list('name', 'sugested_price','multiplier'))
+    products = list(Product.objects.values_list('name', 'sugested_price','multiplier', 'id'))
     details_list = []
     for product in products:
+        return_rate = get_return_rate_values(float(product[1]))
         details = {
             "item": product[0],
             "suggested_price": float(product[1]),
-            "multiplier": product[2]
+            "multiplier": product[2],
+            "return_rate": {"great":return_rate[0], "good":return_rate[1], "poor":return_rate[2]},
+            "id": product[3]
         }
         details_list.append(details)
     return details_list
