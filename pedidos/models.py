@@ -41,6 +41,7 @@ class OrderDetails(models.Model):
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
     order = models.ForeignKey(Order, on_delete=models.CASCADE)
     amount = models.PositiveIntegerField()
+    price = models.DecimalField(max_digits=10, decimal_places=2)
     class Meta:
        managed = True
        db_table = 'order_details'
