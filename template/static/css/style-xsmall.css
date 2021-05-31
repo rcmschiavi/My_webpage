@@ -12,6 +12,7 @@
 
 	body, input, select, textarea {
 		font-size: 12pt;
+		width: 50px;
 	}
 
 /* List */
