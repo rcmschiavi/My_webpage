@@ -6,6 +6,20 @@ On the previous repository I commited the django's project secret_key and that i
 
 Thus, I'll use this repository to version control the webpage creation. 
 
+## Applications
+
+### Pedidos
+
+This application was developed as a test for a Django position.
+
+You can check the app [here](https://rodolfoschiavi.pythonanywhere.com/portfolio/app/pedidos).
+
+Database diagram: 
+![data_base_diagram](docs/pedidos_models.png)
+
+The diagram was generated using pydotplus. For [more details](https://simpleit.rocks/python/django/generate-uml-class-diagrams-from-django-models/)
+
+
 ## Good practices
 
 - Update the requirements when installing new packages:
