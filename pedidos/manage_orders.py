@@ -16,7 +16,7 @@ def get_order(order_id):
         details_list.append(details)
     return details_list
 
-def add_item_order(item_id, order_id, amount):
+def add_item_order(item_id, order_id, amount, price):
     """ Função que servirá para adicionar itens 
         pelo usuário na interface
         Aqui é verificado se a quantidade do item é multiplo do que foi estipulado
@@ -25,7 +25,7 @@ def add_item_order(item_id, order_id, amount):
     multiplier = product.multiplier
     if(amount%multiplier==0):
         order = Order.objects.get(id=order_id)
-        OrderDetails.objects.create(order = order, product=product, amount = amount)
+        OrderDetails.objects.create(order = order, product=product, amount = amount, price = price)
         return True
     else:
         return False
@@ -38,7 +38,6 @@ def remove_item_order(item_id, order_id):
 def edit_item_amount(item_id, order_id):
     product = Product.objects.get(id=item_id)
     order = Order.objects.get(id=order_id)
-    # Criar depois de implementar testes
 
 def create_order(client_id):
     order = Order(client_id=client_id)
@@ -47,6 +46,16 @@ def create_order(client_id):
 
 def list_orders_clients(client_id):
     order = Order.objects.filter(ID=client_id)
+
+def list_orders():
+    orders = list(Order.objects.all().values().order_by("id"))
+    print(orders)
+    return orders
+
+
+def list_detailed_orders():
+    # TODO gerar lista com detalhes dos pedidos
+    return False
 
 def list_clients():
     clients = list(Client.objects.values_list('id','name'))

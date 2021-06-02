@@ -61,19 +61,28 @@ td{
 #profile-pic{
     margin-bottom:20px;
 }
-table tr.bad{
+
+table tbody tr:nth-child(2n){
+    background-color: #0084ff69 !important ;
+}
+
+table tbody tr:nth-child(2n + 1){
+    background-color: #0084ff44 !important ;
+}
+
+table tbody tr.bad:nth-child(2n){
     background-color: #ff130069 !important ;
 }
 
-table tr.bad:nth-child(2n + 1){
+table tbody tr.bad:nth-child(2n + 1){
     background-color: #ff110044 !important ;
 }
 
-table tr.great{
+table tbody tr.great:nth-child(2n){
     background-color: #33ff0069 !important ;
 }
 
-table tr.great:nth-child(2n + 1){
+table tbody tr.great:nth-child(2n + 1){
     background-color: #33ff0044 !important ;
 }
 

@@ -34,7 +34,7 @@ class Order(models.Model):
        managed = True
        db_table = 'order'
     def __str__(self):
-        return "Order ID: " + str(self.ID)
+        return "Order ID: " + str(self.id)
 
 
 class OrderDetails(models.Model):

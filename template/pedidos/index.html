@@ -16,8 +16,7 @@
 		<script src="/static/js/skel-layers.min.js"></script>
 		<script src="/static/js/init.js"></script>
 
-		<script src="/static/js/applications/chart_day.js" type="text/javascript"></script>
-		<script src="/static/pedidos/js/main.js" type="text/javascript"></script>
+		<script src="/static/pedidos/js/criarPedido.js" type="text/javascript"></script>
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<link href="/static/pedidos/css/style.css" rel="stylesheet"></style>
 
@@ -64,7 +63,7 @@
                             <div class="tab">
                                 <button class="tablinks active" onclick="openTab(event, 'create')">Criar pedido</button>
                                 <button class="tablinks" onclick="openTab(event, 'edit')">Editar pedidos</button>
-                                <button class="tablinks" onclick="openTab(event, 'summary')">Resumo</button>
+                                <button class="tablinks" onclick="openTab(event, 'summary')">Resultados</button>
 							</div>
                               
 							<div id="create" class="tabcontent active" style="display: block;">
@@ -72,34 +71,35 @@
 							<h4>Selecione o cliente:</h4>
 								<div class="w3-card-4">
 									<img id="profile-pic" class="w3-border w3-padding" style="max-height: 200px;" src="/static/pedidos/images/clients/dart.jpg" alt="">
-									<select name="select-client" id="select-client" class="select" onchange="onSelectionChange()"></select>
+									<select name="select-client" id="select-client" class="select" onchange="onSelectClientChange()"></select>
 								</div>
 							</br>
+
 							<h4>Adicione os itens:</h4>
-								<table>
-									<thead>
-										<tr>
-											<th>Item</th>
-											<th>Preço</th>
-											<th>Quantidade</th>
-											<th>Rentabilidade</th>
-										</tr>
-									</thead>
-									<tbody id="list-products" >
-										
-									</tbody>
-								</table>
-                                <button class="button special fit" onclick="validateOrder(event)">Finalizar pedido</button>
-								
+									<table>
+										<thead>
+											<tr>
+												<th>Item</th>
+												<th>Preço</th>
+												<th>Quantidade</th>
+												<th>Rentabilidade</th>
+											</tr>
+										</thead>
+										<tbody id="list-products" >
+											
+										</tbody>
+									</table>
+									<button class="button special fit" onclick="createOrder()">Finalizar pedido</button>
 							</div>
 							
 							<div id="edit" class="tabcontent">
 							<h3>Editar pedidos</h3>
-							<p>Paris is the capital of France.</p> 
+								<select name="select-order" id="select-order" class="select" onchange="onSelectOrderChange()"></select>
+
 							</div>
 							
 							<div id="summary" class="tabcontent">
-							<h3>Resumo dos pedidos</h3>
+							<h3>Resultados financeiros</h3>
 							<p>Tokyo is the capital of Japan.</p>
 							</div>
 						</section>
@@ -127,8 +127,9 @@
 
 <script>
     var clientes = {{clientsList | safe}};
-    var produtos = {{products | safe}}    
-    load_itens(clientes, produtos)
+    var produtos = {{products | safe}}
+	var pedidos = {{orders | safe}}
+    loadData(clientes, produtos, pedidos)
 </script>
 
 </html>
