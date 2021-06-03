@@ -1,29 +1,20 @@
 var clientes
 var produtos
-var pedidos
+
 var orderRegistered = false;
+/* Salvar o nome das imagens como uma coluna no respectivo item pode ser interessante*/
 image_list = ["milenium.svg","x-wing.svg", "death-star-bold.svg", "TIE_fighter.svg", "lightsaber.svg", "dlt-19.png", "DL-44.png"] 
 profilePicList = ["dart.jpg","obiwan.jpg", "luke.png", "palpatine.jpg", "solo.png"]
 returnRatePics = ["bad_rate.png", "good_rate.jpg", "great_rate.jpeg"]
 
-function openTab(evt, tabName) {
-    var i, tabcontent, tablinks;
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-    }
-    tablinks = document.getElementsByClassName("tablinks");
-    for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-    }
-    document.getElementById(tabName).style.display = "block";
-    evt.currentTarget.className += " active";
-}
-
-function loadData(clientes, produtos, pedidos){
+function loadData(clientes, produtos){
+    /* Popula os elementos com as informações enviadas pelo Django na interface 
+        - Popula a lista de seleção de clientes
+        - Cria a tabela com os itens e imagens referentes
+    */
     clientes = clientes
     produtos = produtos
-    pedidos = pedidos
+
 
     var select = document.getElementById('select-client');
     select.innerHTML = ""
@@ -31,50 +22,52 @@ function loadData(clientes, produtos, pedidos){
         var option = '<option value="'+ i + '" >' + clientes[i-1].name + '</option>';
         select.insertAdjacentHTML( 'beforeend', option );
     }
-    var table = document.getElementById('list-products');
-    table.innerHTML = ""
+    var tableElement = document.getElementById('list-products');
+    tableElement.innerHTML = ""
     for (var i = 1; i <= produtos.length; i++) {
-        var option = '<tr id="product-row-'+ String(i) + '"><td><img style="max-height: 200px;" src="/static/pedidos/images/products/' + image_list[i-1] +'" alt="">'+produtos[i-1].item+'</td><td><input class="w3-input points" type="number" id="price-input-'+ i +'" name="item-'+produtos[i-1].id+'-price"" step="0.01" value="'+produtos[i-1].suggested_price+'" onchange="checkReturnRate('+ produtos[i-1].id +','+ i + ')"></td><td><input class="w3-input points" onkeydown="return false;" type="number" id="points" name="item-'+produtos[i-1].id+'-amount" step="'+produtos[i-1].multiplier+'" value="0" min="0"></td><td><img class="img-rate" id=return-rate-img-' +String(i) + ' src="/static/pedidos/images/extras/good_rate.jpg" alt=""><h6 id=return-rate-text-' +String(i) + '>Boa!</h6></td></tr>';
-        table.insertAdjacentHTML( 'beforeend', option );
-        checkReturnRate(produtos[i-1].id, i)
+        var image = '<img style="max-height: 200px;" src="/static/pedidos/images/products/' + image_list[i-1] +'" alt="">';
+        var imageTextCell = '<td>'+image+produtos[i-1].item+'</td>'
+        var priceCell = '<td><input class="w3-input points" type="number" id="price-input-'+ i +'" name="item-'+produtos[i-1].id+'-price"" step="0.01" value="'+produtos[i-1].suggested_price+'" onchange="checkReturnRate('+ i + ')"></td>'
+        var amountCell = '<td><input class="w3-input points" onkeydown="return false;" type="number" id="points" name="item-'+produtos[i-1].id+'-amount" step="'+produtos[i-1].multiplier+'" value="0" min="0"></td>'
+        var returnRateCell = '<td><img class="img-rate" id=return-rate-img-' +String(i) + ' src="/static/pedidos/images/extras/good_rate.jpg" alt=""><h6 id=return-rate-text-' +String(i) + '>Boa!</h6></td>'
+        var table = '<tr id="product-row-'+ String(i) + '">'+ imageTextCell + priceCell + amountCell + returnRateCell + '</tr>';
+        
+        tableElement.insertAdjacentHTML( 'beforeend', table );
+        checkReturnRate(i)
     }
-    var select = document.getElementById('select-order');
-    select.innerHTML = ""
-    for (var i = 1; i <= pedidos.length; i++) {
-        var option = '<option value="'+ i + '" >Pedido ' + pedidos[i-1].id + '</option>';
-        select.insertAdjacentHTML( 'beforeend', option );
-    }
+
 }
 
 function onSelectClientChange(){
+    /* Altera a imagem de perfil para adequar ao cliente selecionado */
     var image = document.getElementById('profile-pic');
     var select = document.getElementById('select-client');
     image.src = "/static/pedidos/images/clients/"+ profilePicList[select.value-1]
 }
 
-function checkReturnRate(item_id, product_row){
-    
-    var image_cell_rate = document.getElementById('return-rate-img-'+String(product_row));
-    var return_rate_text = document.getElementById('return-rate-text-'+String(product_row));
-    var price = parseFloat(document.getElementById('price-input-'+String(product_row)).value);
-    var product_row_component = document.getElementById('product-row-'+String(product_row));
-    if(price >= produtos[product_row - 1].return_rate.great){
-        image_cell_rate.src = "/static/pedidos/images/extras/"+ returnRatePics[2];
-        return_rate_text.innerHTML = "Rentabilidade ótima!";
-        product_row_component.className = "great"
+function checkReturnRate(productRow){
+    /* Verifica a categoria de rentabilidade e aplica as propriedades para distinguir */
+
+    var imageCellRate = document.getElementById('return-rate-img-'+String(productRow));
+    var returnRateText = document.getElementById('return-rate-text-'+String(productRow));
+    var price = parseFloat(document.getElementById('price-input-'+String(productRow)).value);
+    var productRowComponent = document.getElementById('product-row-'+String(productRow));
+    if(price >= produtos[productRow - 1].return_rate.great){
+        imageCellRate.src = "/static/pedidos/images/extras/"+ returnRatePics[2];
+        returnRateText.innerHTML = "Rentabilidade ótima!";
+        productRowComponent.className = "great"
     }
-    else if(price >= produtos[product_row - 1].return_rate.good){
-        image_cell_rate.src = "/static/pedidos/images/extras/"+ returnRatePics[1];
-        return_rate_text.innerHTML = "Rentabilidade boa!";
-        product_row_component.className = ""
+    else if(price >= produtos[productRow - 1].return_rate.good){
+        imageCellRate.src = "/static/pedidos/images/extras/"+ returnRatePics[1];
+        returnRateText.innerHTML = "Rentabilidade boa!";
+        productRowComponent.className = ""
     }
     else{
-        image_cell_rate.src = "/static/pedidos/images/extras/"+ returnRatePics[0];
-        return_rate_text.innerHTML = "Rentabilidade ruim!";
-        product_row_component.className = "bad"
+        imageCellRate.src = "/static/pedidos/images/extras/"+ returnRatePics[0];
+        returnRateText.innerHTML = "Rentabilidade ruim!";
+        productRowComponent.className = "bad"
     }
     
-    console.log(produtos[product_row-1].return_rate, price);
 }
 
 function createOrder(){
@@ -90,7 +83,7 @@ function createOrder(){
     onkeydown="return false;".
 
         Caso o usuário tente alterar a requisição, o manage_orders.py possui regras para impedir a 
-    inserção do item no db. 
+    inserção do item fora do padrão no db. 
 
         Idealmente deveria ser realizada uma requisição com forms, para o backend validar os itens inseridos
     e retornar se a operação foi concluída ou possui erros e informar o usuário.
@@ -122,7 +115,6 @@ function createOrder(){
             var select = document.getElementById('select-client');
             var client = clientes[select.value-1];
             var csrftoken = getCookie('csrftoken');
-            console.log("cookie",csrftoken)
             $.ajax({
                 url:'save_order',
                 type: "POST",

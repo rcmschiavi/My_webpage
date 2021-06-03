@@ -1,4 +1,14 @@
+"""
+Idealmente para padronização com as ferramentas do Django 
+deveria ter sido utilizado serializers para realizar as queries e reformatar os dados
+Mas devido o pouco tempo disponível, optei por simplificar as coisas realizando manualmente
+
+https://docs.djangoproject.com/en/3.2/topics/serialization/
+
+"""
+
 from pedidos.models import Client, Product, Order, OrderDetails
+
 
 
 def get_order(order_id):
@@ -7,11 +17,15 @@ def get_order(order_id):
     """
     order = Order.objects.get(id=order_id)
     products = order.orderdetails_set.all().values().order_by("id")
+    print(products)
     details_list = []
     for product in products:
         details = {
             "item": Product.objects.get(id=product["product_id"]).name,
-            "amount": product["amount"]
+            "amount": product["amount"],
+            "price": float(product['price']),
+            "product_id": product['product_id'],
+            "item_order_id": product['id']
         }
         details_list.append(details)
     return details_list
@@ -35,6 +49,10 @@ def remove_item_order(item_id, order_id):
     order = Order.objects.get(id=order_id)
     order.products.remove(product)
 
+def remove_item_order_by_id(item_order_id):
+    order_item = OrderDetails.objects.get(id = item_order_id)
+    order_item.delete()
+
 def edit_item_amount(item_id, order_id):
     product = Product.objects.get(id=item_id)
     order = Order.objects.get(id=order_id)
@@ -49,13 +67,29 @@ def list_orders_clients(client_id):
 
 def list_orders():
     orders = list(Order.objects.all().values().order_by("id"))
-    print(orders)
+    return orders
+
+def list_detailed_orders():
+    orders = list(Order.products.through.objects.all().values())
+    for order in orders:
+        order['price'] = float(order['price'])
     return orders
 
 
-def list_detailed_orders():
-    # TODO gerar lista com detalhes dos pedidos
-    return False
+def list_detailed_order_formated():
+    orders = list_orders()
+    details_list = []
+    for order in orders:
+        details = {
+            "order_id": order['id'],
+            "client_id": order['client_id'],
+            "state": order['state'],
+            "order_details": get_order(order['id']),
+        }
+        details_list.append(details)
+    print(details_list)
+    return details_list
+
 
 def list_clients():
     clients = list(Client.objects.values_list('id','name'))

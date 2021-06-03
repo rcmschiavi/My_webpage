@@ -24,17 +24,22 @@ class Product(models.Model):
        db_table = 'product'
     def __str__(self):
         return self.name
+    
+    def price(self):
+        return float(self.sugested_price)
 
 
 class Order(models.Model):
     id = models.AutoField(primary_key=True)
     client = models.ForeignKey(Client, on_delete=models.CASCADE)
     products = models.ManyToManyField(Product, through="OrderDetails")
+    state = models.TextField(default="Ativo")
     class Meta:
        managed = True
        db_table = 'order'
     def __str__(self):
         return "Order ID: " + str(self.id)
+
 
 
 class OrderDetails(models.Model):
