@@ -1,6 +1,6 @@
 # O repositório
 
-Esse arquivo é destinado à equipe técnica da Mercus.
+Esse arquivo é destinado à equipe técnica da Mercos.
 
 Criei esse repositório para desenvolver minha página de portfólio e tenho implementado algumas coisas no meu tempo livre.
 Desenvolvi algumas aplicações de IoT com aquisição de dados de sensores, e no momento estou organizando o frontend da página
