@@ -67,7 +67,7 @@ My_webpage
 
 Diagrama do banco de dados: 
 
-![data_base_diagram](docs/pedidos_models.png)
+![data_base_diagram](/docs/pedidos_models.png)
 
 # TODO
 
